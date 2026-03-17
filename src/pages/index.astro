@@ -430,10 +430,8 @@ function formatTime(timestamp) {
             } else {
               pageNum = currentPage - 2 + i;
             }
-            return (
-              <a href={`?page=${pageNum}`} class={`page-btn ${pageNum === currentPage ? 'active' : ''}`}>{pageNum}</a>
-            );
-          })}
+            return <a href={`?page=${pageNum}`} class={`page-btn ${pageNum === currentPage ? 'active' : ''}`}>{pageNum}</a>;
+          }).map(btn => btn)}
           
           <a href={`?page=${Math.min(totalPages, currentPage + 1)}`} class="page-btn" disabled={currentPage >= totalPages}>下一页</a>
           
