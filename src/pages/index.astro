@@ -1,16 +1,28 @@
 ---
-// 每日博客首页
+// 每日博客首页 - 支持翻页和历史记录
 import dailyData from '../data/daily.json';
+import allData from '../data/all.json';
 
-const { weather, news, skills } = dailyData;
-const today = new Date().toLocaleDateString('zh-CN', { 
-  year: 'numeric', 
-  month: 'long', 
-  day: 'numeric',
-  weekday: 'long'
-});
+const { days, usedSkills } = allData;
+const today = new Date().toISOString().split('T')[0];
+
+// 获取当前页码
+const currentPage = parseInt(Astro.url.searchParams.get('page') || '1');
+const itemsPerPage = 5;
+const totalPages = Math.ceil(days.length / itemsPerPage);
+const paginatedDays = days.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
 
 // 格式化日期时间
+function formatDate(dateStr) {
+  const date = new Date(dateStr);
+  return date.toLocaleDateString('zh-CN', { 
+    year: 'numeric', 
+    month: 'long', 
+    day: 'numeric',
+    weekday: 'long'
+  });
+}
+
 function formatTime(timestamp) {
   return new Date(timestamp * 1000).toLocaleTimeString('zh-CN', {
     hour: '2-digit',
@@ -22,7 +34,7 @@ function formatTime(timestamp) {
 <html lang="zh-CN">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Daily Skill - 每日技能推荐</title>
     <style>
       * {
@@ -36,7 +48,8 @@ function formatTime(timestamp) {
         background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
         min-height: 100vh;
         color: #fff;
-        padding: 2rem;
+        padding: 1rem;
+        padding-bottom: 5rem;
       }
       
       .container {
@@ -46,11 +59,12 @@ function formatTime(timestamp) {
       
       header {
         text-align: center;
-        margin-bottom: 3rem;
+        margin-bottom: 2rem;
+        padding: 1rem 0;
       }
       
       h1 {
-        font-size: 2.5rem;
+        font-size: 2rem;
         background: linear-gradient(90deg, #00d4ff, #7b2ff7);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -60,37 +74,70 @@ function formatTime(timestamp) {
       
       .date {
         color: #888;
-        font-size: 1.1rem;
+        font-size: 0.95rem;
       }
       
-      .card {
+      .stats {
+        display: flex;
+        justify-content: center;
+        gap: 1.5rem;
+        margin-top: 0.5rem;
+        flex-wrap: wrap;
+      }
+      
+      .stat-item {
+        font-size: 0.85rem;
+        color: #aaa;
+      }
+      
+      .stat-item span {
+        color: #00d4ff;
+        font-weight: bold;
+      }
+      
+      /* Day Card */
+      .day-card {
         background: rgba(255, 255, 255, 0.05);
         border-radius: 16px;
-        padding: 1.5rem;
+        padding: 1.2rem;
         margin-bottom: 1.5rem;
         backdrop-filter: blur(10px);
         border: 1px solid rgba(255, 255, 255, 0.1);
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
       }
       
-      .card:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
-      }
-      
-      .card-title {
-        font-size: 1.3rem;
+      .day-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
         margin-bottom: 1rem;
+        padding-bottom: 0.8rem;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      }
+      
+      .day-date {
+        font-size: 1.1rem;
+        font-weight: bold;
+        color: #00d4ff;
+      }
+      
+      .section {
+        margin-bottom: 1.2rem;
+      }
+      
+      .section:last-child {
+        margin-bottom: 0;
+      }
+      
+      .section-title {
+        font-size: 0.95rem;
+        margin-bottom: 0.6rem;
         display: flex;
         align-items: center;
-        gap: 0.5rem;
+        gap: 0.4rem;
+        color: #bbb;
       }
       
-      .card-title .icon {
-        font-size: 1.5rem;
-      }
-      
-      /* Weather Card */
+      /* Weather */
       .weather-info {
         display: flex;
         align-items: center;
@@ -99,24 +146,25 @@ function formatTime(timestamp) {
       }
       
       .weather-temp {
-        font-size: 3rem;
+        font-size: 2.5rem;
         font-weight: bold;
         color: #00d4ff;
       }
       
       .weather-details {
         color: #aaa;
-        line-height: 1.6;
+        line-height: 1.5;
+        font-size: 0.9rem;
       }
       
-      /* News Card */
+      /* News */
       .news-list {
         list-style: none;
       }
       
       .news-item {
-        padding: 0.8rem 0;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        padding: 0.5rem 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.05);
       }
       
       .news-item:last-child {
@@ -127,7 +175,9 @@ function formatTime(timestamp) {
         color: #fff;
         text-decoration: none;
         display: block;
+        font-size: 0.9rem;
         transition: color 0.2s;
+        line-height: 1.4;
       }
       
       .news-item a:hover {
@@ -135,25 +185,25 @@ function formatTime(timestamp) {
       }
       
       .news-meta {
-        font-size: 0.85rem;
-        color: #888;
-        margin-top: 0.3rem;
+        font-size: 0.75rem;
+        color: #666;
+        margin-top: 0.2rem;
       }
       
       .score {
         color: #ff6b6b;
-        margin-right: 0.5rem;
+        margin-right: 0.4rem;
       }
       
-      /* Skill Card */
+      /* Skills */
       .skill-item {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 1rem;
+        padding: 0.7rem;
         background: rgba(0, 0, 0, 0.2);
         border-radius: 8px;
-        margin-bottom: 0.8rem;
+        margin-bottom: 0.5rem;
       }
       
       .skill-item:last-child {
@@ -161,59 +211,132 @@ function formatTime(timestamp) {
       }
       
       .skill-info h3 {
-        font-size: 1.1rem;
-        margin-bottom: 0.3rem;
+        font-size: 0.95rem;
+        margin-bottom: 0.2rem;
+        word-break: break-all;
       }
       
       .skill-info p {
-        color: #aaa;
-        font-size: 0.9rem;
+        color: #888;
+        font-size: 0.8rem;
+        line-height: 1.3;
       }
       
       .skill-stars {
         background: linear-gradient(90deg, #ff6b6b, #feca57);
-        padding: 0.3rem 0.8rem;
+        padding: 0.2rem 0.6rem;
         border-radius: 20px;
+        font-size: 0.8rem;
         font-weight: bold;
         white-space: nowrap;
+        margin-left: 0.5rem;
       }
       
       .skill-link {
         display: inline-block;
-        margin-top: 0.5rem;
+        margin-top: 0.3rem;
         color: #00d4ff;
         text-decoration: none;
-        font-size: 0.9rem;
+        font-size: 0.8rem;
       }
       
       .skill-link:hover {
         text-decoration: underline;
       }
       
-      footer {
-        text-align: center;
-        margin-top: 3rem;
-        color: #666;
-        font-size: 0.9rem;
+      /* Pagination */
+      .pagination {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+        margin-top: 2rem;
+        flex-wrap: wrap;
       }
       
+      .page-btn {
+        background: rgba(255, 255, 255, 0.1);
+        border: none;
+        color: #fff;
+        padding: 0.5rem 1rem;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 0.9rem;
+        transition: all 0.2s;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      .page-btn:hover:not(:disabled) {
+        background: rgba(0, 212, 255, 0.2);
+      }
+      
+      .page-btn:disabled {
+        opacity: 0.3;
+        cursor: not-allowed;
+      }
+      
+      .page-btn.active {
+        background: #00d4ff;
+        color: #1a1a2e;
+      }
+      
+      .page-info {
+        color: #888;
+        font-size: 0.85rem;
+        padding: 0 0.5rem;
+      }
+      
+      footer {
+        text-align: center;
+        margin-top: 2rem;
+        color: #666;
+        font-size: 0.8rem;
+      }
+      
+      /* Mobile Responsive */
       @media (max-width: 600px) {
         body {
-          padding: 1rem;
+          padding: 0.8rem;
+          padding-bottom: 4rem;
         }
         
         h1 {
-          font-size: 1.8rem;
+          font-size: 1.6rem;
+        }
+        
+        .day-card {
+          padding: 1rem;
+          border-radius: 12px;
+        }
+        
+        .day-header {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.3rem;
         }
         
         .weather-temp {
-          font-size: 2.5rem;
+          font-size: 2rem;
         }
         
         .skill-item {
           flex-direction: column;
           align-items: flex-start;
           gap: 0.5rem;
+        }
+        
+        .skill-stars {
+          margin-left: 0;
+        }
+        
+        .pagination {
+          gap: 0.3rem;
+        }
+        
+        .page-btn {
+          padding: 0.4rem 0.8rem;
+          font-size: 0.85rem;
         }
       }
     </style>
@@ -222,55 +345,101 @@ function formatTime(timestamp) {
     <div class="container">
       <header>
         <h1>🚀 Daily Skill</h1>
-        <p class="date">{today}</p>
+        <p class="date">{formatDate(today)}</p>
+        <div class="stats">
+          <span class="stat-item">历史天数: <span>{days.length}</span></span>
+          <span class="stat-item">已推荐 Skill: <span>{usedSkills.length}</span></span>
+        </div>
       </header>
       
-      <!-- Weather Section -->
-      <section class="card">
-        <h2 class="card-title"><span class="icon">🌤️</span> 今日天气 - {weather?.city || 'Shanghai'}</h2>
-        <div class="weather-info">
-          <span class="weather-temp">{weather?.temp || '--'}°C</span>
-          <div class="weather-details">
-            <p>天气: {weather?.condition || '未知'}</p>
-            <p>湿度: {weather?.humidity || '--'}% | 风速: {weather?.wind || '--'} km/h</p>
+      <!-- History Days -->
+      {paginatedDays.map((day) => (
+        <article class="day-card">
+          <div class="day-header">
+            <span class="day-date">{formatDate(day.date)}</span>
           </div>
-        </div>
-      </section>
+          
+          <!-- Weather -->
+          {day.weather && (
+            <section class="section">
+              <h3 class="section-title">🌤️ 天气 - {day.weather.city}</h3>
+              <div class="weather-info">
+                <span class="weather-temp">{day.weather.temp}°C</span>
+                <div class="weather-details">
+                  <p>{day.weather.condition}</p>
+                  <p>湿度: {day.weather.humidity}% | 风速: {day.weather.wind} km/h</p>
+                </div>
+              </div>
+            </section>
+          )}
+          
+          <!-- News -->
+          {day.news && day.news.length > 0 && (
+            <section class="section">
+              <h3 class="section-title">📰 科技新闻</h3>
+              <ul class="news-list">
+                {day.news.slice(0, 5).map((item, index) => (
+                  <li class="news-item">
+                    <a href={item.url} target="_blank" rel="noopener noreferrer">
+                      {index + 1}. {item.title}
+                    </a>
+                    <p class="news-meta">
+                      <span class="score">▲ {item.score}</span>
+                      by {item.by} · {formatTime(item.time)}
+                    </p>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+          
+          <!-- Skills -->
+          {day.skills && day.skills.length > 0 && (
+            <section class="section">
+              <h3 class="section-title">🛠️ Skill 推荐</h3>
+              {day.skills.map((skill) => (
+                <div class="skill-item">
+                  <div class="skill-info">
+                    <h3>{skill.name}</h3>
+                    <p>{skill.description}</p>
+                    <a href={skill.url} target="_blank" rel="noopener noreferrer" class="skill-link">
+                      查看详情 →
+                    </a>
+                  </div>
+                  <span class="skill-stars">⭐ {skill.stars}</span>
+                </div>
+              ))}
+            </section>
+          )}
+        </article>
+      ))}
       
-      <!-- News Section -->
-      <section class="card">
-        <h2 class="card-title"><span class="icon">📰</span> 今日科技新闻</h2>
-        <ul class="news-list">
-          {news?.slice(0, 5).map((item, index) => (
-            <li class="news-item">
-              <a href={item.url} target="_blank" rel="noopener noreferrer">
-                {index + 1}. {item.title}
-              </a>
-              <p class="news-meta">
-                <span class="score">▲ {item.score}</span>
-                by {item.by} · {formatTime(item.time)}
-              </p>
-            </li>
-          ))}
-        </ul>
-      </section>
-      
-      <!-- Skills Section -->
-      <section class="card">
-        <h2 class="card-title"><span class="icon">🛠️</span> 热门 Skill 推荐</h2>
-        {skills?.slice(0, 3).map((skill) => (
-          <div class="skill-item">
-            <div class="skill-info">
-              <h3>{skill.name}</h3>
-              <p>{skill.description}</p>
-              <a href={skill.url} target="_blank" rel="noopener noreferrer" class="skill-link">
-                查看详情 →
-              </a>
-            </div>
-            <span class="skill-stars">⭐ {skill.stars}</span>
-          </div>
-        ))}
-      </section>
+      <!-- Pagination -->
+      {totalPages > 1 && (
+        <nav class="pagination">
+          <a href={`?page=${Math.max(1, currentPage - 1)}`} class="page-btn" disabled={currentPage <= 1}>上一页</a>
+          
+          {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
+            let pageNum;
+            if (totalPages <= 5) {
+              pageNum = i + 1;
+            } else if (currentPage <= 3) {
+              pageNum = i + 1;
+            } else if (currentPage >= totalPages - 2) {
+              pageNum = totalPages - 4 + i;
+            } else {
+              pageNum = currentPage - 2 + i;
+            }
+            return (
+              <a href={`?page=${pageNum}`} class={`page-btn ${pageNum === currentPage ? 'active' : ''}`}>{pageNum}</a>
+            );
+          })}
+          
+          <a href={`?page=${Math.min(totalPages, currentPage + 1)}`} class="page-btn" disabled={currentPage >= totalPages}>下一页</a>
+          
+          <span class="page-info">第 {currentPage}/{totalPages} 页</span>
+        </nav>
+      )}
       
       <footer>
         <p>由 Astro + Vercel 自动托管 | 数据每日自动更新</p>
