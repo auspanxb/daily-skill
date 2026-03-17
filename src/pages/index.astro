@@ -1,0 +1,280 @@
+---
+// 每日博客首页
+import dailyData from '../data/daily.json';
+
+const { weather, news, skills } = dailyData;
+const today = new Date().toLocaleDateString('zh-CN', { 
+  year: 'numeric', 
+  month: 'long', 
+  day: 'numeric',
+  weekday: 'long'
+});
+
+// 格式化日期时间
+function formatTime(timestamp) {
+  return new Date(timestamp * 1000).toLocaleTimeString('zh-CN', {
+    hour: '2-digit',
+    minute: '2-digit'
+  });
+}
+---
+
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Daily Skill - 每日技能推荐</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+        min-height: 100vh;
+        color: #fff;
+        padding: 2rem;
+      }
+      
+      .container {
+        max-width: 900px;
+        margin: 0 auto;
+      }
+      
+      header {
+        text-align: center;
+        margin-bottom: 3rem;
+      }
+      
+      h1 {
+        font-size: 2.5rem;
+        background: linear-gradient(90deg, #00d4ff, #7b2ff7);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        margin-bottom: 0.5rem;
+      }
+      
+      .date {
+        color: #888;
+        font-size: 1.1rem;
+      }
+      
+      .card {
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: 16px;
+        padding: 1.5rem;
+        margin-bottom: 1.5rem;
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      
+      .card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+      }
+      
+      .card-title {
+        font-size: 1.3rem;
+        margin-bottom: 1rem;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+      
+      .card-title .icon {
+        font-size: 1.5rem;
+      }
+      
+      /* Weather Card */
+      .weather-info {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        flex-wrap: wrap;
+      }
+      
+      .weather-temp {
+        font-size: 3rem;
+        font-weight: bold;
+        color: #00d4ff;
+      }
+      
+      .weather-details {
+        color: #aaa;
+        line-height: 1.6;
+      }
+      
+      /* News Card */
+      .news-list {
+        list-style: none;
+      }
+      
+      .news-item {
+        padding: 0.8rem 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      }
+      
+      .news-item:last-child {
+        border-bottom: none;
+      }
+      
+      .news-item a {
+        color: #fff;
+        text-decoration: none;
+        display: block;
+        transition: color 0.2s;
+      }
+      
+      .news-item a:hover {
+        color: #00d4ff;
+      }
+      
+      .news-meta {
+        font-size: 0.85rem;
+        color: #888;
+        margin-top: 0.3rem;
+      }
+      
+      .score {
+        color: #ff6b6b;
+        margin-right: 0.5rem;
+      }
+      
+      /* Skill Card */
+      .skill-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem;
+        background: rgba(0, 0, 0, 0.2);
+        border-radius: 8px;
+        margin-bottom: 0.8rem;
+      }
+      
+      .skill-item:last-child {
+        margin-bottom: 0;
+      }
+      
+      .skill-info h3 {
+        font-size: 1.1rem;
+        margin-bottom: 0.3rem;
+      }
+      
+      .skill-info p {
+        color: #aaa;
+        font-size: 0.9rem;
+      }
+      
+      .skill-stars {
+        background: linear-gradient(90deg, #ff6b6b, #feca57);
+        padding: 0.3rem 0.8rem;
+        border-radius: 20px;
+        font-weight: bold;
+        white-space: nowrap;
+      }
+      
+      .skill-link {
+        display: inline-block;
+        margin-top: 0.5rem;
+        color: #00d4ff;
+        text-decoration: none;
+        font-size: 0.9rem;
+      }
+      
+      .skill-link:hover {
+        text-decoration: underline;
+      }
+      
+      footer {
+        text-align: center;
+        margin-top: 3rem;
+        color: #666;
+        font-size: 0.9rem;
+      }
+      
+      @media (max-width: 600px) {
+        body {
+          padding: 1rem;
+        }
+        
+        h1 {
+          font-size: 1.8rem;
+        }
+        
+        .weather-temp {
+          font-size: 2.5rem;
+        }
+        
+        .skill-item {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 0.5rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>🚀 Daily Skill</h1>
+        <p class="date">{today}</p>
+      </header>
+      
+      <!-- Weather Section -->
+      <section class="card">
+        <h2 class="card-title"><span class="icon">🌤️</span> 今日天气 - {weather?.city || 'Shanghai'}</h2>
+        <div class="weather-info">
+          <span class="weather-temp">{weather?.temp || '--'}°C</span>
+          <div class="weather-details">
+            <p>天气: {weather?.condition || '未知'}</p>
+            <p>湿度: {weather?.humidity || '--'}% | 风速: {weather?.wind || '--'} km/h</p>
+          </div>
+        </div>
+      </section>
+      
+      <!-- News Section -->
+      <section class="card">
+        <h2 class="card-title"><span class="icon">📰</span> 今日科技新闻</h2>
+        <ul class="news-list">
+          {news?.slice(0, 5).map((item, index) => (
+            <li class="news-item">
+              <a href={item.url} target="_blank" rel="noopener noreferrer">
+                {index + 1}. {item.title}
+              </a>
+              <p class="news-meta">
+                <span class="score">▲ {item.score}</span>
+                by {item.by} · {formatTime(item.time)}
+              </p>
+            </li>
+          ))}
+        </ul>
+      </section>
+      
+      <!-- Skills Section -->
+      <section class="card">
+        <h2 class="card-title"><span class="icon">🛠️</span> 热门 Skill 推荐</h2>
+        {skills?.slice(0, 3).map((skill) => (
+          <div class="skill-item">
+            <div class="skill-info">
+              <h3>{skill.name}</h3>
+              <p>{skill.description}</p>
+              <a href={skill.url} target="_blank" rel="noopener noreferrer" class="skill-link">
+                查看详情 →
+              </a>
+            </div>
+            <span class="skill-stars">⭐ {skill.stars}</span>
+          </div>
+        ))}
+      </section>
+      
+      <footer>
+        <p>由 Astro + Vercel 自动托管 | 数据每日自动更新</p>
+      </footer>
+    </div>
+  </body>
+</html>

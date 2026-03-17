@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-17",
+  "weather": {
+    "city": "Shanghai",
+    "temp": "11",
+    "condition": "Mist",
+    "humidity": "87",
+    "wind": "18",
+    "updated": "2026-03-17 03:10 PM"
+  },
+  "news": [
+    {
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+      "url": "https://mistral.ai/news/leanstral",
+      "score": 451,
+      "by": "Poudlardo",
+      "time": 1773694780
+    },
+    {
+      "title": "Meta’s renewed commitment to jemalloc",
+      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+      "score": 415,
+      "by": "hahahacorn",
+      "time": 1773684752
+    },
+    {
+      "title": "The unlikely story of Teardown Multiplayer",
+      "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
+      "score": 19,
+      "by": "lairv",
+      "time": 1773418800
+    },
+    {
+      "title": "Gitana 18: the new flying Ultim trimaran",
+      "url": "https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran",
+      "score": 23,
+      "by": "divbzero",
+      "time": 1773371768
+    },
+    {
+      "title": "The “small web” is bigger than you might think",
+      "url": "https://kevinboone.me/small_web_is_big.html",
+      "score": 388,
+      "by": "speckx",
+      "time": 1773681477
+    }
+  ],
+  "skills": [
+    {
+      "name": "nano-banana-pro-prompts-recommend-skill",
+      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
+      "stars": 1237,
+      "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+    },
+    {
+      "name": "clawsec",
+      "description": "A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite.",
+      "stars": 778,
+      "url": "https://github.com/prompt-security/clawsec"
+    },
+    {
+      "name": "TradingView-Claw",
+      "description": "一个有用的 OpenClaw Skill",
+      "stars": 465,
+      "url": "https://github.com/helenigtxu/TradingView-Claw"
+    },
+    {
+      "name": "team-tasks",
+      "description": "Multi-agent pipeline coordination: Linear, DAG, and Debate modes for AI agent orchestration",
+      "stars": 419,
+      "url": "https://github.com/win4r/team-tasks"
+    },
+    {
+      "name": "Antigravity-claw",
+      "description": "一个有用的 OpenClaw Skill",
+      "stars": 336,
+      "url": "https://github.com/deborahikssv/Antigravity-claw"
+    }
+  ]
+}
