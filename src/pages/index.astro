@@ -419,19 +419,23 @@ function formatTime(timestamp) {
         <nav class="pagination">
           <a href={`?page=${Math.max(1, currentPage - 1)}`} class="page-btn" disabled={currentPage <= 1}>上一页</a>
           
-          {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
-            let pageNum;
-            if (totalPages <= 5) {
-              pageNum = i + 1;
-            } else if (currentPage <= 3) {
-              pageNum = i + 1;
-            } else if (currentPage >= totalPages - 2) {
-              pageNum = totalPages - 4 + i;
-            } else {
-              pageNum = currentPage - 2 + i;
+          {(() => {
+            const pages = [];
+            for (let i = 0; i < Math.min(5, totalPages); i++) {
+              let pageNum;
+              if (totalPages <= 5) {
+                pageNum = i + 1;
+              } else if (currentPage <= 3) {
+                pageNum = i + 1;
+              } else if (currentPage >= totalPages - 2) {
+                pageNum = totalPages - 4 + i;
+              } else {
+                pageNum = currentPage - 2 + i;
+              }
+              pages.push(<a href={`?page=${pageNum}`} class={`page-btn ${pageNum === currentPage ? 'active' : ''}`}>{pageNum}</a>);
             }
-            return <a href={`?page=${pageNum}`} class={`page-btn ${pageNum === currentPage ? 'active' : ''}`}>{pageNum}</a>;
-          }).map(btn => btn)}
+            return pages;
+          })()}
           
           <a href={`?page=${Math.min(totalPages, currentPage + 1)}`} class="page-btn" disabled={currentPage >= totalPages}>下一页</a>
           
