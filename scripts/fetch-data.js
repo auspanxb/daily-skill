@@ -35,11 +35,17 @@ async function fetchWeather() {
     const response = await fetch(`https://wttr.in/${city}?format=j1`);
     const data = await response.json();
     
-    const current = data.current_condition[0];
+    // 兼容不同返回格式
+    const current = data.current_condition?.[0];
+    if (!current) {
+      console.log('Weather data not available');
+      return null;
+    }
+    
     return {
       city: city,
       temp: current.temp_C,
-      condition: current.weatherDesc[0].value,
+      condition: current.weatherDesc?.[0]?.value || 'Unknown',
       humidity: current.humidity,
       wind: current.windspeedKmph,
       updated: current.localObsDateTime

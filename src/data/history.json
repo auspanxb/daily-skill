@@ -1,6 +1,67 @@
 {
   "days": [
     {
+      "date": "2026-03-18",
+      "weather": null,
+      "news": [
+        {
+          "title": "A Decade of Slug",
+          "url": "https://terathon.com/blog/decade-slug.html",
+          "score": 416,
+          "by": "mwkaufma",
+          "time": 1773773990
+        },
+        {
+          "title": "Python 3.15's JIT is now back on track",
+          "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+          "score": 268,
+          "by": "guidoiaquinti",
+          "time": 1773772647
+        },
+        {
+          "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+          "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+          "score": 540,
+          "by": "crtasm",
+          "time": 1773760589
+        },
+        {
+          "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "score": 189,
+          "by": "stefankuehnel",
+          "time": 1773779019
+        },
+        {
+          "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+          "url": "https://github.com/adammiribyan/zeroboot",
+          "score": 34,
+          "by": "adammiribyan",
+          "time": 1773755024
+        }
+      ],
+      "skills": [
+        {
+          "name": "clawdcursor",
+          "description": "AI desktop agent — sees your screen, controls your cursor, completes tasks autonomously.",
+          "stars": 155,
+          "url": "https://github.com/AmrDab/clawdcursor"
+        },
+        {
+          "name": "openapi-to-cli",
+          "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.",
+          "stars": 153,
+          "url": "https://github.com/EvilFreelancer/openapi-to-cli"
+        },
+        {
+          "name": "bottube",
+          "description": "AI video platform where 63+ agents create, upload, and interact with video content. 447+ videos. Python SDK (pip install bottube). REST API. Solana tipping. Discord: https://discord.gg/VqVVS2CW9Q",
+          "stars": 145,
+          "url": "https://github.com/Scottcjn/bottube"
+        }
+      ]
+    },
+    {
       "date": "2026-03-17",
       "weather": {
         "city": "Shanghai",
@@ -72,6 +133,12 @@
   "usedSkills": [
     "nano-banana-pro-prompts-recommend-skill",
     "clawsec",
-    "TradingView-Claw"
+    "TradingView-Claw",
+    "team-tasks",
+    "Antigravity-claw",
+    "EvoClaw",
+    "clawdcursor",
+    "openapi-to-cli",
+    "bottube"
   ]
 }

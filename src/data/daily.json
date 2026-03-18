@@ -1,68 +1,61 @@
 {
-  "date": "2026-03-17",
-  "weather": {
-    "city": "Shanghai",
-    "temp": "11",
-    "condition": "Mist",
-    "humidity": "87",
-    "wind": "19",
-    "updated": "2026-03-17 04:20 PM"
-  },
+  "date": "2026-03-18",
+  "weather": null,
   "news": [
     {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "score": 476,
-      "by": "Poudlardo",
-      "time": 1773694780
+      "title": "A Decade of Slug",
+      "url": "https://terathon.com/blog/decade-slug.html",
+      "score": 416,
+      "by": "mwkaufma",
+      "time": 1773773990
     },
     {
-      "title": "The unlikely story of Teardown Multiplayer",
-      "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
-      "score": 36,
-      "by": "lairv",
-      "time": 1773418800
+      "title": "Python 3.15's JIT is now back on track",
+      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "score": 268,
+      "by": "guidoiaquinti",
+      "time": 1773772647
     },
     {
-      "title": "Meta’s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 423,
-      "by": "hahahacorn",
-      "time": 1773684752
+      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+      "score": 540,
+      "by": "crtasm",
+      "time": 1773760589
     },
     {
-      "title": "The American Healthcare Conundrum",
-      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "score": 326,
-      "by": "rexroad",
-      "time": 1773681207
+      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "score": 189,
+      "by": "stefankuehnel",
+      "time": 1773779019
     },
     {
-      "title": "The “small web” is bigger than you might think",
-      "url": "https://kevinboone.me/small_web_is_big.html",
-      "score": 401,
-      "by": "speckx",
-      "time": 1773681477
+      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "url": "https://github.com/adammiribyan/zeroboot",
+      "score": 34,
+      "by": "adammiribyan",
+      "time": 1773755024
     }
   ],
   "skills": [
     {
-      "name": "nano-banana-pro-prompts-recommend-skill",
-      "description": "AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images.",
-      "stars": 1237,
-      "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
+      "name": "clawdcursor",
+      "description": "AI desktop agent — sees your screen, controls your cursor, completes tasks autonomously.",
+      "stars": 155,
+      "url": "https://github.com/AmrDab/clawdcursor"
     },
     {
-      "name": "clawsec",
-      "description": "A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite.",
-      "stars": 778,
-      "url": "https://github.com/prompt-security/clawsec"
+      "name": "openapi-to-cli",
+      "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.",
+      "stars": 153,
+      "url": "https://github.com/EvilFreelancer/openapi-to-cli"
     },
     {
-      "name": "TradingView-Claw",
-      "description": "一个有用的 OpenClaw Skill",
-      "stars": 465,
-      "url": "https://github.com/helenigtxu/TradingView-Claw"
+      "name": "bottube",
+      "description": "AI video platform where 63+ agents create, upload, and interact with video content. 447+ videos. Python SDK (pip install bottube). REST API. Solana tipping. Discord: https://discord.gg/VqVVS2CW9Q",
+      "stars": 145,
+      "url": "https://github.com/Scottcjn/bottube"
     }
   ]
 }
