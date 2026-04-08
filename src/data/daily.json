@@ -1,61 +1,68 @@
 {
-  "date": "2026-03-18",
-  "weather": null,
+  "date": "2026-04-08",
+  "weather": {
+    "city": "Shanghai",
+    "temp": "18",
+    "condition": "Light rain shower",
+    "humidity": "77",
+    "wind": "28",
+    "updated": "2026-04-09 01:40 AM"
+  },
   "news": [
     {
-      "title": "A Decade of Slug",
-      "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 416,
-      "by": "mwkaufma",
-      "time": 1773773990
+      "title": "I Ported Mac OS X to the Nintendo Wii",
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "score": 401,
+      "by": "blkhp19",
+      "time": 1775662800
     },
     {
-      "title": "Python 3.15's JIT is now back on track",
-      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 268,
-      "by": "guidoiaquinti",
-      "time": 1773772647
+      "title": "Git commands I run before reading any code",
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "score": 1215,
+      "by": "grepsedawk",
+      "time": 1775638422
     },
     {
-      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 540,
-      "by": "crtasm",
-      "time": 1773760589
+      "title": "Muse Spark – Meta Superintelligence Labs",
+      "url": "https://meta.ai/",
+      "score": 162,
+      "by": "snowman647",
+      "time": 1775664354
     },
     {
-      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 189,
-      "by": "stefankuehnel",
-      "time": 1773779019
+      "title": "Muse Spark: Scaling Towards Personal Superintelligence",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "score": 74,
+      "by": "chabons",
+      "time": 1775664092
     },
     {
-      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-      "url": "https://github.com/adammiribyan/zeroboot",
-      "score": 34,
-      "by": "adammiribyan",
-      "time": 1773755024
+      "title": "They're Made Out of Meat (1991)",
+      "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+      "score": 207,
+      "by": "surprisetalk",
+      "time": 1775647250
     }
   ],
   "skills": [
     {
-      "name": "clawdcursor",
-      "description": "AI desktop agent — sees your screen, controls your cursor, completes tasks autonomously.",
-      "stars": 155,
-      "url": "https://github.com/AmrDab/clawdcursor"
+      "name": "md2wechat-skill",
+      "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
+      "stars": 1266,
+      "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
-      "name": "openapi-to-cli",
-      "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.",
-      "stars": 153,
-      "url": "https://github.com/EvilFreelancer/openapi-to-cli"
+      "name": "narrator-ai-cli-skill",
+      "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
+      "stars": 446,
+      "url": "https://github.com/jieshuo-ai/narrator-ai-cli-skill"
     },
     {
-      "name": "bottube",
-      "description": "AI video platform where 63+ agents create, upload, and interact with video content. 447+ videos. Python SDK (pip install bottube). REST API. Solana tipping. Discord: https://discord.gg/VqVVS2CW9Q",
-      "stars": 145,
-      "url": "https://github.com/Scottcjn/bottube"
+      "name": "tock",
+      "description": "Tock is a powerful time tracking tool for the command line.",
+      "stars": 394,
+      "url": "https://github.com/kriuchkov/tock"
     }
   ]
 }
