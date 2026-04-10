@@ -1,60 +1,67 @@
 {
-  "date": "2026-04-09",
-  "weather": null,
+  "date": "2026-04-10",
+  "weather": {
+    "city": "Shanghai",
+    "temp": "19",
+    "condition": "Overcast",
+    "humidity": "76",
+    "wind": "9",
+    "updated": "2026-04-10 09:05 AM"
+  },
   "news": [
     {
-      "title": "LittleSnitch for Linux",
-      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "score": 116,
-      "by": "pluc",
-      "time": 1775694368
+      "title": "Microsoft PhotoDNA scanning problem",
+      "url": "https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/",
+      "score": 52,
+      "by": "darkzek",
+      "time": 1775783346
     },
     {
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 1253,
-      "by": "blkhp19",
-      "time": 1775662800
+      "title": "Native Instant Space Switching on macOS",
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "score": 319,
+      "by": "PaulHoule",
+      "time": 1775764106
     },
     {
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "score": 185,
-      "by": "WerWolv",
-      "time": 1775676214
+      "title": "How NASA Built Artemis II’s Fault-Tolerant Computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "score": 83,
+      "by": "speckx",
+      "time": 1775747560
     },
     {
-      "title": "Understanding the Kalman filter with a simple radar example",
-      "url": "https://kalmanfilter.net",
-      "score": 230,
-      "by": "alex_be",
-      "time": 1775668306
+      "title": "Charcuterie – Visual similarity Unicode explorer",
+      "url": "https://charcuterie.elastiq.ch/",
+      "score": 126,
+      "by": "rickcarlino",
+      "time": 1775765527
     },
     {
-      "title": "What does it mean to “write like you talk”?",
-      "url": "https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you",
-      "score": 20,
-      "by": "surprisetalk",
-      "time": 1775485371
+      "title": "PicoZ80 – Drop-In Z80 Replacement",
+      "url": "https://eaw.app/picoz80/",
+      "score": 149,
+      "by": "rickcarlino",
+      "time": 1775760800
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1270,
+      "stars": 1287,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 446,
-      "url": "https://github.com/jieshuo-ai/narrator-ai-cli-skill"
+      "stars": 451,
+      "url": "https://github.com/GridLtd-ProductDev/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 394,
+      "stars": 395,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
