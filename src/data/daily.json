@@ -1,61 +1,61 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-11",
   "weather": {
     "city": "Shanghai",
-    "temp": "19",
-    "condition": "Overcast",
-    "humidity": "76",
-    "wind": "9",
-    "updated": "2026-04-10 09:05 AM"
+    "temp": "16",
+    "condition": "Mist",
+    "humidity": "88",
+    "wind": "15",
+    "updated": "2026-04-11 08:20 AM"
   },
   "news": [
     {
-      "title": "Microsoft PhotoDNA scanning problem",
-      "url": "https://www.elevenforum.com/t/microsoft-photodna-scanning-problem-it-is-comical-now.45961/",
-      "score": 52,
-      "by": "darkzek",
-      "time": 1775783346
+      "title": "Filing the corners off my MacBooks",
+      "url": "https://kentwalters.com/posts/corners/",
+      "score": 343,
+      "by": "normanvalentine",
+      "time": 1775859400
     },
     {
-      "title": "Native Instant Space Switching on macOS",
-      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 319,
-      "by": "PaulHoule",
-      "time": 1775764106
+      "title": "Artemis II safely splashes down",
+      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+      "score": 347,
+      "by": "areoform",
+      "time": 1775866251
     },
     {
-      "title": "How NASA Built Artemis II’s Fault-Tolerant Computer",
-      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
-      "score": 83,
-      "by": "speckx",
-      "time": 1775747560
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "score": 231,
+      "by": "neversaydie",
+      "time": 1775848222
     },
     {
-      "title": "Charcuterie – Visual similarity Unicode explorer",
-      "url": "https://charcuterie.elastiq.ch/",
-      "score": 126,
-      "by": "rickcarlino",
-      "time": 1775765527
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "score": 657,
+      "by": "burnt-resistor",
+      "time": 1775835448
     },
     {
-      "title": "PicoZ80 – Drop-In Z80 Replacement",
-      "url": "https://eaw.app/picoz80/",
-      "score": 149,
-      "by": "rickcarlino",
-      "time": 1775760800
+      "title": "Installing Every* Firefox Extension",
+      "url": "https://jack.cab/blog/every-firefox-extension",
+      "score": 130,
+      "by": "RohanAdwankar",
+      "time": 1775858193
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1287,
+      "stars": 1301,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 451,
+      "stars": 463,
       "url": "https://github.com/GridLtd-ProductDev/narrator-ai-cli-skill"
     },
     {
