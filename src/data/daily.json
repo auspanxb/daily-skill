@@ -1,68 +1,68 @@
 {
-  "date": "2026-04-11",
+  "date": "2026-04-12",
   "weather": {
     "city": "Shanghai",
-    "temp": "16",
-    "condition": "Mist",
-    "humidity": "88",
-    "wind": "15",
-    "updated": "2026-04-11 08:20 AM"
+    "temp": "13",
+    "condition": "Light drizzle",
+    "humidity": "90",
+    "wind": "23",
+    "updated": "2026-04-12 09:15 AM"
   },
   "news": [
     {
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
-      "score": 343,
-      "by": "normanvalentine",
-      "time": 1775859400
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "score": 849,
+      "by": "dominicq",
+      "time": 1775926048
     },
     {
-      "title": "Artemis II safely splashes down",
-      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 347,
-      "by": "areoform",
-      "time": 1775866251
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "score": 148,
+      "by": "krackers",
+      "time": 1775941128
     },
     {
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "score": 231,
-      "by": "neversaydie",
-      "time": 1775848222
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "score": 223,
+      "by": "Anon84",
+      "time": 1775934956
     },
     {
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 657,
-      "by": "burnt-resistor",
-      "time": 1775835448
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "score": 141,
+      "by": "iliatoli",
+      "time": 1775938126
     },
     {
-      "title": "Installing Every* Firefox Extension",
-      "url": "https://jack.cab/blog/every-firefox-extension",
-      "score": 130,
-      "by": "RohanAdwankar",
-      "time": 1775858193
+      "title": "Pijul a FOSS distributed version control system",
+      "url": "https://pijul.org/",
+      "score": 85,
+      "by": "kouosi",
+      "time": 1775556998
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1301,
+      "stars": 1317,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
-    },
-    {
-      "name": "narrator-ai-cli-skill",
-      "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 463,
-      "url": "https://github.com/GridLtd-ProductDev/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
       "stars": 395,
       "url": "https://github.com/kriuchkov/tock"
+    },
+    {
+      "name": "proxy",
+      "description": "Open source cost intelligence proxy for AI agents. Cut costs ~80% with smart model routing. Dashboard, policy engine, 11 providers. MIT licensed.",
+      "stars": 150,
+      "url": "https://github.com/RelayPlane/proxy"
     }
   ]
 }
