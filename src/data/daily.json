@@ -1,55 +1,55 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-13",
   "weather": {
     "city": "Shanghai",
-    "temp": "13",
-    "condition": "Light drizzle",
-    "humidity": "90",
-    "wind": "23",
-    "updated": "2026-04-12 09:15 AM"
+    "temp": "15",
+    "condition": "Partly cloudy",
+    "humidity": "100",
+    "wind": "9",
+    "updated": "2026-04-13 10:10 AM"
   },
   "news": [
     {
-      "title": "Small models also found the vulnerabilities that Mythos found",
-      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 849,
-      "by": "dominicq",
-      "time": 1775926048
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "score": 55,
+      "by": "mindcrime",
+      "time": 1776033525
     },
     {
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "score": 148,
-      "by": "krackers",
-      "time": 1775941128
+      "title": "Bring Back Idiomatic Design (2023)",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "score": 462,
+      "by": "phil294",
+      "time": 1775996486
     },
     {
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 223,
-      "by": "Anon84",
-      "time": 1775934956
+      "title": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "score": 258,
+      "by": "_Microft",
+      "time": 1776011923
     },
     {
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
-      "score": 141,
-      "by": "iliatoli",
-      "time": 1775938126
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "url": "https://boringbar.app/",
+      "score": 226,
+      "by": "a-ve",
+      "time": 1776014744
     },
     {
-      "title": "Pijul a FOSS distributed version control system",
-      "url": "https://pijul.org/",
-      "score": 85,
-      "by": "kouosi",
-      "time": 1775556998
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47741527",
+      "score": 134,
+      "by": "david927",
+      "time": 1776011083
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1317,
+      "stars": 1328,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
@@ -61,7 +61,7 @@
     {
       "name": "proxy",
       "description": "Open source cost intelligence proxy for AI agents. Cut costs ~80% with smart model routing. Dashboard, policy engine, 11 providers. MIT licensed.",
-      "stars": 150,
+      "stars": 152,
       "url": "https://github.com/RelayPlane/proxy"
     }
   ]
