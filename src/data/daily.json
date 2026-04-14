@@ -1,61 +1,61 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "weather": {
     "city": "Shanghai",
-    "temp": "15",
-    "condition": "Partly cloudy",
-    "humidity": "100",
+    "temp": "16",
+    "condition": "Patchy rain nearby",
+    "humidity": "91",
     "wind": "9",
-    "updated": "2026-04-13 10:10 AM"
+    "updated": "2026-04-14 09:10 AM"
   },
   "news": [
     {
-      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "score": 55,
-      "by": "mindcrime",
-      "time": 1776033525
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "score": 700,
+      "by": "speckx",
+      "time": 1776102879
     },
     {
-      "title": "Bring Back Idiomatic Design (2023)",
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 462,
-      "by": "phil294",
-      "time": 1775996486
+      "title": "Lean proved this program correct; then I found a bug",
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "score": 84,
+      "by": "bumbledraven",
+      "time": 1776126308
     },
     {
-      "title": "DIY Soft Drinks",
-      "url": "https://blinry.org/diy-soft-drinks/",
-      "score": 258,
-      "by": "_Microft",
-      "time": 1776011923
+      "title": "GitHub Stacked PRs",
+      "url": "https://github.github.com/gh-stack/",
+      "score": 432,
+      "by": "ezekg",
+      "time": 1776112609
     },
     {
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "url": "https://boringbar.app/",
-      "score": 226,
-      "by": "a-ve",
-      "time": 1776014744
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "url": "https://github.com/fabienmillet/WiiFin",
+      "score": 56,
+      "by": "throwawayk7h",
+      "time": 1776123198
     },
     {
-      "title": "Ask HN: What Are You Working On? (April 2026)",
-      "url": "https://news.ycombinator.com/item?id=47741527",
-      "score": 134,
-      "by": "david927",
-      "time": 1776011083
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "score": 356,
+      "by": "m-hodges",
+      "time": 1776094266
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1328,
+      "stars": 1346,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 395,
+      "stars": 399,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
