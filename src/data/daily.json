@@ -1,61 +1,61 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-16",
   "weather": {
     "city": "Shanghai",
-    "temp": "19",
+    "temp": "18",
     "condition": "Partly cloudy",
-    "humidity": "68",
-    "wind": "7",
-    "updated": "2026-04-15 10:04 AM"
+    "humidity": "67",
+    "wind": "17",
+    "updated": "2026-04-16 09:05 AM"
   },
   "news": [
     {
-      "title": "Stop Flock",
-      "url": "https://stopflock.com",
-      "score": 183,
-      "by": "cdrnsf",
-      "time": 1776203765
+      "title": "Cybersecurity looks like proof of work now",
+      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
+      "score": 249,
+      "by": "dbreunig",
+      "time": 1776190094
     },
     {
-      "title": "Claude Code Routines",
-      "url": "https://code.claude.com/docs/en/routines",
-      "score": 429,
-      "by": "matthieu_bl",
-      "time": 1776185673
+      "title": "I made a terminal pager",
+      "url": "https://theleo.zone/posts/pager/",
+      "score": 61,
+      "by": "speckx",
+      "time": 1776292074
     },
     {
-      "title": "Rare concert recordings are landing on the Internet Archive",
-      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 527,
-      "by": "jrm-veris",
-      "time": 1776174391
+      "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
+      "url": "https://www.bbc.com/news/technology-39576394",
+      "score": 66,
+      "by": "harambae",
+      "time": 1776290744
     },
     {
-      "title": "Fuck the cloud (2009)",
-      "url": "https://ascii.textfiles.com/archives/1717",
-      "score": 101,
-      "by": "downbad_",
-      "time": 1776204011
+      "title": "Google broke its promise to me – now ICE has my data",
+      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "score": 1116,
+      "by": "Brajeshwar",
+      "time": 1776275066
     },
     {
-      "title": "The Orange Pi 6 Plus",
-      "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
-      "score": 120,
-      "by": "rcarmo",
-      "time": 1775929682
+      "title": "Cal.com is going closed source",
+      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
+      "score": 214,
+      "by": "Benjamin_Dobell",
+      "time": 1776266806
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1358,
+      "stars": 1371,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 399,
+      "stars": 400,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
