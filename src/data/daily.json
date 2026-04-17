@@ -1,55 +1,55 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "weather": {
     "city": "Shanghai",
-    "temp": "18",
+    "temp": "19",
     "condition": "Partly cloudy",
-    "humidity": "67",
-    "wind": "17",
-    "updated": "2026-04-16 09:05 AM"
+    "humidity": "78",
+    "wind": "9",
+    "updated": "2026-04-17 10:00 AM"
   },
   "news": [
     {
-      "title": "Cybersecurity looks like proof of work now",
-      "url": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-      "score": 249,
-      "by": "dbreunig",
-      "time": 1776190094
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "score": 1484,
+      "by": "meetpateltech",
+      "time": 1776349430
     },
     {
-      "title": "I made a terminal pager",
-      "url": "https://theleo.zone/posts/pager/",
-      "score": 61,
-      "by": "speckx",
-      "time": 1776292074
+      "title": "Codex for almost everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 680,
+      "by": "mikeevans",
+      "time": 1776359539
     },
     {
-      "title": "Ohio prison inmates 'built computers and hid them in ceiling (2017)",
-      "url": "https://www.bbc.com/news/technology-39576394",
-      "score": 66,
-      "by": "harambae",
-      "time": 1776290744
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "url": "https://cadquery.github.io/",
+      "score": 37,
+      "by": "gregsadetsky",
+      "time": 1776208839
     },
     {
-      "title": "Google broke its promise to me – now ICE has my data",
-      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-      "score": 1116,
-      "by": "Brajeshwar",
-      "time": 1776275066
+      "title": "Everything we like is a psyop",
+      "url": "https://techcrunch.com/2026/04/16/everything-we-like-is-a-psyop/",
+      "score": 114,
+      "by": "evo_9",
+      "time": 1776381333
     },
     {
-      "title": "Cal.com is going closed source",
-      "url": "https://cal.com/blog/cal-com-goes-closed-source-why",
-      "score": 214,
-      "by": "Benjamin_Dobell",
-      "time": 1776266806
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "url": "https://github.com/gainsec/autoprober",
+      "score": 96,
+      "by": "scaredpelican",
+      "time": 1776376597
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1371,
+      "stars": 1386,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
@@ -61,7 +61,7 @@
     {
       "name": "proxy",
       "description": "Open source cost intelligence proxy for AI agents. Cut costs ~80% with smart model routing. Dashboard, policy engine, 11 providers. MIT licensed.",
-      "stars": 152,
+      "stars": 155,
       "url": "https://github.com/RelayPlane/proxy"
     }
   ]
