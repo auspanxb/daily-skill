@@ -1,55 +1,55 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "weather": {
     "city": "Shanghai",
-    "temp": "17",
-    "condition": "Patchy rain nearby",
-    "humidity": "84",
-    "wind": "9",
-    "updated": "2026-04-20 08:54 AM"
+    "temp": "15",
+    "condition": "Partly cloudy",
+    "humidity": "55",
+    "wind": "16",
+    "updated": "2026-04-21 09:50 AM"
   },
   "news": [
     {
-      "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
-      "url": "https://github.com/shivampkumar/trellis-mac",
-      "score": 44,
-      "by": "shivampkumar",
-      "time": 1776643636
+      "title": "John Ternus to become Apple CEO",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "score": 1216,
+      "by": "schappim",
+      "time": 1776717572
     },
     {
-      "title": "A Brief History of Fish Sauce",
-      "url": "https://www.legalnomads.com/fish-sauce/",
-      "score": 77,
-      "by": "vinhnx",
-      "time": 1776587573
+      "title": "How to Make a Fast Dynamic Language Interpreter",
+      "url": "https://zef-lang.dev/implementation",
+      "score": 33,
+      "by": "pizlonator",
+      "time": 1776732487
     },
     {
-      "title": "Vercel April 2026 security incident",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "score": 544,
-      "by": "colesantiago",
-      "time": 1776608078
+      "title": "Jujutsu megamerges for fun and profit",
+      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "score": 130,
+      "by": "icorbrey",
+      "time": 1776720730
     },
     {
-      "title": "The Bromine Chokepoint",
-      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-      "score": 157,
-      "by": "crescit_eundo",
-      "time": 1776620643
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "score": 542,
+      "by": "mfiguiere",
+      "time": 1776693934
     },
     {
-      "title": "The Uncanny Valley and the Rising Power of Anti-AI Sentiment",
-      "url": "https://localscribe.co/posts/uncanny-valley-and-rising-power-of-anti-ai-sentiment/",
-      "score": 13,
-      "by": "jcbritton",
-      "time": 1776645279
+      "title": "Kimi vendor verifier – verify accuracy of inference providers",
+      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "score": 168,
+      "by": "Alifatisk",
+      "time": 1776710393
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1483,
+      "stars": 1496,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
@@ -61,7 +61,7 @@
     {
       "name": "proxy",
       "description": "Open source cost intelligence proxy for AI agents. Cut costs ~80% with smart model routing. Dashboard, policy engine, 11 providers. MIT licensed.",
-      "stars": 156,
+      "stars": 157,
       "url": "https://github.com/RelayPlane/proxy"
     }
   ]
