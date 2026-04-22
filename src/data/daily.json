@@ -1,55 +1,55 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "weather": {
     "city": "Shanghai",
     "temp": "15",
-    "condition": "Partly cloudy",
-    "humidity": "55",
-    "wind": "16",
-    "updated": "2026-04-21 09:50 AM"
+    "condition": "Light drizzle",
+    "humidity": "99",
+    "wind": "12",
+    "updated": "2026-04-22 08:50 AM"
   },
   "news": [
     {
-      "title": "John Ternus to become Apple CEO",
-      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
-      "score": 1216,
-      "by": "schappim",
-      "time": 1776717572
+      "title": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "score": 445,
+      "by": "wahnfrieden",
+      "time": 1776797400
     },
     {
-      "title": "How to Make a Fast Dynamic Language Interpreter",
-      "url": "https://zef-lang.dev/implementation",
-      "score": 33,
-      "by": "pizlonator",
-      "time": 1776732487
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "url": "https://twitter.com/spacex/status/2046713419978453374",
+      "score": 267,
+      "by": "dmarcos",
+      "time": 1776809598
     },
     {
-      "title": "Jujutsu megamerges for fun and profit",
-      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
-      "score": 130,
-      "by": "icorbrey",
-      "time": 1776720730
+      "title": "Windows Server 2025 Runs Better on ARM",
+      "url": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+      "score": 39,
+      "by": "jasoneckert",
+      "time": 1776572911
     },
     {
-      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "score": 542,
-      "by": "mfiguiere",
-      "time": 1776693934
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "score": 263,
+      "by": "queenelvis",
+      "time": 1776791675
     },
     {
-      "title": "Kimi vendor verifier – verify accuracy of inference providers",
-      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
-      "score": 168,
-      "by": "Alifatisk",
-      "time": 1776710393
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "url": "https://www.brex.com/crabtrap",
+      "score": 79,
+      "by": "pedrofranceschi",
+      "time": 1776785356
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1496,
+      "stars": 1509,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
@@ -61,7 +61,7 @@
     {
       "name": "proxy",
       "description": "Open source cost intelligence proxy for AI agents. Cut costs ~80% with smart model routing. Dashboard, policy engine, 11 providers. MIT licensed.",
-      "stars": 157,
+      "stars": 158,
       "url": "https://github.com/RelayPlane/proxy"
     }
   ]
