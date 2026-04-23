@@ -1,68 +1,68 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "weather": {
     "city": "Shanghai",
-    "temp": "15",
-    "condition": "Light drizzle",
-    "humidity": "99",
-    "wind": "12",
-    "updated": "2026-04-22 08:50 AM"
+    "temp": "13",
+    "condition": "Light rain",
+    "humidity": "88",
+    "wind": "14",
+    "updated": "2026-04-23 09:45 AM"
   },
   "news": [
     {
-      "title": "ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 445,
-      "by": "wahnfrieden",
-      "time": 1776797400
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "score": 1337,
+      "by": "Kaibeezy",
+      "time": 1776875365
     },
     {
-      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "url": "https://twitter.com/spacex/status/2046713419978453374",
-      "score": 267,
-      "by": "dmarcos",
-      "time": 1776809598
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "score": 371,
+      "by": "cdrnsf",
+      "time": 1776889651
     },
     {
-      "title": "Windows Server 2025 Runs Better on ARM",
-      "url": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
-      "score": 39,
-      "by": "jasoneckert",
-      "time": 1776572911
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "score": 446,
+      "by": "danpinto",
+      "time": 1776879303
     },
     {
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "score": 263,
-      "by": "queenelvis",
-      "time": 1776791675
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "score": 704,
+      "by": "mfiguiere",
+      "time": 1776863998
     },
     {
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "url": "https://www.brex.com/crabtrap",
-      "score": 79,
-      "by": "pedrofranceschi",
-      "time": 1776785356
+      "title": "5x5 Pixel font for tiny screens",
+      "url": "https://maurycyz.com/projects/mcufont/",
+      "score": 437,
+      "by": "zdw",
+      "time": 1776611968
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1509,
+      "stars": 1516,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 401,
+      "stars": 402,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
-      "name": "proxy",
-      "description": "Open source cost intelligence proxy for AI agents. Cut costs ~80% with smart model routing. Dashboard, policy engine, 11 providers. MIT licensed.",
-      "stars": 158,
-      "url": "https://github.com/RelayPlane/proxy"
+      "name": "scholar-skill",
+      "description": "An OpenClaw skill for academic reading, knowledge linking, reflection, and knowledge evolution in Obsidian.",
+      "stars": 159,
+      "url": "https://github.com/EESJGong/scholar-skill"
     }
   ]
 }
