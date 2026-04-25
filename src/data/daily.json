@@ -1,67 +1,67 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-25",
   "weather": {
     "city": "Shanghai",
-    "temp": "15",
+    "temp": "20",
     "condition": "Sunny",
-    "humidity": "63",
-    "wind": "9",
-    "updated": "2026-04-24 08:44 AM"
+    "humidity": "53",
+    "wind": "10",
+    "updated": "2026-04-25 09:39 AM"
   },
   "news": [
     {
-      "title": "GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 1102,
-      "by": "rd",
-      "time": 1776967299
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "score": 343,
+      "by": "elffjs",
+      "time": 1777046681
     },
     {
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 648,
-      "by": "tosh",
-      "time": 1776953828
+      "title": "My audio interface has SSH enabled by default",
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "score": 160,
+      "by": "hhh",
+      "time": 1777059046
     },
     {
-      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
-      "url": "https://github.com/refactoringhq/tolaria",
+      "title": "Iliad fragment found in Roman-era mummy",
+      "url": "https://www.thehistoryblog.com/archives/75877",
       "score": 103,
-      "by": "lucaronin",
-      "time": 1776981719
+      "by": "wise_blood",
+      "time": 1776867515
     },
     {
-      "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
-      "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
-      "score": 234,
-      "by": "paulpauper",
-      "time": 1776983821
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "score": 360,
+      "by": "alcazar",
+      "time": 1777040932
     },
     {
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "score": 152,
-      "by": "wielebny",
-      "time": 1776963313
+      "title": "The Classic American Diner",
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "score": 156,
+      "by": "NaOH",
+      "time": 1777057269
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1531,
+      "stars": 1540,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 401,
+      "stars": 400,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
       "name": "scholar-skill",
       "description": "An OpenClaw skill for academic reading, knowledge linking, reflection, and knowledge evolution in Obsidian.",
-      "stars": 163,
+      "stars": 164,
       "url": "https://github.com/EESJGong/scholar-skill"
     }
   ]
