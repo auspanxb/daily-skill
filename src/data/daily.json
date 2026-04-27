@@ -1,55 +1,55 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "weather": {
     "city": "Shanghai",
-    "temp": "18",
+    "temp": "20",
     "condition": "Sunny",
-    "humidity": "68",
-    "wind": "4",
-    "updated": "2026-04-26 08:40 AM"
+    "humidity": "65",
+    "wind": "9",
+    "updated": "2026-04-27 09:35 AM"
   },
   "news": [
     {
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "score": 73,
-      "by": "chiefalchemist",
-      "time": 1777162367
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "score": 426,
+      "by": "ca98am79",
+      "time": 1777236066
     },
     {
-      "title": "USB Cheat Sheet (2022)",
-      "url": "https://fabiensanglard.net/usbcheat/index.html",
-      "score": 175,
-      "by": "gwerbret",
-      "time": 1777153878
+      "title": "Self-updating screenshots",
+      "url": "https://interblah.net/self-updating-screenshots",
+      "score": 70,
+      "by": "bjhess",
+      "time": 1777186839
     },
     {
-      "title": "The Free Universal Construction Kit",
-      "url": "https://fffff.at/free-universal-construction-kit/",
-      "score": 278,
-      "by": "robinhouston",
-      "time": 1776842423
+      "title": "Three constraints before I build anything",
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "score": 51,
+      "by": "nervous_north",
+      "time": 1777142463
     },
     {
-      "title": "OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-      "score": 107,
-      "by": "tanelpoder",
-      "time": 1776903295
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "score": 163,
+      "by": "dd23",
+      "time": 1777234717
     },
     {
-      "title": "Flickr: The first and last great photo platform",
-      "url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
-      "score": 46,
-      "by": "Nrbelex",
-      "time": 1776882861
+      "title": "Box to save memory in Rust",
+      "url": "https://dystroy.org/blog/box-to-save-memory/",
+      "score": 71,
+      "by": "emschwartz",
+      "time": 1776963744
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1550,
+      "stars": 1560,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
