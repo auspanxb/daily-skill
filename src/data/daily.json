@@ -1,68 +1,68 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "weather": {
     "city": "Shanghai",
-    "temp": "20",
-    "condition": "Sunny",
-    "humidity": "65",
-    "wind": "9",
-    "updated": "2026-04-27 09:35 AM"
+    "temp": "17",
+    "condition": "Overcast",
+    "humidity": "55",
+    "wind": "16",
+    "updated": "2026-04-28 10:30 AM"
   },
   "news": [
     {
-      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
-      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "score": 426,
-      "by": "ca98am79",
-      "time": 1777236066
-    },
-    {
-      "title": "Self-updating screenshots",
-      "url": "https://interblah.net/self-updating-screenshots",
+      "title": "Integrated by Design",
+      "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
       "score": 70,
-      "by": "bjhess",
-      "time": 1777186839
+      "by": "vermaden",
+      "time": 1777331666
     },
     {
-      "title": "Three constraints before I build anything",
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "score": 51,
-      "by": "nervous_north",
-      "time": 1777142463
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "score": 763,
+      "by": "helsinkiandrew",
+      "time": 1777296162
     },
     {
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "score": 163,
-      "by": "dd23",
-      "time": 1777234717
+      "title": "I quit drinking for a year",
+      "url": "https://dynomight.net/drinking/",
+      "score": 41,
+      "by": "webninja",
+      "time": 1777339563
     },
     {
-      "title": "Box to save memory in Rust",
-      "url": "https://dystroy.org/blog/box-to-save-memory/",
-      "score": 71,
-      "by": "emschwartz",
-      "time": 1776963744
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "score": 96,
+      "by": "jekude",
+      "time": 1777326948
+    },
+    {
+      "title": "Meetings are forcing functions",
+      "url": "https://www.mooreds.com/wordpress/archives/3734",
+      "score": 48,
+      "by": "zdw",
+      "time": 1777173124
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1560,
+      "stars": 1823,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 401,
+      "stars": 402,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
-      "name": "scholar-skill",
-      "description": "An OpenClaw skill for academic reading, knowledge linking, reflection, and knowledge evolution in Obsidian.",
-      "stars": 165,
-      "url": "https://github.com/EESJGong/scholar-skill"
+      "name": "SkillCompass",
+      "description": "Evaluate agent skill quality. Find the weakest link. Fix it. Prove it worked.",
+      "stars": 180,
+      "url": "https://github.com/Evol-ai/SkillCompass"
     }
   ]
 }
