@@ -1,61 +1,68 @@
 {
-  "date": "2026-04-29",
-  "weather": null,
+  "date": "2026-04-30",
+  "weather": {
+    "city": "Shanghai",
+    "temp": "15",
+    "condition": "Partly cloudy",
+    "humidity": "63",
+    "wind": "12",
+    "updated": "2026-04-30 10:25 AM"
+  },
   "news": [
     {
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 1763,
-      "by": "WadeGrimridge",
-      "time": 1777405492
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "score": 52,
+      "by": "rdl",
+      "time": 1777513496
     },
     {
-      "title": "ChatGPT serves ads. Here's the full attribution loop",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 162,
-      "by": "lmbbuchodi",
-      "time": 1777420454
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
+      "score": 1564,
+      "by": "salkahfi",
+      "time": 1777473259
     },
     {
-      "title": "Claude system prompt bug wastes user money and bricks managed agents",
-      "url": "https://github.com/anthropics/claude-code/issues/49363",
-      "score": 118,
-      "by": "thomashobohm",
-      "time": 1777420797
+      "title": "Copy Fail",
+      "url": "https://copy.fail/",
+      "score": 626,
+      "by": "unsnap_biceps",
+      "time": 1777486433
     },
     {
-      "title": "Before GitHub",
-      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 275,
-      "by": "mlex",
-      "time": 1777411060
+      "title": "Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight",
+      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+      "score": 15,
+      "by": "Jblx2",
+      "time": 1777510915
     },
     {
-      "title": "Claude for Creative Work",
-      "url": "https://www.anthropic.com/news/claude-for-creative-work",
-      "score": 55,
-      "by": "elsewhen",
-      "time": 1777420016
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "score": 672,
+      "by": "bpierre",
+      "time": 1777477183
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1930,
+      "stars": 1963,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 402,
+      "stars": 404,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
-      "name": "SkillCompass",
-      "description": "Evaluate agent skill quality. Find the weakest link. Fix it. Prove it worked.",
-      "stars": 195,
-      "url": "https://github.com/Evol-ai/SkillCompass"
+      "name": "narrator-ai-cli-skill",
+      "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
+      "stars": 283,
+      "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
 }
