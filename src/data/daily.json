@@ -1,67 +1,67 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "weather": {
     "city": "Shanghai",
-    "temp": "15",
-    "condition": "Partly cloudy",
-    "humidity": "63",
-    "wind": "12",
-    "updated": "2026-04-30 10:25 AM"
+    "temp": "18",
+    "condition": "Sunny",
+    "humidity": "53",
+    "wind": "13",
+    "updated": "2026-05-01 09:25 AM"
   },
   "news": [
     {
-      "title": "Craig Venter has died",
-      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-      "score": 52,
-      "by": "rdl",
-      "time": 1777513496
+      "title": "OpenWarp",
+      "url": "https://openwarp.zerx.dev",
+      "score": 16,
+      "by": "zero-lab",
+      "time": 1777601446
     },
     {
-      "title": "Zed 1.0",
-      "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1564,
-      "by": "salkahfi",
-      "time": 1777473259
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "score": 444,
+      "by": "the-mitr",
+      "time": 1777567260
     },
     {
-      "title": "Copy Fail",
-      "url": "https://copy.fail/",
-      "score": 626,
-      "by": "unsnap_biceps",
-      "time": 1777486433
+      "title": "Opus 4.7 knows the real Kelsey",
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "score": 180,
+      "by": "ilamont",
+      "time": 1777482543
     },
     {
-      "title": "Joby Kicks Off NYC Electric Air Taxi Demos with Historic JFK Flight",
-      "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-      "score": 15,
-      "by": "Jblx2",
-      "time": 1777510915
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "score": 386,
+      "by": "ori_b",
+      "time": 1777567427
     },
     {
-      "title": "Cursor Camp",
-      "url": "https://neal.fun/cursor-camp/",
-      "score": 672,
-      "by": "bpierre",
-      "time": 1777477183
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "score": 332,
+      "by": "j12y",
+      "time": 1777565366
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1963,
+      "stars": 1976,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 404,
+      "stars": 406,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 283,
+      "stars": 298,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
