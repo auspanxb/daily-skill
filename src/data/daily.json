@@ -1,55 +1,55 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-02",
   "weather": {
     "city": "Shanghai",
-    "temp": "18",
-    "condition": "Sunny",
-    "humidity": "53",
-    "wind": "13",
-    "updated": "2026-05-01 09:25 AM"
+    "temp": "22",
+    "condition": "Partly cloudy",
+    "humidity": "57",
+    "wind": "26",
+    "updated": "2026-05-02 10:20 AM"
   },
   "news": [
     {
-      "title": "OpenWarp",
-      "url": "https://openwarp.zerx.dev",
-      "score": 16,
-      "by": "zero-lab",
-      "time": 1777601446
+      "title": "Ti-84 Evo",
+      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "score": 311,
+      "by": "thatxliner",
+      "time": 1777666019
     },
     {
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 444,
-      "by": "the-mitr",
-      "time": 1777567260
+      "title": "Artemis II Photo Timeline",
+      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "score": 72,
+      "by": "geerlingguy",
+      "time": 1777495697
     },
     {
-      "title": "Opus 4.7 knows the real Kelsey",
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 180,
-      "by": "ilamont",
-      "time": 1777482543
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "score": 256,
+      "by": "XzetaU8",
+      "time": 1777657662
     },
     {
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 386,
-      "by": "ori_b",
-      "time": 1777567427
+      "title": "Good developers learn to program. Most courses teach a language",
+      "url": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
+      "score": 24,
+      "by": "andsoitis",
+      "time": 1777680873
     },
     {
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "score": 332,
-      "by": "j12y",
-      "time": 1777565366
+      "title": "The smelly baby problem",
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "score": 112,
+      "by": "dionysou",
+      "time": 1777477698
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1976,
+      "stars": 1982,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
@@ -61,7 +61,7 @@
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 298,
+      "stars": 301,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
