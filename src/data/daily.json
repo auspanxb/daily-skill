@@ -1,55 +1,55 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "weather": {
     "city": "Shanghai",
-    "temp": "22",
-    "condition": "Partly cloudy",
-    "humidity": "57",
-    "wind": "26",
-    "updated": "2026-05-02 10:20 AM"
+    "temp": "16",
+    "condition": "Patchy rain nearby",
+    "humidity": "88",
+    "wind": "16",
+    "updated": "2026-05-03 09:20 AM"
   },
   "news": [
     {
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 311,
-      "by": "thatxliner",
-      "time": 1777666019
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "score": 845,
+      "by": "indrora",
+      "time": 1777751846
     },
     {
-      "title": "Artemis II Photo Timeline",
-      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 72,
-      "by": "geerlingguy",
-      "time": 1777495697
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+      "score": 60,
+      "by": "unignorant",
+      "time": 1777766474
     },
     {
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 256,
-      "by": "XzetaU8",
-      "time": 1777657662
+      "title": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "score": 165,
+      "by": "richardboegli",
+      "time": 1777754790
     },
     {
-      "title": "Good developers learn to program. Most courses teach a language",
-      "url": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
-      "score": 24,
-      "by": "andsoitis",
-      "time": 1777680873
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "score": 182,
+      "by": "valzevul",
+      "time": 1777756469
     },
     {
-      "title": "The smelly baby problem",
-      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "score": 112,
-      "by": "dionysou",
-      "time": 1777477698
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "score": 341,
+      "by": "dabinat",
+      "time": 1777743149
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1982,
+      "stars": 1986,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
@@ -61,7 +61,7 @@
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 301,
+      "stars": 303,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
