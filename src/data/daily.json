@@ -1,55 +1,55 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "weather": {
     "city": "Shanghai",
-    "temp": "16",
-    "condition": "Patchy rain nearby",
-    "humidity": "88",
-    "wind": "16",
-    "updated": "2026-05-03 09:20 AM"
+    "temp": "21",
+    "condition": "Sunny",
+    "humidity": "53",
+    "wind": "9",
+    "updated": "2026-05-04 10:15 AM"
   },
   "news": [
     {
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "url": "https://github.com/microsoft/vscode/pull/310226",
-      "score": 845,
-      "by": "indrora",
-      "time": 1777751846
+      "title": "Agentic Coding Is a Trap",
+      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "score": 194,
+      "by": "ayoisaiah",
+      "time": 1777848727
     },
     {
-      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "score": 60,
-      "by": "unignorant",
-      "time": 1777766474
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "score": 260,
+      "by": "nullagent",
+      "time": 1777831394
     },
     {
-      "title": "This Month in Ladybird - April 2026",
-      "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "score": 165,
-      "by": "richardboegli",
-      "time": 1777754790
+      "title": "Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "score": 149,
+      "by": "bjhess",
+      "time": 1777851371
     },
     {
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "score": 182,
-      "by": "valzevul",
-      "time": 1777756469
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "score": 59,
+      "by": "jdgr",
+      "time": 1777849922
     },
     {
-      "title": "Dav2d",
-      "url": "https://code.videolan.org/videolan/dav2d",
-      "score": 341,
-      "by": "dabinat",
-      "time": 1777743149
+      "title": "Using \"underdrawings\" for accurate text and numbers",
+      "url": "https://samcollins.blog/underdrawings/",
+      "score": 35,
+      "by": "samcollins",
+      "time": 1777658848
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1986,
+      "stars": 1993,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
@@ -61,7 +61,7 @@
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 303,
+      "stars": 311,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
