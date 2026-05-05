@@ -1,67 +1,67 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "weather": {
     "city": "Shanghai",
-    "temp": "21",
+    "temp": "22",
     "condition": "Sunny",
-    "humidity": "53",
-    "wind": "9",
-    "updated": "2026-05-04 10:15 AM"
+    "humidity": "52",
+    "wind": "13",
+    "updated": "2026-05-05 09:15 AM"
   },
   "news": [
     {
-      "title": "Agentic Coding Is a Trap",
-      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-      "score": 194,
-      "by": "ayoisaiah",
-      "time": 1777848727
+      "title": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "score": 144,
+      "by": "SergeAx",
+      "time": 1777943297
     },
     {
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 260,
-      "by": "nullagent",
-      "time": 1777831394
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 296,
+      "by": "Sean-Der",
+      "time": 1777923767
     },
     {
-      "title": "Let's Buy Spirit Air",
-      "url": "https://letsbuyspiritair.com/",
-      "score": 149,
-      "by": "bjhess",
-      "time": 1777851371
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "score": 1175,
+      "by": "thitran",
+      "time": 1777894862
     },
     {
-      "title": "The 'Hidden' Costs of Great Abstractions",
-      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
-      "score": 59,
-      "by": "jdgr",
-      "time": 1777849922
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "score": 125,
+      "by": "BOOSTERHIDROGEN",
+      "time": 1777930842
     },
     {
-      "title": "Using \"underdrawings\" for accurate text and numbers",
-      "url": "https://samcollins.blog/underdrawings/",
-      "score": 35,
-      "by": "samcollins",
-      "time": 1777658848
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 171,
+      "by": "bearsyankees",
+      "time": 1777916792
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 1993,
+      "stars": 1999,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 406,
+      "stars": 407,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 311,
+      "stars": 316,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
