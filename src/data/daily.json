@@ -1,67 +1,67 @@
 {
-  "date": "2026-05-07",
+  "date": "2026-05-08",
   "weather": {
     "city": "Shanghai",
-    "temp": "22",
+    "temp": "19",
     "condition": "Partly cloudy",
-    "humidity": "62",
-    "wind": "10",
-    "updated": "2026-05-07 09:10 AM"
+    "humidity": "37",
+    "wind": "13",
+    "updated": "2026-05-08 10:05 AM"
   },
   "news": [
     {
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1085,
-      "by": "haunter",
-      "time": 1778082253
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "score": 267,
+      "by": "stefanpie",
+      "time": 1778192541
     },
     {
-      "title": "The Vatican's Website in Latin",
-      "url": "https://www.vatican.va/latin/latin_index.html",
-      "score": 37,
-      "by": "ks2048",
-      "time": 1778117163
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "score": 163,
+      "by": "psxuaw",
+      "time": 1778194931
     },
     {
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 745,
-      "by": "diebillionaires",
-      "time": 1778084309
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "score": 440,
+      "by": "flipped",
+      "time": 1778181692
     },
     {
-      "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
-      "url": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
-      "score": 38,
-      "by": "Caiero",
-      "time": 1778112743
+      "title": "The Burning Man MOOP Map",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "score": 541,
+      "by": "speckx",
+      "time": 1778162770
     },
     {
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 420,
-      "by": "e12e",
-      "time": 1778079997
+      "title": "The Disappearance of the Public Bench",
+      "url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
+      "score": 44,
+      "by": "cainxinth",
+      "time": 1778106977
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 2020,
+      "stars": 2031,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 409,
+      "stars": 410,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 324,
+      "stars": 336,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
