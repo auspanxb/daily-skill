@@ -1,55 +1,55 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "weather": {
     "city": "Shanghai",
-    "temp": "19",
+    "temp": "20",
     "condition": "Partly cloudy",
-    "humidity": "37",
-    "wind": "13",
-    "updated": "2026-05-08 10:05 AM"
+    "humidity": "34",
+    "wind": "12",
+    "updated": "2026-05-09 09:04 AM"
   },
   "news": [
     {
-      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "score": 267,
-      "by": "stefanpie",
-      "time": 1778192541
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "score": 657,
+      "by": "anonymousiam",
+      "time": 1778265958
     },
     {
-      "title": "Maybe you shouldn't install new software for a bit",
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "score": 163,
-      "by": "psxuaw",
-      "time": 1778194931
+      "title": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "score": 127,
+      "by": "atgctg",
+      "time": 1778173919
     },
     {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "score": 440,
-      "by": "flipped",
-      "time": 1778181692
+      "title": "The React2Shell Story",
+      "url": "https://lachlan.nz/blog/the-react2shell-story/",
+      "score": 54,
+      "by": "mufeedvh",
+      "time": 1778258388
     },
     {
-      "title": "The Burning Man MOOP Map",
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "score": 541,
+      "title": "People Hate AI Art",
+      "url": "https://mccue.dev/pages/5-8-26-ai-art",
+      "score": 25,
+      "by": "3dedb728-3f77",
+      "time": 1778287198
+    },
+    {
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "score": 252,
       "by": "speckx",
-      "time": 1778162770
-    },
-    {
-      "title": "The Disappearance of the Public Bench",
-      "url": "https://placesjournal.org/article/the-disappearance-of-the-public-bench/",
-      "score": 44,
-      "by": "cainxinth",
-      "time": 1778106977
+      "time": 1778262908
     }
   ],
   "skills": [
     {
       "name": "md2wechat-skill",
       "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 2031,
+      "stars": 2097,
       "url": "https://github.com/geekjourneyx/md2wechat-skill"
     },
     {
@@ -61,7 +61,7 @@
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 336,
+      "stars": 338,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
