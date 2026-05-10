@@ -1,68 +1,68 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "weather": {
     "city": "Shanghai",
-    "temp": "20",
-    "condition": "Partly cloudy",
-    "humidity": "34",
-    "wind": "12",
-    "updated": "2026-05-09 09:04 AM"
+    "temp": "21",
+    "condition": "Sunny",
+    "humidity": "53",
+    "wind": "19",
+    "updated": "2026-05-10 09:59 AM"
   },
   "news": [
     {
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 657,
-      "by": "anonymousiam",
-      "time": 1778265958
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "score": 436,
+      "by": "heldrida",
+      "time": 1778321575
     },
     {
-      "title": "OpenAI's WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 127,
-      "by": "atgctg",
-      "time": 1778173919
+      "title": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "score": 545,
+      "by": "hggh",
+      "time": 1778328030
     },
     {
-      "title": "The React2Shell Story",
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
-      "score": 54,
-      "by": "mufeedvh",
-      "time": 1778258388
+      "title": "The Serial TTL connector we deserve",
+      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+      "score": 52,
+      "by": "kohlschuetter",
+      "time": 1778163595
     },
     {
-      "title": "People Hate AI Art",
-      "url": "https://mccue.dev/pages/5-8-26-ai-art",
-      "score": 25,
-      "by": "3dedb728-3f77",
-      "time": 1778287198
+      "title": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "score": 275,
+      "by": "susam",
+      "time": 1778344116
     },
     {
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 252,
-      "by": "speckx",
-      "time": 1778262908
+      "title": "Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "score": 86,
+      "by": "thatxliner",
+      "time": 1778363187
     }
   ],
   "skills": [
     {
-      "name": "md2wechat-skill",
-      "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。",
-      "stars": 2097,
-      "url": "https://github.com/geekjourneyx/md2wechat-skill"
-    },
-    {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 410,
+      "stars": 411,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 338,
+      "stars": 340,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
+    },
+    {
+      "name": "SkillCompass",
+      "description": "Evaluate agent skill quality. Find the weakest link. Fix it. Prove it worked.",
+      "stars": 208,
+      "url": "https://github.com/Evol-ai/SkillCompass"
     }
   ]
 }
