@@ -1,67 +1,67 @@
 {
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "weather": {
     "city": "Shanghai",
-    "temp": "21",
+    "temp": "24",
     "condition": "Sunny",
-    "humidity": "53",
-    "wind": "19",
-    "updated": "2026-05-10 09:59 AM"
+    "humidity": "63",
+    "wind": "9",
+    "updated": "2026-05-11 09:00 AM"
   },
   "news": [
     {
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 436,
-      "by": "heldrida",
-      "time": 1778321575
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "score": 953,
+      "by": "ChuckMcM",
+      "time": 1778435642
     },
     {
-      "title": "Internet Archive Switzerland",
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "score": 545,
-      "by": "hggh",
-      "time": 1778328030
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "score": 637,
+      "by": "cylo",
+      "time": 1778433568
     },
     {
-      "title": "The Serial TTL connector we deserve",
-      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-      "score": 52,
-      "by": "kohlschuetter",
-      "time": 1778163595
+      "title": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "score": 108,
+      "by": "shintoist",
+      "time": 1778454550
     },
     {
-      "title": "I’ve banned query strings",
-      "url": "https://chrismorgan.info/no-query-strings",
-      "score": 275,
-      "by": "susam",
-      "time": 1778344116
+      "title": "I'm going back to writing code by hand",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "score": 67,
+      "by": "dropbox_miner",
+      "time": 1778462631
     },
     {
-      "title": "Rust but Lisp",
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "score": 86,
-      "by": "thatxliner",
-      "time": 1778363187
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 412,
+      "by": "miniBill",
+      "time": 1778434990
     }
   ],
   "skills": [
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 411,
+      "stars": 412,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 340,
+      "stars": 347,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "SkillCompass",
       "description": "Evaluate agent skill quality. Find the weakest link. Fix it. Prove it worked.",
-      "stars": 208,
+      "stars": 210,
       "url": "https://github.com/Evol-ai/SkillCompass"
     }
   ]
