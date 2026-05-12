@@ -1,61 +1,61 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "weather": {
     "city": "Shanghai",
-    "temp": "24",
+    "temp": "28",
     "condition": "Sunny",
-    "humidity": "63",
-    "wind": "9",
-    "updated": "2026-05-11 09:00 AM"
+    "humidity": "55",
+    "wind": "7",
+    "updated": "2026-05-12 09:55 AM"
   },
   "news": [
     {
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 953,
-      "by": "ChuckMcM",
-      "time": 1778435642
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "score": 557,
+      "by": "varunsharma07",
+      "time": 1778533705
     },
     {
-      "title": "Local AI needs to be the norm",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "score": 637,
-      "by": "cylo",
-      "time": 1778433568
+      "title": "If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "score": 187,
+      "by": "indigodaddy",
+      "time": 1778532355
     },
     {
-      "title": "Running local models on an M4 with 24GB memory",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "score": 243,
+      "by": "bookofjoe",
+      "time": 1778521988
+    },
+    {
+      "title": "Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "score": 12,
+      "by": "matrixhelix",
+      "time": 1778549069
+    },
+    {
+      "title": "Library for fast mapping of Java records to native memory",
+      "url": "https://github.com/mamba-studio/TypedMemory",
       "score": 108,
-      "by": "shintoist",
-      "time": 1778454550
-    },
-    {
-      "title": "I'm going back to writing code by hand",
-      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "score": 67,
-      "by": "dropbox_miner",
-      "time": 1778462631
-    },
-    {
-      "title": "Incident Report: CVE-2024-YIKES",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "score": 412,
-      "by": "miniBill",
-      "time": 1778434990
+      "by": "joe_mwangi",
+      "time": 1778528011
     }
   ],
   "skills": [
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 412,
+      "stars": 413,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 347,
+      "stars": 351,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
