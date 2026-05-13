@@ -1,61 +1,61 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
+    "temp": "23",
     "condition": "Sunny",
-    "humidity": "55",
-    "wind": "7",
-    "updated": "2026-05-12 09:55 AM"
+    "humidity": "74",
+    "wind": "12",
+    "updated": "2026-05-13 08:54 AM"
   },
   "news": [
     {
-      "title": "Postmortem: TanStack npm supply-chain compromise",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 557,
-      "by": "varunsharma07",
-      "time": 1778533705
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "score": 192,
+      "by": "Murfalo",
+      "time": 1778622921
     },
     {
-      "title": "If AI writes your code, why use Python?",
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "score": 187,
-      "by": "indigodaddy",
-      "time": 1778532355
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "score": 630,
+      "by": "tambourine_man",
+      "time": 1778607456
     },
     {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "score": 243,
-      "by": "bookofjoe",
-      "time": 1778521988
+      "title": "My graduation cap runs Rust",
+      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "score": 67,
+      "by": "ericswpark",
+      "time": 1778630661
     },
     {
-      "title": "Claude Platform on AWS",
-      "url": "https://claude.com/blog/claude-platform-on-aws",
-      "score": 12,
-      "by": "matrixhelix",
-      "time": 1778549069
+      "title": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "score": 73,
+      "by": "tcp_handshaker",
+      "time": 1778627581
     },
     {
-      "title": "Library for fast mapping of Java records to native memory",
-      "url": "https://github.com/mamba-studio/TypedMemory",
-      "score": 108,
-      "by": "joe_mwangi",
-      "time": 1778528011
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "score": 226,
+      "by": "_vaporwave_",
+      "time": 1778616986
     }
   ],
   "skills": [
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 413,
+      "stars": 414,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
       "name": "narrator-ai-cli-skill",
-      "description": "AI Agent skill for narrator-ai-cli — CLI client for Narrator AI video narration API",
-      "stars": 351,
+      "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
+      "stars": 353,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
