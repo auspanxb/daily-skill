@@ -1,67 +1,67 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "weather": {
     "city": "Shanghai",
-    "temp": "23",
-    "condition": "Sunny",
-    "humidity": "74",
-    "wind": "12",
-    "updated": "2026-05-13 08:54 AM"
+    "temp": "22",
+    "condition": "Partly cloudy",
+    "humidity": "88",
+    "wind": "22",
+    "updated": "2026-05-14 09:49 AM"
   },
   "news": [
     {
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 192,
-      "by": "Murfalo",
-      "time": 1778622921
+      "title": "Scorched Earth 2000 is back",
+      "url": "http://www.scorch2000.com/web/",
+      "score": 93,
+      "by": "meshko",
+      "time": 1778719289
     },
     {
-      "title": "Googlebook",
-      "url": "https://googlebook.google/",
-      "score": 630,
-      "by": "tambourine_man",
-      "time": 1778607456
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "score": 556,
+      "by": "haunter",
+      "time": 1778446446
     },
     {
-      "title": "My graduation cap runs Rust",
-      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-      "score": 67,
-      "by": "ericswpark",
-      "time": 1778630661
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 508,
+      "by": "speckx",
+      "time": 1778683518
     },
     {
-      "title": "Kraftwerk's radical 1976 track",
-      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 73,
-      "by": "tcp_handshaker",
-      "time": 1778627581
+      "title": "A History of IDEs at Google",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "score": 289,
+      "by": "laurentlb",
+      "time": 1778325258
     },
     {
-      "title": "How to make your text look futuristic (2016)",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 226,
-      "by": "_vaporwave_",
-      "time": 1778616986
+      "title": "Chess puzzle I found in my dad's old book",
+      "url": "https://ardoedo.it/kempelen/",
+      "score": 98,
+      "by": "Eswo",
+      "time": 1778515219
     }
   ],
   "skills": [
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 414,
+      "stars": 415,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 353,
+      "stars": 358,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "SkillCompass",
       "description": "Evaluate agent skill quality. Find the weakest link. Fix it. Prove it worked.",
-      "stars": 210,
+      "stars": 209,
       "url": "https://github.com/Evol-ai/SkillCompass"
     }
   ]
