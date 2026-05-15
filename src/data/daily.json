@@ -1,61 +1,61 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "weather": {
     "city": "Shanghai",
-    "temp": "22",
+    "temp": "23",
     "condition": "Partly cloudy",
-    "humidity": "88",
-    "wind": "22",
-    "updated": "2026-05-14 09:49 AM"
+    "humidity": "69",
+    "wind": "21",
+    "updated": "2026-05-15 10:45 AM"
   },
   "news": [
     {
-      "title": "Scorched Earth 2000 is back",
-      "url": "http://www.scorch2000.com/web/",
-      "score": 93,
-      "by": "meshko",
-      "time": 1778719289
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "score": 642,
+      "by": "arkadiyt",
+      "time": 1778778480
     },
     {
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "score": 556,
-      "by": "haunter",
-      "time": 1778446446
+      "title": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
+      "score": 172,
+      "by": "caust1c",
+      "time": 1778797752
     },
     {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "score": 508,
-      "by": "speckx",
-      "time": 1778683518
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "score": 273,
+      "by": "quadrige",
+      "time": 1778783109
     },
     {
-      "title": "A History of IDEs at Google",
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "score": 289,
-      "by": "laurentlb",
-      "time": 1778325258
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "score": 199,
+      "by": "mikeevans",
+      "time": 1778789174
     },
     {
-      "title": "Chess puzzle I found in my dad's old book",
-      "url": "https://ardoedo.it/kempelen/",
-      "score": 98,
-      "by": "Eswo",
-      "time": 1778515219
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 497,
+      "by": "allenleee",
+      "time": 1778773651
     }
   ],
   "skills": [
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 415,
+      "stars": 416,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 358,
+      "stars": 362,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
