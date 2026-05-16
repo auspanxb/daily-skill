@@ -1,48 +1,47 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "weather": {
     "city": "Shanghai",
     "temp": "23",
-    "condition": "Partly cloudy",
-    "humidity": "69",
-    "wind": "21",
-    "updated": "2026-05-15 10:45 AM"
+    "condition": "Sunny",
+    "humidity": "63",
+    "wind": "24"
   },
   "news": [
     {
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 642,
-      "by": "arkadiyt",
-      "time": 1778778480
+      "title": "'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens",
+      "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "score": 162,
+      "by": "alligatorplum",
+      "time": 1778891762
     },
     {
-      "title": "A few words on DS4",
-      "url": "https://antirez.com/news/165",
-      "score": 172,
-      "by": "caust1c",
-      "time": 1778797752
+      "title": "Erlang/OTP 29.0",
+      "url": "https://www.erlang.org/news/188",
+      "score": 115,
+      "by": "pyinstallwoes",
+      "time": 1778888012
     },
     {
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 273,
-      "by": "quadrige",
-      "time": 1778783109
+      "title": "Project Gutenberg – keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "score": 732,
+      "by": "JSeiko",
+      "time": 1778861736
     },
     {
-      "title": "Codex is now in the ChatGPT mobile app",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "score": 199,
-      "by": "mikeevans",
-      "time": 1778789174
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "score": 850,
+      "by": "reasonableklout",
+      "time": 1778876807
     },
     {
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 497,
-      "by": "allenleee",
-      "time": 1778773651
+      "title": "The Zulip Foundation",
+      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "score": 228,
+      "by": "boramalper",
+      "time": 1778870221
     }
   ],
   "skills": [
@@ -55,7 +54,7 @@
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 362,
+      "stars": 371,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
