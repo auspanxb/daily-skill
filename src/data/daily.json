@@ -1,47 +1,47 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "weather": {
     "city": "Shanghai",
-    "temp": "23",
+    "temp": "24",
     "condition": "Sunny",
-    "humidity": "63",
-    "wind": "24"
+    "humidity": "60",
+    "wind": "23"
   },
   "news": [
     {
-      "title": "'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens",
-      "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
-      "score": 162,
-      "by": "alligatorplum",
-      "time": 1778891762
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "score": 189,
+      "by": "gidellav",
+      "time": 1778970230
     },
     {
-      "title": "Erlang/OTP 29.0",
-      "url": "https://www.erlang.org/news/188",
-      "score": 115,
-      "by": "pyinstallwoes",
-      "time": 1778888012
+      "title": "A nicer voltmeter clock",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "score": 78,
+      "by": "surprisetalk",
+      "time": 1778971516
     },
     {
-      "title": "Project Gutenberg – keeps getting better",
-      "url": "https://www.gutenberg.org/",
-      "score": 732,
-      "by": "JSeiko",
-      "time": 1778861736
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "score": 15,
+      "by": "zdw",
+      "time": 1778981126
     },
     {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 850,
-      "by": "reasonableklout",
-      "time": 1778876807
+      "title": "MCP Hello Page",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "score": 53,
+      "by": "Dachande663",
+      "time": 1778970333
     },
     {
-      "title": "The Zulip Foundation",
-      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "score": 228,
-      "by": "boramalper",
-      "time": 1778870221
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "score": 307,
+      "by": "mjgil",
+      "time": 1778933181
     }
   ],
   "skills": [
@@ -54,7 +54,7 @@
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 371,
+      "stars": 373,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
