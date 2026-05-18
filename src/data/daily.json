@@ -1,50 +1,56 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "weather": {
     "city": "Shanghai",
-    "temp": "24",
-    "condition": "Sunny",
-    "humidity": "60",
-    "wind": "23"
+    "temp": "26",
+    "condition": "Partly Cloudy ",
+    "humidity": "54",
+    "wind": "28"
   },
   "news": [
     {
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 189,
-      "by": "gidellav",
-      "time": 1778970230
+      "title": "GenCAD",
+      "url": "https://gencad.github.io/",
+      "score": 130,
+      "by": "dagenix",
+      "time": 1779054035
     },
     {
-      "title": "A nicer voltmeter clock",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 78,
-      "by": "surprisetalk",
-      "time": 1778971516
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "score": 267,
+      "by": "tech4bot",
+      "time": 1779023787
     },
     {
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "url": "https://maurycyz.com/projects/mcusite/",
-      "score": 15,
-      "by": "zdw",
-      "time": 1778981126
+      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+      "url": "https://askanastronaut.issinrealtime.org/",
+      "score": 45,
+      "by": "gaws",
+      "time": 1778873143
     },
     {
-      "title": "MCP Hello Page",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "score": 53,
-      "by": "Dachande663",
-      "time": 1778970333
+      "title": "Prolog Coding Horror",
+      "url": "https://www.metalevel.at/prolog/horror",
+      "score": 62,
+      "by": "RohanAdwankar",
+      "time": 1779052551
     },
     {
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "url": "https://nvlabs.github.io/Sana/WM/",
-      "score": 307,
-      "by": "mjgil",
-      "time": 1778933181
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "score": 108,
+      "by": "ChrisArchitect",
+      "time": 1779054330
     }
   ],
   "skills": [
+    {
+      "name": "narrator-ai-cli-skill",
+      "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
+      "stars": 458,
+      "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
+    },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
@@ -52,15 +58,9 @@
       "url": "https://github.com/kriuchkov/tock"
     },
     {
-      "name": "narrator-ai-cli-skill",
-      "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 373,
-      "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
-    },
-    {
       "name": "SkillCompass",
       "description": "Evaluate agent skill quality. Find the weakest link. Fix it. Prove it worked.",
-      "stars": 209,
+      "stars": 211,
       "url": "https://github.com/Evol-ai/SkillCompass"
     }
   ]
