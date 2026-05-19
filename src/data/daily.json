@@ -1,54 +1,54 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "weather": {
     "city": "Shanghai",
-    "temp": "26",
-    "condition": "Partly Cloudy ",
-    "humidity": "54",
-    "wind": "28"
+    "temp": "24",
+    "condition": "Cloudy ",
+    "humidity": "70",
+    "wind": "19"
   },
   "news": [
     {
-      "title": "GenCAD",
-      "url": "https://gencad.github.io/",
-      "score": 130,
-      "by": "dagenix",
-      "time": 1779054035
+      "title": "Click (2016)",
+      "url": "https://clickclickclick.click/",
+      "score": 216,
+      "by": "andrewzeno",
+      "time": 1779145382
     },
     {
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 267,
-      "by": "tech4bot",
-      "time": 1779023787
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "score": 124,
+      "by": "cucho",
+      "time": 1779146290
     },
     {
-      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "url": "https://askanastronaut.issinrealtime.org/",
-      "score": 45,
-      "by": "gaws",
-      "time": 1778873143
+      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "score": 22,
+      "by": "surprisetalk",
+      "time": 1778772636
     },
     {
-      "title": "Prolog Coding Horror",
-      "url": "https://www.metalevel.at/prolog/horror",
-      "score": 62,
-      "by": "RohanAdwankar",
-      "time": 1779052551
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "score": 375,
+      "by": "tomeraberbach",
+      "time": 1779123681
     },
     {
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-      "score": 108,
-      "by": "ChrisArchitect",
-      "time": 1779054330
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
+      "score": 137,
+      "by": "veqq",
+      "time": 1779132445
     }
   ],
   "skills": [
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 458,
+      "stars": 599,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
