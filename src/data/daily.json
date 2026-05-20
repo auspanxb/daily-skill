@@ -1,60 +1,60 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "weather": {
     "city": "Shanghai",
-    "temp": "24",
-    "condition": "Cloudy ",
-    "humidity": "70",
-    "wind": "19"
+    "temp": "22",
+    "condition": "Light drizzle",
+    "humidity": "93",
+    "wind": "9"
   },
   "news": [
     {
-      "title": "Click (2016)",
-      "url": "https://clickclickclick.click/",
-      "score": 216,
-      "by": "andrewzeno",
-      "time": 1779145382
+      "title": "Railway Blocked by Google Cloud",
+      "url": "https://status.railway.com/?date=20260519",
+      "score": 199,
+      "by": "aarondf",
+      "time": 1779236634
     },
     {
-      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "score": 124,
-      "by": "cucho",
-      "time": 1779146290
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 609,
+      "by": "spectraldrift",
+      "time": 1779212625
     },
     {
-      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
-      "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
-      "score": 22,
-      "by": "surprisetalk",
-      "time": 1778772636
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "score": 614,
+      "by": "andreww591",
+      "time": 1779206018
     },
     {
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 375,
-      "by": "tomeraberbach",
-      "time": 1779123681
+      "title": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "score": 398,
+      "by": "berkeleyjunk",
+      "time": 1779215667
     },
     {
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "url": "https://hyperpolyglot.org/lisp",
-      "score": 137,
-      "by": "veqq",
-      "time": 1779132445
+      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "score": 136,
+      "by": "janalsncm",
+      "time": 1779229831
     }
   ],
   "skills": [
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 599,
+      "stars": 629,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 416,
+      "stars": 417,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
