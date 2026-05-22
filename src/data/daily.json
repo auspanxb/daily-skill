@@ -1,54 +1,54 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "weather": {
     "city": "Shanghai",
-    "temp": "21",
+    "temp": "23",
     "condition": "Sunny",
-    "humidity": "68",
-    "wind": "15"
+    "humidity": "56",
+    "wind": "11"
   },
   "news": [
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 792,
-      "by": "tedsanders",
-      "time": 1779303930
+      "title": "It is time to build a new internet",
+      "url": "https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/",
+      "score": 32,
+      "by": "mrmarket",
+      "time": 1779416393
     },
     {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 574,
-      "by": "Timofeibu",
-      "time": 1779284617
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "score": 615,
+      "by": "speleo",
+      "time": 1779380591
     },
     {
-      "title": "Show HN: I reverse engineered Apple's video wallpapers",
-      "url": "https://github.com/kageroumado/phosphene",
-      "score": 90,
-      "by": "kageroumado",
-      "time": 1779321246
+      "title": "Using Kagi Search with Low Vision",
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "score": 145,
+      "by": "speckx",
+      "time": 1779391936
     },
     {
-      "title": "DOS Zone",
-      "url": "https://dos.zone/",
-      "score": 117,
-      "by": "rglover",
-      "time": 1779317607
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "score": 176,
+      "by": "speckx",
+      "time": 1779389695
     },
     {
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "url": "https://legiscan.com/CO/bill/SB051/2026",
-      "score": 143,
-      "by": "ki4jgt",
-      "time": 1779308898
+      "title": "Was my $48K GPU server worth it?",
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "score": 308,
+      "by": "apwheele",
+      "time": 1779132783
     }
   ],
   "skills": [
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 634,
+      "stars": 637,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
