@@ -1,60 +1,60 @@
 {
-  "date": "2026-05-22",
+  "date": "2026-05-23",
   "weather": {
     "city": "Shanghai",
-    "temp": "23",
-    "condition": "Sunny",
-    "humidity": "56",
-    "wind": "11"
+    "temp": "27",
+    "condition": "Cloudy ",
+    "humidity": "74",
+    "wind": "4"
   },
   "news": [
     {
-      "title": "It is time to build a new internet",
-      "url": "https://mrmarket.bearblog.dev/it-is-time-to-build-a-new-internet/",
-      "score": 32,
-      "by": "mrmarket",
-      "time": 1779416393
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "score": 208,
+      "by": "lexandstuff",
+      "time": 1779485815
     },
     {
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 615,
-      "by": "speleo",
-      "time": 1779380591
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "score": 508,
+      "by": "d0ks",
+      "time": 1779463324
     },
     {
-      "title": "Using Kagi Search with Low Vision",
-      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "score": 145,
-      "by": "speckx",
-      "time": 1779391936
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "score": 328,
+      "by": "louiereederson",
+      "time": 1779478305
     },
     {
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "score": 176,
-      "by": "speckx",
-      "time": 1779389695
+      "title": "Sleep research led to a new sleep apnea drug",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "score": 72,
+      "by": "colinprince",
+      "time": 1779487539
     },
     {
-      "title": "Was my $48K GPU server worth it?",
-      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "score": 308,
-      "by": "apwheele",
-      "time": 1779132783
+      "title": "Blood Pumping Mechanism of the Hoof",
+      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+      "score": 28,
+      "by": "thunderbong",
+      "time": 1779267824
     }
   ],
   "skills": [
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 637,
+      "stars": 639,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 418,
+      "stars": 422,
       "url": "https://github.com/kriuchkov/tock"
     },
     {
