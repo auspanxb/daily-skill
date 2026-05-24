@@ -1,54 +1,54 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Cloudy ",
-    "humidity": "74",
-    "wind": "4"
+    "temp": "22",
+    "condition": "Light Rain Shower, Mist",
+    "humidity": "100",
+    "wind": "21"
   },
   "news": [
     {
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 208,
-      "by": "lexandstuff",
-      "time": 1779485815
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "score": 49,
+      "by": "DamnInteresting",
+      "time": 1779585673
     },
     {
-      "title": "Why Japanese companies do so many different things",
-      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 508,
-      "by": "d0ks",
-      "time": 1779463324
+      "title": "Wake up! 16b",
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "score": 61,
+      "by": "MaximilianEmel",
+      "time": 1779582650
     },
     {
-      "title": "Project Glasswing: An Initial Update",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 328,
-      "by": "louiereederson",
-      "time": 1779478305
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "score": 31,
+      "by": "spike021",
+      "time": 1779583892
     },
     {
-      "title": "Sleep research led to a new sleep apnea drug",
-      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-      "score": 72,
-      "by": "colinprince",
-      "time": 1779487539
+      "title": "Time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "score": 304,
+      "by": "hggh",
+      "time": 1779561937
     },
     {
-      "title": "Blood Pumping Mechanism of the Hoof",
-      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
-      "score": 28,
-      "by": "thunderbong",
-      "time": 1779267824
+      "title": "My I3-Emacs Integration",
+      "url": "https://khz.ac/software/i3-integration.html",
+      "score": 35,
+      "by": "nosolace",
+      "time": 1779578022
     }
   ],
   "skills": [
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 639,
+      "stars": 641,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
