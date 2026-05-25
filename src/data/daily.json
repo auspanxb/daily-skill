@@ -1,54 +1,54 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "weather": {
     "city": "Shanghai",
-    "temp": "22",
-    "condition": "Light Rain Shower, Mist",
-    "humidity": "100",
-    "wind": "21"
+    "temp": "26",
+    "condition": "Partly cloudy",
+    "humidity": "89",
+    "wind": "4"
   },
   "news": [
     {
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 49,
-      "by": "DamnInteresting",
-      "time": 1779585673
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "score": 194,
+      "by": "pantelisk",
+      "time": 1779636343
     },
     {
-      "title": "Wake up! 16b",
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "score": 61,
-      "by": "MaximilianEmel",
-      "time": 1779582650
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "score": 459,
+      "by": "Alifatisk",
+      "time": 1779627726
     },
     {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "score": 31,
-      "by": "spike021",
-      "time": 1779583892
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "score": 79,
+      "by": "littlexsparkee",
+      "time": 1779649826
     },
     {
-      "title": "Time to talk about my writerdeck",
-      "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "score": 304,
-      "by": "hggh",
-      "time": 1779561937
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "score": 312,
+      "by": "intelkishan",
+      "time": 1779640289
     },
     {
-      "title": "My I3-Emacs Integration",
-      "url": "https://khz.ac/software/i3-integration.html",
-      "score": 35,
-      "by": "nosolace",
-      "time": 1779578022
+      "title": "I spent 50 hours drawing a line graph",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "score": 455,
+      "by": "dougdude3339",
+      "time": 1779375928
     }
   ],
   "skills": [
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 641,
+      "stars": 647,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
