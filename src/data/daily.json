@@ -1,60 +1,60 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "weather": {
     "city": "Shanghai",
-    "temp": "26",
+    "temp": "25",
     "condition": "Partly cloudy",
-    "humidity": "74",
-    "wind": "17"
+    "humidity": "79",
+    "wind": "12"
   },
   "news": [
     {
-      "title": "Chemistry behind the Garden Grove chemical tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "score": 250,
-      "by": "nooks",
-      "time": 1779823516
+      "title": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
+      "score": 450,
+      "by": "mlsu",
+      "time": 1779928826
     },
     {
-      "title": "Cloudflare Flagship",
-      "url": "https://developers.cloudflare.com/flagship/",
-      "score": 83,
-      "by": "tjek",
-      "time": 1779838566
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 564,
+      "by": "nopg",
+      "time": 1779912051
     },
     {
-      "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
-      "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
-      "score": 51,
-      "by": "mariopt",
-      "time": 1779836579
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "score": 675,
+      "by": "simonw",
+      "time": 1779899953
     },
     {
-      "title": "Stripe is friendly to \"friendly fraud\"",
-      "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
-      "score": 121,
-      "by": "gingerlime",
-      "time": 1779842405
+      "title": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "score": 190,
+      "by": "iamacyborg",
+      "time": 1779909850
     },
     {
-      "title": "Erin Brockovich made a map to track data centers around the country",
-      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
-      "score": 127,
-      "by": "cratermoon",
-      "time": 1779842163
+      "title": "SimCity 3k in 4k (2025)",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "score": 295,
+      "by": "speckx",
+      "time": 1779903389
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 1467,
+      "stars": 1488,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 672,
+      "stars": 680,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
