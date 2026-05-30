@@ -1,66 +1,66 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "weather": {
     "city": "Shanghai",
-    "temp": "25",
+    "temp": "26",
     "condition": "Sunny",
-    "humidity": "54",
-    "wind": "14"
+    "humidity": "34",
+    "wind": "4"
   },
   "news": [
     {
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1266,
-      "by": "craigmart",
-      "time": 1779986954
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "score": 383,
+      "by": "tomasol",
+      "time": 1780077290
     },
     {
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 655,
-      "by": "philips",
-      "time": 1779996249
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "score": 732,
+      "by": "WillDaSilva",
+      "time": 1780069584
     },
     {
-      "title": "Where are the economies of scale in homebuilding?",
-      "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
-      "score": 42,
-      "by": "JumpCrisscross",
-      "time": 1780013780
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "score": 70,
+      "by": "GaggiX",
+      "time": 1779822779
     },
     {
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "score": 216,
-      "by": "mattrighetti",
-      "time": 1779999921
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "score": 313,
+      "by": "vnglst",
+      "time": 1780071721
     },
     {
-      "title": "Ten Basic Clouds",
-      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "score": 51,
-      "by": "nopg",
-      "time": 1779659575
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "score": 90,
+      "by": "rented_mule",
+      "time": 1779818742
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 1495,
+      "stars": 1514,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 693,
+      "stars": 696,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 424,
+      "stars": 425,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
