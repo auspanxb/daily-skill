@@ -1,60 +1,60 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "weather": {
     "city": "Shanghai",
     "temp": "26",
     "condition": "Sunny",
-    "humidity": "34",
-    "wind": "4"
+    "humidity": "40",
+    "wind": "12"
   },
   "news": [
     {
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 383,
-      "by": "tomasol",
-      "time": 1780077290
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "score": 444,
+      "by": "antipurist",
+      "time": 1780183573
     },
     {
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 732,
-      "by": "WillDaSilva",
-      "time": 1780069584
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "score": 316,
+      "by": "aaronbrethorst",
+      "time": 1780173657
     },
     {
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 70,
-      "by": "GaggiX",
-      "time": 1779822779
+      "title": "Shantell Sans",
+      "url": "https://shantellsans.com/process",
+      "score": 100,
+      "by": "aleda145",
+      "time": 1780178798
     },
     {
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 313,
-      "by": "vnglst",
-      "time": 1780071721
+      "title": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+      "score": 234,
+      "by": "Hawzen",
+      "time": 1780022983
     },
     {
-      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
-      "score": 90,
-      "by": "rented_mule",
-      "time": 1779818742
+      "title": "Racket v9.2 is now available",
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "score": 33,
+      "by": "spdegabrielle",
+      "time": 1779961360
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 1514,
+      "stars": 1515,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 696,
+      "stars": 701,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
