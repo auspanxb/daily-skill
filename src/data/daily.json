@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
-    "condition": "Patchy rain nearby",
-    "humidity": "67",
-    "wind": "15"
+    "temp": "30",
+    "condition": "Sunny",
+    "humidity": "56",
+    "wind": "8"
   },
   "news": [
     {
-      "title": "Shift from a Leader-Follower to a Leader-Leader Approach",
-      "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a",
-      "score": 26,
-      "by": "Alupis",
-      "time": 1780279383
+      "title": "macOS needs its grid back",
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "score": 76,
+      "by": "ranebo",
+      "time": 1780363714
     },
     {
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 548,
-      "by": "HypnoticOcelot",
-      "time": 1780236800
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "score": 1428,
+      "by": "ssiddharth",
+      "time": 1780331502
     },
     {
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 308,
-      "by": "modinfo",
-      "time": 1780239892
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "score": 128,
+      "by": "1vuio0pswjnm7",
+      "time": 1780357546
     },
     {
-      "title": "New Beam Spring Keyboards",
-      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-      "score": 72,
-      "by": "recursivedoubts",
-      "time": 1780061981
+      "title": "How is Groq raising more money?",
+      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+      "score": 34,
+      "by": "hasheddan",
+      "time": 1780362329
     },
     {
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "score": 411,
-      "by": "captain_bender",
-      "time": 1780227885
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "score": 168,
+      "by": "typpo",
+      "time": 1780350602
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 1524,
+      "stars": 1532,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 702,
+      "stars": 706,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
