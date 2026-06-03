@@ -1,66 +1,66 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "weather": {
     "city": "Shanghai",
-    "temp": "30",
-    "condition": "Sunny",
-    "humidity": "56",
-    "wind": "8"
+    "temp": "29",
+    "condition": "Partly Cloudy ",
+    "humidity": "59",
+    "wind": "5"
   },
   "news": [
     {
-      "title": "macOS needs its grid back",
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "score": 76,
-      "by": "ranebo",
-      "time": 1780363714
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "score": 60,
+      "by": "ammar2",
+      "time": 1780414145
     },
     {
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1428,
-      "by": "ssiddharth",
-      "time": 1780331502
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "score": 176,
+      "by": "tanelpoder",
+      "time": 1780440933
     },
     {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "score": 128,
-      "by": "1vuio0pswjnm7",
-      "time": 1780357546
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 411,
+      "by": "EvanZhouDev",
+      "time": 1780426027
     },
     {
-      "title": "How is Groq raising more money?",
-      "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
-      "score": 34,
-      "by": "hasheddan",
-      "time": 1780362329
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 261,
+      "by": "viasfo",
+      "time": 1780432208
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-      "score": 168,
-      "by": "typpo",
-      "time": 1780350602
+      "title": "Agentic Mfw",
+      "url": "https://agenticmotherfucking.website",
+      "score": 18,
+      "by": "elmerland",
+      "time": 1780453968
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 1532,
+      "stars": 1604,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 706,
+      "stars": 707,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 427,
+      "stars": 429,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
