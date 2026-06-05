@@ -1,54 +1,54 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "weather": {
     "city": "Shanghai",
     "temp": "25",
-    "condition": "Sunny",
-    "humidity": "89",
-    "wind": "10"
+    "condition": "Partly cloudy",
+    "humidity": "74",
+    "wind": "15"
   },
   "news": [
     {
-      "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
-      "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
-      "score": 173,
-      "by": "rguiscard",
-      "time": 1780533853
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
+      "score": 86,
+      "by": "jenders",
+      "time": 1780620278
     },
     {
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 608,
-      "by": "cloud8421",
-      "time": 1780513346
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "score": 104,
+      "by": "Anon84",
+      "time": 1780614716
     },
     {
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "score": 80,
-      "by": "jc4p",
-      "time": 1780534592
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "score": 288,
+      "by": "binyu",
+      "time": 1780603880
     },
     {
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 730,
-      "by": "rvz",
-      "time": 1780502682
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "score": 56,
+      "by": "geoffbp",
+      "time": 1780617869
     },
     {
-      "title": "\"They're made out of weights\"",
-      "url": "https://maxleiter.com/blog/weights",
-      "score": 96,
-      "by": "MaxLeiter",
-      "time": 1780529838
+      "title": "VoidZero Is Joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "score": 581,
+      "by": "coloneltcb",
+      "time": 1780578051
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 1731,
+      "stars": 1832,
       "url": "https://github.com/browser-act/skills"
     },
     {
