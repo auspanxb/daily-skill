@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "weather": {
     "city": "Shanghai",
     "temp": "25",
-    "condition": "Partly cloudy",
-    "humidity": "74",
-    "wind": "15"
+    "condition": "Sunny",
+    "humidity": "54",
+    "wind": "22"
   },
   "news": [
     {
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "url": "https://fb.watch/HxPu0fSyeH/",
-      "score": 86,
-      "by": "jenders",
-      "time": 1780620278
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "score": 62,
+      "by": "transistor-man",
+      "time": 1780706006
     },
     {
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
-      "score": 104,
-      "by": "Anon84",
-      "time": 1780614716
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "score": 362,
+      "by": "janpot",
+      "time": 1780671631
     },
     {
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 288,
-      "by": "binyu",
-      "time": 1780603880
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
+      "score": 335,
+      "by": "coffeemug",
+      "time": 1780675197
     },
     {
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
-      "score": 56,
-      "by": "geoffbp",
-      "time": 1780617869
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "score": 270,
+      "by": "speckx",
+      "time": 1780671843
     },
     {
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 581,
-      "by": "coloneltcb",
-      "time": 1780578051
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "score": 282,
+      "by": "theanonymousone",
+      "time": 1780676328
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 1832,
+      "stars": 1942,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 710,
+      "stars": 711,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
