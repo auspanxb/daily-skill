@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "weather": {
     "city": "Shanghai",
-    "temp": "25",
-    "condition": "Sunny",
-    "humidity": "54",
-    "wind": "22"
+    "temp": "26",
+    "condition": "Partly Cloudy ",
+    "humidity": "65",
+    "wind": "4"
   },
   "news": [
     {
-      "title": "The intracies of modern camera lens repair (2024)",
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 62,
-      "by": "transistor-man",
-      "time": 1780706006
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "score": 9,
+      "by": "gscott",
+      "time": 1780800397
     },
     {
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 362,
-      "by": "janpot",
-      "time": 1780671631
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "score": 28,
+      "by": "Anon84",
+      "time": 1780796231
     },
     {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "score": 335,
-      "by": "coffeemug",
-      "time": 1780675197
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering/",
+      "score": 99,
+      "by": "pramodbiligiri",
+      "time": 1780683606
     },
     {
-      "title": "New method turns ocean water into drinking water, without waste",
-      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-      "score": 270,
-      "by": "speckx",
-      "time": 1780671843
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
+      "score": 287,
+      "by": "gregsadetsky",
+      "time": 1780773466
     },
     {
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 282,
-      "by": "theanonymousone",
-      "time": 1780676328
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "score": 42,
+      "by": "davidbarker",
+      "time": 1780791771
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 1942,
+      "stars": 2072,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 711,
+      "stars": 712,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
