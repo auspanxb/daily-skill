@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "weather": {
     "city": "Shanghai",
-    "temp": "23",
-    "condition": "Partly cloudy",
+    "temp": "22",
+    "condition": "Light Rain Shower",
     "humidity": "69",
-    "wind": "16"
+    "wind": "9"
   },
   "news": [
     {
-      "title": "APC–2 – A professional record cutter for producing original playback discs",
-      "url": "https://teenage.engineering/products/apc-2",
-      "score": 123,
-      "by": "vthommeret",
-      "time": 1780882042
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "score": 368,
+      "by": "unclefuzzy",
+      "time": 1780946087
     },
     {
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "score": 119,
-      "by": "yogthos",
-      "time": 1780882770
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "score": 429,
+      "by": "0xedb",
+      "time": 1780942673
     },
     {
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "score": 78,
-      "by": "DevarshRanpara",
-      "time": 1780878517
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 804,
+      "by": "lizhang",
+      "time": 1780927516
     },
     {
-      "title": "New drug 'functionally cures' many hepatitis B virus infections",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "score": 30,
-      "by": "gmays",
-      "time": 1780882902
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 413,
+      "by": "martinald",
+      "time": 1780931623
     },
     {
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 468,
-      "by": "gavinray",
-      "time": 1780857187
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "score": 504,
+      "by": "gainsurier",
+      "time": 1780932453
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2152,
+      "stars": 2217,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 715,
+      "stars": 928,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
