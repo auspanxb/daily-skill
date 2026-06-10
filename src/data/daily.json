@@ -1,66 +1,66 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "weather": {
     "city": "Shanghai",
-    "temp": "22",
-    "condition": "Light Rain Shower",
-    "humidity": "69",
-    "wind": "9"
+    "temp": "25",
+    "condition": "Sunny",
+    "humidity": "57",
+    "wind": "4"
   },
   "news": [
     {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 368,
-      "by": "unclefuzzy",
-      "time": 1780946087
+      "title": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "score": 238,
+      "by": "timsneath",
+      "time": 1781051341
     },
     {
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "score": 429,
-      "by": "0xedb",
-      "time": 1780942673
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "score": 1836,
+      "by": "Philpax",
+      "time": 1781024281
     },
     {
-      "title": "Show HN: Performative-UI – A react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 804,
-      "by": "lizhang",
-      "time": 1780927516
+      "title": "Rich Sutton on AI creativity and discovery",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "score": 19,
+      "by": "yimby",
+      "time": 1781058324
     },
     {
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 413,
-      "by": "martinald",
-      "time": 1780931623
+      "title": "Upcoming breaking changes for npm v12",
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "score": 217,
+      "by": "plasma",
+      "time": 1781038860
     },
     {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 504,
-      "by": "gainsurier",
-      "time": 1780932453
+      "title": "RIP software hackathons. Long live the hardware hackathon",
+      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "score": 74,
+      "by": "ozcap",
+      "time": 1781044557
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2217,
+      "stars": 2285,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 928,
+      "stars": 1093,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
-      "description": "Tock is a powerful time tracking tool for the command line.",
-      "stars": 429,
+      "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
+      "stars": 430,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
