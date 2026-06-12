@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
+    "temp": "29",
     "condition": "Sunny",
-    "humidity": "51",
-    "wind": "8"
+    "humidity": "43",
+    "wind": "10"
   },
   "news": [
     {
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "score": 166,
-      "by": "tanelpoder",
-      "time": 1781136608
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 159,
+      "by": "sam_bristow",
+      "time": 1781224691
     },
     {
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "score": 268,
-      "by": "speckx",
-      "time": 1781109720
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "score": 147,
+      "by": "lumpa",
+      "time": 1781226411
     },
     {
-      "title": "πFS",
-      "url": "https://github.com/philipl/pifs",
-      "score": 560,
-      "by": "helterskelter",
-      "time": 1781117694
+      "title": "Show HN: Homebrew 6.0.0",
+      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "score": 1036,
+      "by": "mikemcquaid",
+      "time": 1781184269
     },
     {
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "score": 239,
-      "by": "lebovic",
-      "time": 1781025820
+      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+      "url": "https://fablepool.com",
+      "score": 286,
+      "by": "matthewbarras",
+      "time": 1781212650
     },
     {
-      "title": "Sequoyah’s syllabary created a written language for the Cherokee",
-      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-      "score": 118,
-      "by": "grahambargeron",
-      "time": 1781129272
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "score": 340,
+      "by": "jjfoooo4",
+      "time": 1781218915
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2335,
+      "stars": 2363,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1227,
+      "stars": 1278,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
