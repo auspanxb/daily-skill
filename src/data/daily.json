@@ -1,66 +1,66 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "weather": {
     "city": "Shanghai",
-    "temp": "29",
-    "condition": "Sunny",
-    "humidity": "43",
-    "wind": "10"
+    "temp": "27",
+    "condition": "Light Rain",
+    "humidity": "58",
+    "wind": "14"
   },
   "news": [
     {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "score": 159,
-      "by": "sam_bristow",
-      "time": 1781224691
+      "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "score": 1016,
+      "by": "Dylan1312",
+      "time": 1781311890
     },
     {
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "score": 147,
-      "by": "lumpa",
-      "time": 1781226411
+      "title": "Open Source AI Must Win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "score": 105,
+      "by": "vednig",
+      "time": 1781316864
     },
     {
-      "title": "Show HN: Homebrew 6.0.0",
-      "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-      "score": 1036,
-      "by": "mikemcquaid",
-      "time": 1781184269
+      "title": "Renault: Electric motors with no rare earths",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "score": 242,
+      "by": "bestouff",
+      "time": 1781302083
     },
     {
-      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-      "url": "https://fablepool.com",
-      "score": 286,
-      "by": "matthewbarras",
-      "time": 1781212650
+      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "score": 61,
+      "by": "jesse_dot_id",
+      "time": 1781312286
     },
     {
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "score": 340,
-      "by": "jjfoooo4",
-      "time": 1781218915
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "score": 717,
+      "by": "gmays",
+      "time": 1781277324
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2363,
+      "stars": 2419,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1278,
+      "stars": 1292,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 430,
+      "stars": 431,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
