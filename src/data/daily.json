@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Light Rain",
-    "humidity": "58",
+    "temp": "22",
+    "condition": "Light Rain, Mist",
+    "humidity": "100",
     "wind": "14"
   },
   "news": [
     {
-      "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "score": 1016,
-      "by": "Dylan1312",
-      "time": 1781311890
+      "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
+      "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
+      "score": 17,
+      "by": "luu",
+      "time": 1781405974
     },
     {
-      "title": "Open Source AI Must Win",
-      "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 105,
-      "by": "vednig",
-      "time": 1781316864
+      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "score": 81,
+      "by": "librick",
+      "time": 1781398186
     },
     {
-      "title": "Renault: Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "score": 242,
-      "by": "bestouff",
-      "time": 1781302083
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "score": 762,
+      "by": "nl",
+      "time": 1781358896
     },
     {
-      "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
-      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
-      "score": 61,
-      "by": "jesse_dot_id",
-      "time": 1781312286
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "score": 410,
+      "by": "aloknnikhil",
+      "time": 1781367511
     },
     {
-      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "score": 717,
-      "by": "gmays",
-      "time": 1781277324
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "score": 608,
+      "by": "ravenical",
+      "time": 1781350820
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2419,
+      "stars": 2463,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1292,
+      "stars": 1302,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
