@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "weather": {
     "city": "Shanghai",
-    "temp": "22",
-    "condition": "Light Rain, Mist",
-    "humidity": "100",
-    "wind": "14"
+    "temp": "24",
+    "condition": "Partly cloudy",
+    "humidity": "83",
+    "wind": "19"
   },
   "news": [
     {
-      "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
-      "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
-      "score": 17,
-      "by": "luu",
-      "time": 1781405974
+      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "score": 261,
+      "by": "sohkamyung",
+      "time": 1781477695
     },
     {
-      "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-      "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "score": 81,
-      "by": "librick",
-      "time": 1781398186
+      "title": "Write for One Person",
+      "url": "https://wizardzines.com/comics/write-for-one-person/",
+      "score": 131,
+      "by": "evakhoury",
+      "time": 1781285770
     },
     {
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 762,
-      "by": "nl",
-      "time": 1781358896
+      "title": "Even More Batteries Included with Emacs",
+      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "score": 10,
+      "by": "signa11",
+      "time": 1781490625
     },
     {
-      "title": "GLM 5.2 Is Out",
-      "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "score": 410,
-      "by": "aloknnikhil",
-      "time": 1781367511
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "score": 439,
+      "by": "tamnd",
+      "time": 1781457938
     },
     {
-      "title": "Every Frame Perfect",
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "score": 608,
-      "by": "ravenical",
-      "time": 1781350820
+      "title": "Bitsy",
+      "url": "https://bitsy.org/",
+      "score": 59,
+      "by": "tosh",
+      "time": 1781211390
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2463,
+      "stars": 2502,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1302,
+      "stars": 1307,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
