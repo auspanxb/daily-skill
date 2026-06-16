@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "weather": {
     "city": "Shanghai",
     "temp": "24",
     "condition": "Partly cloudy",
-    "humidity": "83",
-    "wind": "19"
+    "humidity": "100",
+    "wind": "13"
   },
   "news": [
     {
-      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 261,
+      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "score": 66,
+      "by": "ilreb",
+      "time": 1781578077
+    },
+    {
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "score": 813,
+      "by": "lwhsiao",
+      "time": 1781553657
+    },
+    {
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "score": 209,
       "by": "sohkamyung",
-      "time": 1781477695
+      "time": 1781563075
     },
     {
-      "title": "Write for One Person",
-      "url": "https://wizardzines.com/comics/write-for-one-person/",
-      "score": 131,
-      "by": "evakhoury",
-      "time": 1781285770
+      "title": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
+      "score": 997,
+      "by": "chadfowler",
+      "time": 1781536386
     },
     {
-      "title": "Even More Batteries Included with Emacs",
-      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "score": 10,
-      "by": "signa11",
-      "time": 1781490625
-    },
-    {
-      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "url": "https://github.com/tamnd/kage",
-      "score": 439,
-      "by": "tamnd",
-      "time": 1781457938
-    },
-    {
-      "title": "Bitsy",
-      "url": "https://bitsy.org/",
-      "score": 59,
-      "by": "tosh",
-      "time": 1781211390
+      "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
+      "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+      "score": 61,
+      "by": "thelonelyborg",
+      "time": 1781569694
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2502,
+      "stars": 2542,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1307,
+      "stars": 1315,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
