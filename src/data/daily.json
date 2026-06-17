@@ -1,66 +1,66 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "weather": {
     "city": "Shanghai",
-    "temp": "24",
+    "temp": "27",
     "condition": "Partly cloudy",
-    "humidity": "100",
-    "wind": "13"
+    "humidity": "79",
+    "wind": "4"
   },
   "news": [
     {
-      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
-      "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
-      "score": 66,
-      "by": "ilreb",
-      "time": 1781578077
+      "title": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "score": 484,
+      "by": "Cider9986",
+      "time": 1781642075
     },
     {
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 813,
-      "by": "lwhsiao",
-      "time": 1781553657
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "score": 1081,
+      "by": "jfb",
+      "time": 1781620617
     },
     {
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "score": 209,
-      "by": "sohkamyung",
-      "time": 1781563075
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "score": 130,
+      "by": "denysvitali",
+      "time": 1781650414
     },
     {
-      "title": "Iroh 1.0",
-      "url": "https://www.iroh.computer/blog/v1",
-      "score": 997,
-      "by": "chadfowler",
-      "time": 1781536386
+      "title": "SpaceX to buy Cursor for $60B",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "score": 922,
+      "by": "itsmarcelg",
+      "time": 1781606664
     },
     {
-      "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
-      "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
-      "score": 61,
-      "by": "thelonelyborg",
-      "time": 1781569694
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "score": 107,
+      "by": "alok-g",
+      "time": 1781651744
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2542,
+      "stars": 2591,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1315,
+      "stars": 1325,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 431,
+      "stars": 432,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
