@@ -1,66 +1,66 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "weather": {
     "city": "Shanghai",
-    "temp": "26",
-    "condition": "Partly cloudy",
-    "humidity": "79",
-    "wind": "7"
+    "temp": "29",
+    "condition": "Overcast ",
+    "humidity": "75",
+    "wind": "8"
   },
   "news": [
     {
-      "title": "Midjourney Medical",
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "score": 173,
-      "by": "ricochet11",
-      "time": 1781747991
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "score": 57,
+      "by": "speckx",
+      "time": 1781539582
     },
     {
-      "title": "Lore – Open source version control system designed for scalability",
-      "url": "https://lore.org/",
-      "score": 1019,
-      "by": "regnerba",
-      "time": 1781706627
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "score": 129,
+      "by": "niyikiza",
+      "time": 1781819650
     },
     {
-      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
-      "url": "https://www.horg.com/horg/?page_id=921",
-      "score": 85,
-      "by": "beatthatflight",
-      "time": 1781738438
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "score": 53,
+      "by": "ddrmaxgt37",
+      "time": 1781705038
     },
     {
-      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "score": 386,
-      "by": "giuliomagnifico",
-      "time": 1781668516
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "score": 700,
+      "by": "theorchid",
+      "time": 1781783143
     },
     {
-      "title": "Storied Colors – a catalogue of named colors",
-      "url": "https://storiedcolors.com/",
-      "score": 110,
-      "by": "susiecambria",
-      "time": 1781732943
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "score": 39,
+      "by": "lumpa",
+      "time": 1781831187
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2652,
+      "stars": 2706,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1334,
+      "stars": 1345,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 432,
+      "stars": 433,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
