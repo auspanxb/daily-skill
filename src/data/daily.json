@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "weather": {
     "city": "Shanghai",
-    "temp": "29",
-    "condition": "Overcast ",
-    "humidity": "75",
-    "wind": "8"
+    "temp": "26",
+    "condition": "Light Rain Shower",
+    "humidity": "89",
+    "wind": "9"
   },
   "news": [
     {
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 57,
-      "by": "speckx",
-      "time": 1781539582
+      "title": "How to feed a dictator",
+      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+      "score": 64,
+      "by": "Michelangelo11",
+      "time": 1781918216
     },
     {
-      "title": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "score": 129,
-      "by": "niyikiza",
-      "time": 1781819650
+      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
+      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+      "score": 130,
+      "by": "Bender",
+      "time": 1781900397
     },
     {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
-      "score": 53,
-      "by": "ddrmaxgt37",
-      "time": 1781705038
+      "title": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 354,
+      "by": "danabramov",
+      "time": 1781881802
     },
     {
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 700,
-      "by": "theorchid",
-      "time": 1781783143
+      "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
+      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+      "score": 206,
+      "by": "zeristor",
+      "time": 1781338905
     },
     {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-      "score": 39,
-      "by": "lumpa",
-      "time": 1781831187
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 470,
+      "by": "ilreb",
+      "time": 1781884995
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2706,
+      "stars": 2727,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1345,
+      "stars": 1351,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
