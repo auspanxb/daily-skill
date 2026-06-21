@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "weather": {
     "city": "Shanghai",
     "temp": "26",
-    "condition": "Light Rain Shower",
-    "humidity": "89",
-    "wind": "9"
+    "condition": "Partly cloudy",
+    "humidity": "94",
+    "wind": "6"
   },
   "news": [
     {
-      "title": "How to feed a dictator",
-      "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
-      "score": 64,
-      "by": "Michelangelo11",
-      "time": 1781918216
+      "title": "Renting a sewing machine from the library",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "score": 131,
+      "by": "sohkamyung",
+      "time": 1781996051
     },
     {
-      "title": "Think of the children: How to force real ID for all internet traffic (2023)",
-      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-      "score": 130,
-      "by": "Bender",
-      "time": 1781900397
+      "title": "Epoll vs. io_uring in Linux",
+      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "score": 70,
+      "by": "Sibexico",
+      "time": 1781996829
     },
     {
-      "title": "There are no instances in ATProto",
-      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 354,
-      "by": "danabramov",
-      "time": 1781881802
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "url": "https://townsquare.cauenapier.com/",
+      "score": 92,
+      "by": "cauenapier",
+      "time": 1781956503
     },
     {
-      "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
-      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
-      "score": 206,
-      "by": "zeristor",
-      "time": 1781338905
+      "title": "Developers don't understand CORS (2019)",
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "score": 28,
+      "by": "toilet",
+      "time": 1782005740
     },
     {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 470,
-      "by": "ilreb",
-      "time": 1781884995
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "score": 103,
+      "by": "Cider9986",
+      "time": 1781957303
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2727,
+      "stars": 2759,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1351,
+      "stars": 1358,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
