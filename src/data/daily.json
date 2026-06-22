@@ -1,66 +1,66 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "weather": {
     "city": "Shanghai",
-    "temp": "26",
-    "condition": "Partly cloudy",
-    "humidity": "94",
-    "wind": "6"
+    "temp": "23",
+    "condition": "Light Rain Shower, Mist",
+    "humidity": "100",
+    "wind": "14"
   },
   "news": [
     {
-      "title": "Renting a sewing machine from the library",
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "score": 131,
-      "by": "sohkamyung",
-      "time": 1781996051
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "score": 248,
+      "by": "T-A",
+      "time": 1782077383
     },
     {
-      "title": "Epoll vs. io_uring in Linux",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "score": 70,
-      "by": "Sibexico",
-      "time": 1781996829
+      "title": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "score": 293,
+      "by": "advisedwang",
+      "time": 1782078053
     },
     {
-      "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "url": "https://townsquare.cauenapier.com/",
-      "score": 92,
-      "by": "cauenapier",
-      "time": 1781956503
+      "title": "Sakana Fugu",
+      "url": "https://sakana.ai/fugu/",
+      "score": 40,
+      "by": "Finbarr",
+      "time": 1782094098
     },
     {
-      "title": "Developers don't understand CORS (2019)",
-      "url": "https://fosterelli.co/developers-dont-understand-cors",
-      "score": 28,
-      "by": "toilet",
-      "time": 1782005740
+      "title": "Help I accidentally a wigglegram",
+      "url": "https://lmao.center/blog/wiggle-accidents/",
+      "score": 31,
+      "by": "gregsadetsky",
+      "time": 1781920516
     },
     {
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
-      "score": 103,
-      "by": "Cider9986",
-      "time": 1781957303
+      "title": "Memory Safe Inline Assembly",
+      "url": "https://fil-c.org/inlineasm",
+      "score": 44,
+      "by": "pizlonator",
+      "time": 1781926159
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2759,
+      "stars": 2781,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1358,
+      "stars": 1362,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 433,
+      "stars": 434,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
