@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "weather": {
     "city": "Shanghai",
     "temp": "23",
-    "condition": "Light Rain Shower, Mist",
-    "humidity": "100",
+    "condition": "Light Rain",
+    "humidity": "89",
     "wind": "14"
   },
   "news": [
     {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "score": 248,
-      "by": "T-A",
-      "time": 1782077383
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "score": 1269,
+      "by": "theschwa",
+      "time": 1782148191
     },
     {
-      "title": "Did my old job only exist because of fraud?",
-      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "score": 293,
-      "by": "advisedwang",
-      "time": 1782078053
+      "title": "1,700 Free Online Courses from Top Universities",
+      "url": "https://www.openculture.com/freeonlinecourses",
+      "score": 26,
+      "by": "momentmaker",
+      "time": 1782179678
     },
     {
-      "title": "Sakana Fugu",
-      "url": "https://sakana.ai/fugu/",
-      "score": 40,
-      "by": "Finbarr",
-      "time": 1782094098
+      "title": "Runing GLM-5.2 on local hardware",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "score": 200,
+      "by": "TechTechTech",
+      "time": 1782163261
     },
     {
-      "title": "Help I accidentally a wigglegram",
-      "url": "https://lmao.center/blog/wiggle-accidents/",
-      "score": 31,
-      "by": "gregsadetsky",
-      "time": 1781920516
+      "title": "In Praise of Memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "score": 45,
+      "by": "j03b",
+      "time": 1782177305
     },
     {
-      "title": "Memory Safe Inline Assembly",
-      "url": "https://fil-c.org/inlineasm",
-      "score": 44,
-      "by": "pizlonator",
-      "time": 1781926159
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "score": 127,
+      "by": "pseudolus",
+      "time": 1782175652
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2781,
+      "stars": 2810,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1362,
+      "stars": 1366,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
