@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "weather": {
     "city": "Shanghai",
     "temp": "23",
     "condition": "Light Rain",
     "humidity": "89",
-    "wind": "14"
+    "wind": "13"
   },
   "news": [
     {
-      "title": "Steam Machine launches today",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1269,
-      "by": "theschwa",
-      "time": 1782148191
+      "title": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "score": 92,
+      "by": "goranmoomin",
+      "time": 1782258166
     },
     {
-      "title": "1,700 Free Online Courses from Top Universities",
-      "url": "https://www.openculture.com/freeonlinecourses",
-      "score": 26,
-      "by": "momentmaker",
-      "time": 1782179678
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "score": 343,
+      "by": "turtleyacht",
+      "time": 1782240022
     },
     {
-      "title": "Runing GLM-5.2 on local hardware",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 200,
-      "by": "TechTechTech",
-      "time": 1782163261
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "score": 88,
+      "by": "mauvehaus",
+      "time": 1782151383
     },
     {
-      "title": "In Praise of Memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "score": 45,
-      "by": "j03b",
-      "time": 1782177305
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 307,
+      "by": "futohq",
+      "time": 1782237022
     },
     {
-      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
-      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
-      "score": 127,
-      "by": "pseudolus",
-      "time": 1782175652
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "score": 184,
+      "by": "saikatsg",
+      "time": 1782238247
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2810,
+      "stars": 2853,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1366,
+      "stars": 1372,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
