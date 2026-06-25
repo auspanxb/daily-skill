@@ -1,66 +1,66 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "weather": {
     "city": "Shanghai",
     "temp": "23",
-    "condition": "Light Rain",
-    "humidity": "89",
-    "wind": "13"
+    "condition": "Partly cloudy",
+    "humidity": "83",
+    "wind": "10"
   },
   "news": [
     {
-      "title": "Vulnerability reports are not special anymore",
-      "url": "https://words.filippo.io/vuln-reports/",
-      "score": 92,
-      "by": "goranmoomin",
-      "time": 1782258166
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "score": 69,
+      "by": "phreddypharkus",
+      "time": 1782348103
     },
     {
-      "title": "Jerry's Map",
-      "url": "http://www.jerrysmap.com/the-map",
-      "score": 343,
-      "by": "turtleyacht",
-      "time": 1782240022
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 559,
+      "by": "jamdesk",
+      "time": 1782323220
     },
     {
-      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-      "score": 88,
-      "by": "mauvehaus",
-      "time": 1782151383
+      "title": "Blogging can just be stating the obvious",
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "score": 87,
+      "by": "Curiositry",
+      "time": 1782344797
     },
     {
-      "title": "FUTO Swipe – A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
-      "score": 307,
-      "by": "futohq",
-      "time": 1782237022
+      "title": "Bible as RAG Database",
+      "url": "https://www.crosscanon.com/",
+      "score": 35,
+      "by": "jacksonastone",
+      "time": 1782351775
     },
     {
-      "title": "In memory of the man who put red and green squiggles under words",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "score": 184,
-      "by": "saikatsg",
-      "time": 1782238247
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "score": 95,
+      "by": "htrp",
+      "time": 1782330481
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2853,
+      "stars": 2898,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1372,
+      "stars": 1374,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 434,
+      "stars": 435,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
