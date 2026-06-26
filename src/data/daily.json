@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "weather": {
     "city": "Shanghai",
-    "temp": "23",
-    "condition": "Partly cloudy",
-    "humidity": "83",
-    "wind": "10"
+    "temp": "27",
+    "condition": "Sunny",
+    "humidity": "54",
+    "wind": "9"
   },
   "news": [
     {
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "score": 69,
-      "by": "phreddypharkus",
-      "time": 1782348103
+      "title": "AI children's books, body horror edition",
+      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+      "score": 85,
+      "by": "surprisetalk",
+      "time": 1782436514
     },
     {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 559,
-      "by": "jamdesk",
-      "time": 1782323220
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "score": 536,
+      "by": "minimaxir",
+      "time": 1782419617
     },
     {
-      "title": "Blogging can just be stating the obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 87,
-      "by": "Curiositry",
-      "time": 1782344797
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "score": 90,
+      "by": "scrlk",
+      "time": 1782409124
     },
     {
-      "title": "Bible as RAG Database",
-      "url": "https://www.crosscanon.com/",
-      "score": 35,
-      "by": "jacksonastone",
-      "time": 1782351775
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "score": 1018,
+      "by": "verditelabs",
+      "time": 1782402487
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 95,
-      "by": "htrp",
-      "time": 1782330481
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "score": 34,
+      "by": "Alupis",
+      "time": 1782436252
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2898,
+      "stars": 2983,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1374,
+      "stars": 1375,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
