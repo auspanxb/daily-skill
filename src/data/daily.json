@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Sunny",
-    "humidity": "54",
-    "wind": "9"
+    "temp": "26",
+    "condition": "Partly cloudy",
+    "humidity": "65",
+    "wind": "6"
   },
   "news": [
     {
-      "title": "AI children's books, body horror edition",
-      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-      "score": 85,
-      "by": "surprisetalk",
-      "time": 1782436514
-    },
-    {
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 536,
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "score": 866,
       "by": "minimaxir",
-      "time": 1782419617
+      "time": 1782493615
     },
     {
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-      "score": 90,
-      "by": "scrlk",
-      "time": 1782409124
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "score": 104,
+      "by": "ProxyTracer",
+      "time": 1782513809
     },
     {
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "score": 1018,
-      "by": "verditelabs",
-      "time": 1782402487
+      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "score": 15,
+      "by": "PaybackTony",
+      "time": 1782521019
     },
     {
-      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "score": 34,
-      "by": "Alupis",
-      "time": 1782436252
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "url": "https://github.com/Tessil/hopscotch-map",
+      "score": 69,
+      "by": "gjvc",
+      "time": 1782508708
+    },
+    {
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "score": 53,
+      "by": "rbanffy",
+      "time": 1782513411
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 2983,
+      "stars": 3057,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1375,
+      "stars": 1381,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
