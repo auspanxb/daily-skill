@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "weather": {
     "city": "Shanghai",
-    "temp": "26",
-    "condition": "Partly cloudy",
-    "humidity": "65",
-    "wind": "6"
+    "temp": "27",
+    "condition": "Sunny",
+    "humidity": "74",
+    "wind": "14"
   },
   "news": [
     {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 866,
-      "by": "minimaxir",
-      "time": 1782493615
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "score": 46,
+      "by": "reaperducer",
+      "time": 1782613388
     },
     {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "score": 104,
-      "by": "ProxyTracer",
-      "time": 1782513809
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "score": 54,
+      "by": "jakogut",
+      "time": 1782607612
     },
     {
-      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "score": 15,
-      "by": "PaybackTony",
-      "time": 1782521019
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "score": 41,
+      "by": "jackpriceburns",
+      "time": 1782609680
     },
     {
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "url": "https://github.com/Tessil/hopscotch-map",
-      "score": 69,
-      "by": "gjvc",
-      "time": 1782508708
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "score": 79,
+      "by": "pawal",
+      "time": 1782598288
     },
     {
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "score": 53,
-      "by": "rbanffy",
-      "time": 1782513411
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "score": 693,
+      "by": "binyu",
+      "time": 1782570660
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 3057,
+      "stars": 3098,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1381,
+      "stars": 1382,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
