@@ -1,54 +1,54 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Sunny",
-    "humidity": "74",
-    "wind": "14"
+    "temp": "28",
+    "condition": "Partly cloudy",
+    "humidity": "70",
+    "wind": "19"
   },
   "news": [
     {
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "score": 46,
-      "by": "reaperducer",
-      "time": 1782613388
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "score": 543,
+      "by": "jms703",
+      "time": 1782669047
     },
     {
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "score": 54,
-      "by": "jakogut",
-      "time": 1782607612
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "score": 206,
+      "by": "vga1",
+      "time": 1782671573
     },
     {
-      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
-      "score": 41,
-      "by": "jackpriceburns",
-      "time": 1782609680
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "url": "https://arxiv.org/abs/2401.07013",
+      "score": 63,
+      "by": "babelfish",
+      "time": 1782685924
     },
     {
-      "title": "Choosing a Public DNS Resolver",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
-      "score": 79,
-      "by": "pawal",
-      "time": 1782598288
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "score": 339,
+      "by": "xbryanx",
+      "time": 1782657896
     },
     {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "score": 693,
-      "by": "binyu",
-      "time": 1782570660
+      "title": "Better Images of AI",
+      "url": "https://betterimagesofai.org/",
+      "score": 25,
+      "by": "Curiositry",
+      "time": 1782690658
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 3098,
+      "stars": 3124,
       "url": "https://github.com/browser-act/skills"
     },
     {
