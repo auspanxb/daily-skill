@@ -1,60 +1,60 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
-    "condition": "Partly cloudy",
-    "humidity": "70",
-    "wind": "19"
+    "temp": "24",
+    "condition": "Light Rain Shower",
+    "humidity": "100",
+    "wind": "12"
   },
   "news": [
     {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 543,
-      "by": "jms703",
-      "time": 1782669047
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 641,
+      "by": "stared",
+      "time": 1782752716
     },
     {
-      "title": "Historical memory prices 1960-2026",
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 206,
-      "by": "vga1",
-      "time": 1782671573
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 359,
+      "by": "HumanCCF",
+      "time": 1782762568
     },
     {
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "url": "https://arxiv.org/abs/2401.07013",
-      "score": 63,
-      "by": "babelfish",
-      "time": 1782685924
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "score": 246,
+      "by": "zdw",
+      "time": 1782572717
     },
     {
-      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 339,
-      "by": "xbryanx",
-      "time": 1782657896
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "url": "https://fil-c.org/context_switches",
+      "score": 44,
+      "by": "modeless",
+      "time": 1782779899
     },
     {
-      "title": "Better Images of AI",
-      "url": "https://betterimagesofai.org/",
-      "score": 25,
-      "by": "Curiositry",
-      "time": 1782690658
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "score": 19,
+      "by": "ozymandiax",
+      "time": 1782781002
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 3124,
+      "stars": 3171,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1382,
+      "stars": 1384,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
