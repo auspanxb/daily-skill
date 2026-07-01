@@ -1,66 +1,66 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "weather": {
     "city": "Shanghai",
-    "temp": "24",
-    "condition": "Light Rain Shower",
-    "humidity": "100",
-    "wind": "12"
+    "temp": "23",
+    "condition": "Heavy Rain Shower, Light Rain Shower",
+    "humidity": "94",
+    "wind": "8"
   },
   "news": [
     {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 641,
-      "by": "stared",
-      "time": 1782752716
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 928,
+      "by": "marinesebastian",
+      "time": 1782842392
     },
     {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 359,
-      "by": "HumanCCF",
-      "time": 1782762568
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 1492,
+      "by": "kirushik",
+      "time": 1782834264
     },
     {
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "score": 246,
-      "by": "zdw",
-      "time": 1782572717
+      "title": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
+      "score": 80,
+      "by": "reconnecting",
+      "time": 1782863139
     },
     {
-      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
-      "url": "https://fil-c.org/context_switches",
-      "score": 44,
-      "by": "modeless",
-      "time": 1782779899
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "score": 345,
+      "by": "Pragmata",
+      "time": 1782863712
     },
     {
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "score": 19,
-      "by": "ozymandiax",
-      "time": 1782781002
+      "title": "From Julia to Rust: a differentiable tensor stack for scientific computing",
+      "url": "https://tensor4all.org/blog/introducing-tenferro-rs/",
+      "score": 23,
+      "by": "postflopclarity",
+      "time": 1782827344
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 3171,
+      "stars": 3366,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1384,
+      "stars": 1385,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 435,
+      "stars": 436,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
