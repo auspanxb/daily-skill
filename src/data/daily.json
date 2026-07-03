@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
-    "condition": "Patchy rain nearby",
-    "humidity": "84",
-    "wind": "7"
+    "temp": "27",
+    "condition": "Partly cloudy",
+    "humidity": "100",
+    "wind": "6"
   },
   "news": [
     {
-      "title": "ZCode – Harness for GLM-5.2",
-      "url": "https://zcode.z.ai/en",
-      "score": 232,
-      "by": "chvid",
-      "time": 1782943416
+      "title": "Virginia bans sale of geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "score": 522,
+      "by": "toomuchtodo",
+      "time": 1783026225
     },
     {
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "url": "https://www.workerowned.info/",
-      "score": 246,
-      "by": "IESAI_ski",
-      "time": 1782938861
+      "title": "An American Privacy Emergency",
+      "url": "https://scottaaronson.blog/?p=9902",
+      "score": 160,
+      "by": "flowercalled",
+      "time": 1783036866
     },
     {
-      "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "score": 50,
-      "by": "devicelimit",
-      "time": 1782953281
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "url": "https://github.com/FractalFir/crustc",
+      "score": 143,
+      "by": "Philpax",
+      "time": 1783033055
     },
     {
-      "title": "For first time, a cell built from scratch grows and divides",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 753,
-      "by": "defrost",
-      "time": 1782915652
+      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+      "score": 76,
+      "by": "throwaway2027",
+      "time": 1783036886
     },
     {
-      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
-      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-      "score": 129,
-      "by": "coloneltcb",
-      "time": 1782952814
+      "title": "Right to Local Intelligence",
+      "url": "https://righttointelligence.org/",
+      "score": 43,
+      "by": "thoughtpeddler",
+      "time": 1783036443
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 3428,
+      "stars": 3496,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1387,
+      "stars": 1391,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 436,
+      "stars": 437,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
