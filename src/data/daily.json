@@ -1,60 +1,60 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "weather": {
     "city": "Shanghai",
-    "temp": "30",
-    "condition": "Patchy rain nearby",
-    "humidity": "79",
-    "wind": "9"
+    "temp": "27",
+    "condition": "Rain Shower",
+    "humidity": "84",
+    "wind": "4"
   },
   "news": [
     {
-      "title": "Giant trees have no trouble pumping water to top branches",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "score": 97,
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "score": 153,
+      "by": "cybermango",
+      "time": 1783208470
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "score": 366,
+      "by": "asronline",
+      "time": 1783194070
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "score": 154,
+      "by": "maille",
+      "time": 1783201869
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "score": 348,
+      "by": "Cider9986",
+      "time": 1783183886
+    },
+    {
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "score": 44,
       "by": "hhs",
-      "time": 1783118429
-    },
-    {
-      "title": "Leanstral 1.5: Proof Abundance for All",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "score": 93,
-      "by": "programLyrique",
-      "time": 1783117990
-    },
-    {
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "score": 100,
-      "by": "latchkey",
-      "time": 1783115346
-    },
-    {
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "url": "https://mrbruh.com/msicenter/",
-      "score": 26,
-      "by": "MrBruh",
-      "time": 1783126664
-    },
-    {
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "score": 73,
-      "by": "zdw",
-      "time": 1783118390
+      "time": 1783204588
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 3564,
+      "stars": 3654,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1402,
+      "stars": 1424,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
