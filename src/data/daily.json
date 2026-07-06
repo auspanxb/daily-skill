@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Rain Shower",
-    "humidity": "84",
-    "wind": "4"
+    "temp": "31",
+    "condition": "Thundery outbreaks in nearby",
+    "humidity": "71",
+    "wind": "9"
   },
   "news": [
     {
-      "title": "Scientists reverse brain aging, with a nasal spray",
-      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
-      "score": 153,
-      "by": "cybermango",
-      "time": 1783208470
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "score": 68,
+      "by": "mfiguiere",
+      "time": 1783299843
     },
     {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 366,
-      "by": "asronline",
-      "time": 1783194070
+      "title": "OpenPrinter",
+      "url": "https://www.opentools.studio/",
+      "score": 478,
+      "by": "bouh",
+      "time": 1783285386
     },
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "score": 154,
-      "by": "maille",
-      "time": 1783201869
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "score": 92,
+      "by": "ClearwayLaw",
+      "time": 1783296288
     },
     {
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 348,
-      "by": "Cider9986",
-      "time": 1783183886
+      "title": "Has_not_been_viewed_much",
+      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "score": 94,
+      "by": "wxw",
+      "time": 1783295340
     },
     {
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "score": 44,
-      "by": "hhs",
-      "time": 1783204588
+      "title": "Organic Maps",
+      "url": "https://organicmaps.app/",
+      "score": 823,
+      "by": "tosh",
+      "time": 1783260870
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 3654,
+      "stars": 3737,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1424,
+      "stars": 1426,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 437,
+      "stars": 438,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
