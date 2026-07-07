@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "weather": {
     "city": "Shanghai",
-    "temp": "31",
-    "condition": "Thundery outbreaks in nearby",
-    "humidity": "71",
-    "wind": "9"
+    "temp": "30",
+    "condition": "Sunny",
+    "humidity": "75",
+    "wind": "16"
   },
   "news": [
     {
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "score": 68,
-      "by": "mfiguiere",
-      "time": 1783299843
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "score": 173,
+      "by": "modinfo",
+      "time": 1783378824
     },
     {
-      "title": "OpenPrinter",
-      "url": "https://www.opentools.studio/",
-      "score": 478,
-      "by": "bouh",
-      "time": 1783285386
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "score": 71,
+      "by": "bilsbie",
+      "time": 1783383261
     },
     {
-      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "score": 92,
-      "by": "ClearwayLaw",
-      "time": 1783296288
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "score": 461,
+      "by": "peter_d_sherman",
+      "time": 1783362192
     },
     {
-      "title": "Has_not_been_viewed_much",
-      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "score": 94,
-      "by": "wxw",
-      "time": 1783295340
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "score": 335,
+      "by": "basilikum",
+      "time": 1783364107
     },
     {
-      "title": "Organic Maps",
-      "url": "https://organicmaps.app/",
-      "score": 823,
-      "by": "tosh",
-      "time": 1783260870
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 190,
+      "by": "martinald",
+      "time": 1783368895
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 3737,
+      "stars": 3821,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1426,
+      "stars": 1430,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 438,
+      "stars": 440,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
