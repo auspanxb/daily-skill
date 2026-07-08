@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "weather": {
     "city": "Shanghai",
-    "temp": "30",
-    "condition": "Sunny",
-    "humidity": "75",
-    "wind": "16"
+    "temp": "34",
+    "condition": "Patchy rain nearby",
+    "humidity": "56",
+    "wind": "10"
   },
   "news": [
     {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "score": 173,
-      "by": "modinfo",
-      "time": 1783378824
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "url": "https://www.gao.gov/products/gao-26-108193",
+      "score": 100,
+      "by": "Jimmc414",
+      "time": 1783463038
     },
     {
-      "title": "How to sequence your own DNA at home",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "score": 71,
-      "by": "bilsbie",
-      "time": 1783383261
+      "title": "We charge $10k a week to delete AI-generated code",
+      "url": "https://odra.dev/slopfix/",
+      "score": 224,
+      "by": "zie1ony",
+      "time": 1783456542
     },
     {
-      "title": "OpenWrt One – Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 461,
-      "by": "peter_d_sherman",
-      "time": 1783362192
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "score": 297,
+      "by": "speckx",
+      "time": 1783448650
     },
     {
-      "title": "CoMaps – FOSS Offline Maps",
-      "url": "https://www.comaps.app/",
-      "score": 335,
-      "by": "basilikum",
-      "time": 1783364107
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "score": 27,
+      "by": "miniBill",
+      "time": 1783469331
     },
     {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 190,
-      "by": "martinald",
-      "time": 1783368895
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "url": "https://streetcomplete.app/",
+      "score": 700,
+      "by": "kls0e",
+      "time": 1783427915
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 3821,
+      "stars": 3988,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1430,
+      "stars": 1432,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 440,
+      "stars": 443,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
