@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "weather": {
     "city": "Shanghai",
-    "temp": "34",
-    "condition": "Patchy rain nearby",
-    "humidity": "56",
-    "wind": "10"
+    "temp": "27",
+    "condition": "Partly cloudy",
+    "humidity": "84",
+    "wind": "6"
   },
   "news": [
     {
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "url": "https://www.gao.gov/products/gao-26-108193",
-      "score": 100,
-      "by": "Jimmc414",
-      "time": 1783463038
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "score": 352,
+      "by": "djoldman",
+      "time": 1783553863
     },
     {
-      "title": "We charge $10k a week to delete AI-generated code",
-      "url": "https://odra.dev/slopfix/",
-      "score": 224,
-      "by": "zie1ony",
-      "time": 1783456542
+      "title": "I Think I Have LLM Burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "score": 53,
+      "by": "sosodev",
+      "time": 1783562188
     },
     {
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-      "score": 297,
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "score": 164,
+      "by": "sk4rekr0w",
+      "time": 1783544631
+    },
+    {
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "score": 758,
       "by": "speckx",
-      "time": 1783448650
+      "time": 1783523990
     },
     {
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "score": 27,
-      "by": "miniBill",
-      "time": 1783469331
-    },
-    {
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "url": "https://streetcomplete.app/",
-      "score": 700,
-      "by": "kls0e",
-      "time": 1783427915
+      "title": "Remote Attestation",
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "score": 26,
+      "by": "lcvw",
+      "time": 1783557153
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 3988,
+      "stars": 4148,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1432,
+      "stars": 1441,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "tock",
       "description": "Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.",
-      "stars": 443,
+      "stars": 444,
       "url": "https://github.com/kriuchkov/tock"
     }
   ]
