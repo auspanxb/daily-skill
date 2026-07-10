@@ -1,60 +1,60 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
+    "temp": "30",
     "condition": "Partly cloudy",
-    "humidity": "84",
-    "wind": "6"
+    "humidity": "70",
+    "wind": "23"
   },
   "news": [
     {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 352,
-      "by": "djoldman",
-      "time": 1783553863
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "score": 407,
+      "by": "vforno",
+      "time": 1783584304
     },
     {
-      "title": "I Think I Have LLM Burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "score": 53,
-      "by": "sosodev",
-      "time": 1783562188
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 1022,
+      "by": "rapnie",
+      "time": 1783595034
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 164,
-      "by": "sk4rekr0w",
-      "time": 1783544631
+      "title": "Focus",
+      "url": "https://boz.com/articles/focus",
+      "score": 27,
+      "by": "iacguy",
+      "time": 1783644033
     },
     {
-      "title": "Chatto is now open source",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 758,
-      "by": "speckx",
-      "time": 1783523990
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 1082,
+      "by": "logickkk1",
+      "time": 1783616654
     },
     {
-      "title": "Remote Attestation",
-      "url": "https://www.liamcvw.com/p/remote-attestation",
-      "score": 26,
-      "by": "lcvw",
-      "time": 1783557153
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "score": 840,
+      "by": "pompomsheep",
+      "time": 1783601332
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4148,
+      "stars": 4229,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1441,
+      "stars": 1472,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
