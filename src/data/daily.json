@@ -1,60 +1,60 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "weather": {
     "city": "Shanghai",
-    "temp": "30",
-    "condition": "Partly cloudy",
-    "humidity": "70",
-    "wind": "23"
+    "temp": "31",
+    "condition": "Patchy rain nearby",
+    "humidity": "75",
+    "wind": "26"
   },
   "news": [
     {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 407,
-      "by": "vforno",
-      "time": 1783584304
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "score": 101,
+      "by": "hhs",
+      "time": 1783722644
     },
     {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1022,
-      "by": "rapnie",
-      "time": 1783595034
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 456,
+      "by": "speckx",
+      "time": 1783699193
     },
     {
-      "title": "Focus",
-      "url": "https://boz.com/articles/focus",
-      "score": 27,
-      "by": "iacguy",
-      "time": 1783644033
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "score": 22,
+      "by": "cdrnsf",
+      "time": 1783730436
     },
     {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1082,
-      "by": "logickkk1",
-      "time": 1783616654
+      "title": "FreeCAD in the Browser",
+      "url": "https://magik.net/freecad/",
+      "score": 23,
+      "by": "cui",
+      "time": 1783730640
     },
     {
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 840,
-      "by": "pompomsheep",
-      "time": 1783601332
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 556,
+      "by": "stock_toaster",
+      "time": 1783716429
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4229,
+      "stars": 4267,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1472,
+      "stars": 1475,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
