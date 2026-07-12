@@ -1,60 +1,60 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "weather": {
     "city": "Shanghai",
-    "temp": "31",
-    "condition": "Patchy rain nearby",
+    "temp": "29",
+    "condition": "Partly cloudy",
     "humidity": "75",
-    "wind": "26"
+    "wind": "44"
   },
   "news": [
     {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 101,
-      "by": "hhs",
-      "time": 1783722644
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "score": 99,
+      "by": "tionis",
+      "time": 1783809537
     },
     {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 456,
-      "by": "speckx",
-      "time": 1783699193
-    },
-    {
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-      "score": 22,
-      "by": "cdrnsf",
-      "time": 1783730436
-    },
-    {
-      "title": "FreeCAD in the Browser",
-      "url": "https://magik.net/freecad/",
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
       "score": 23,
-      "by": "cui",
-      "time": 1783730640
+      "by": "ingve",
+      "time": 1783817290
     },
     {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 556,
-      "by": "stock_toaster",
-      "time": 1783716429
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "score": 183,
+      "by": "theMackabu",
+      "time": 1783800438
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "score": 61,
+      "by": "mariuz",
+      "time": 1783807080
+    },
+    {
+      "title": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev",
+      "score": 12,
+      "by": "guenchi",
+      "time": 1783817838
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4267,
+      "stars": 4288,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1475,
+      "stars": 1479,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
