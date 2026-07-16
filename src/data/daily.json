@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "weather": {
     "city": "Shanghai",
-    "temp": "35",
-    "condition": "Sunny",
-    "humidity": "56",
-    "wind": "13"
+    "temp": "36",
+    "condition": "Patchy rain nearby",
+    "humidity": "57",
+    "wind": "8"
   },
   "news": [
     {
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "url": "https://vpd.ca/",
-      "score": 75,
-      "by": "LookAtThatBacon",
-      "time": 1784074553
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "score": 701,
+      "by": "vimarsh6739",
+      "time": 1784139165
     },
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "score": 31,
-      "by": "jervant",
-      "time": 1784077706
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "score": 121,
+      "by": "gnyeki",
+      "time": 1784155378
     },
     {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "score": 438,
-      "by": "xenova",
-      "time": 1784051448
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "score": 273,
+      "by": "skp1995",
+      "time": 1784147098
     },
     {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "score": 99,
-      "by": "woodruffw",
-      "time": 1784063751
+      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+      "url": "https://davidobando.github.io/gsharp/",
+      "score": 22,
+      "by": "serial_dev",
+      "time": 1783775086
     },
     {
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 343,
-      "by": "cdrnsf",
-      "time": 1784048274
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "score": 88,
+      "by": "bilsbie",
+      "time": 1784150196
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4386,
+      "stars": 4421,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1517,
+      "stars": 1519,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 676,
+      "stars": 755,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
