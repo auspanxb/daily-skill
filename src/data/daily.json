@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "weather": {
     "city": "Shanghai",
     "temp": "36",
-    "condition": "Patchy rain nearby",
+    "condition": "Sunny",
     "humidity": "57",
-    "wind": "8"
+    "wind": "11"
   },
   "news": [
     {
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "score": 701,
-      "by": "vimarsh6739",
-      "time": 1784139165
+      "title": "Google Kills Custom Search API on Jan 1, 2027",
+      "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
+      "score": 39,
+      "by": "alexey-salmin",
+      "time": 1784250205
     },
     {
-      "title": "SQLite should have (Rust-style) editions",
-      "url": "https://mort.coffee/home/sqlite-editions/",
-      "score": 121,
-      "by": "gnyeki",
-      "time": 1784155378
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 1189,
+      "by": "vincent_s",
+      "time": 1784213165
     },
     {
-      "title": "Grok Build is open source",
-      "url": "https://github.com/xai-org/grok-build",
-      "score": 273,
-      "by": "skp1995",
-      "time": 1784147098
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "score": 546,
+      "by": "jervant",
+      "time": 1784217987
     },
     {
-      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
-      "url": "https://davidobando.github.io/gsharp/",
-      "score": 22,
-      "by": "serial_dev",
-      "time": 1783775086
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "score": 162,
+      "by": "minimaxir",
+      "time": 1784233095
     },
     {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "score": 88,
-      "by": "bilsbie",
-      "time": 1784150196
+      "title": "Decoy Font",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "score": 413,
+      "by": "ray__",
+      "time": 1784218701
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4421,
+      "stars": 4470,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1519,
+      "stars": 1522,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 755,
+      "stars": 838,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
