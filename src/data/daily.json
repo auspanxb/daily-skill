@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "weather": {
     "city": "Shanghai",
     "temp": "36",
-    "condition": "Sunny",
-    "humidity": "57",
-    "wind": "11"
+    "condition": "Light rain shower",
+    "humidity": "53",
+    "wind": "9"
   },
   "news": [
     {
-      "title": "Google Kills Custom Search API on Jan 1, 2027",
-      "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
-      "score": 39,
-      "by": "alexey-salmin",
-      "time": 1784250205
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 285,
+      "by": "gnabgib",
+      "time": 1784327190
     },
     {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1189,
-      "by": "vincent_s",
-      "time": 1784213165
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "score": 1055,
+      "by": "nprateem",
+      "time": 1784281325
     },
     {
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 546,
-      "by": "jervant",
-      "time": 1784217987
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "score": 333,
+      "by": "nicholasjbs",
+      "time": 1784307447
     },
     {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 162,
-      "by": "minimaxir",
-      "time": 1784233095
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 167,
+      "by": "st_goliath",
+      "time": 1784317262
     },
     {
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 413,
-      "by": "ray__",
-      "time": 1784218701
+      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
+      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "score": 35,
+      "by": "andsoitis",
+      "time": 1784330795
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4470,
+      "stars": 4488,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1522,
+      "stars": 1525,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 838,
+      "stars": 914,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
