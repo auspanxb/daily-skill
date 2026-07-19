@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "weather": {
     "city": "Shanghai",
-    "temp": "36",
-    "condition": "Light rain shower",
-    "humidity": "53",
-    "wind": "9"
+    "temp": "31",
+    "condition": "Patchy rain nearby",
+    "humidity": "79",
+    "wind": "8"
   },
   "news": [
     {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 285,
-      "by": "gnabgib",
-      "time": 1784327190
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "score": 61,
+      "by": "sebjones",
+      "time": 1784421506
     },
     {
-      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 1055,
-      "by": "nprateem",
-      "time": 1784281325
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "score": 282,
+      "by": "petewarden",
+      "time": 1784057110
     },
     {
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "score": 333,
-      "by": "nicholasjbs",
-      "time": 1784307447
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "score": 23,
+      "by": "xonery",
+      "time": 1784422795
     },
     {
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 167,
-      "by": "st_goliath",
-      "time": 1784317262
+      "title": "Classic Amiga titles, free to download",
+      "url": "https://amigafreeware.downer.tech/",
+      "score": 52,
+      "by": "doener",
+      "time": 1784411727
     },
     {
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-      "score": 35,
-      "by": "andsoitis",
-      "time": 1784330795
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "score": 506,
+      "by": "mbustamanter",
+      "time": 1784379652
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4488,
+      "stars": 4507,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1525,
+      "stars": 1526,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 914,
+      "stars": 970,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
