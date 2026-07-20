@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "weather": {
     "city": "Shanghai",
-    "temp": "31",
-    "condition": "Patchy rain nearby",
-    "humidity": "79",
-    "wind": "8"
+    "temp": "33",
+    "condition": "Light rain shower",
+    "humidity": "67",
+    "wind": "12"
   },
   "news": [
     {
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 61,
-      "by": "sebjones",
-      "time": 1784421506
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "score": 1693,
+      "by": "section33",
+      "time": 1784472076
     },
     {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 282,
-      "by": "petewarden",
-      "time": 1784057110
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 413,
+      "by": "tosh",
+      "time": 1784455403
     },
     {
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "score": 23,
-      "by": "xonery",
-      "time": 1784422795
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "score": 424,
+      "by": "chipweinberger",
+      "time": 1784457298
     },
     {
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
-      "score": 52,
-      "by": "doener",
-      "time": 1784411727
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "score": 123,
+      "by": "edgar_ortega",
+      "time": 1784039006
     },
     {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 506,
-      "by": "mbustamanter",
-      "time": 1784379652
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "score": 280,
+      "by": "ObviouslyFlamer",
+      "time": 1784461698
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4507,
+      "stars": 4530,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1526,
+      "stars": 1528,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 970,
+      "stars": 1018,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
