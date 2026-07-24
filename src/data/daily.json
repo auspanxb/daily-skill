@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "weather": {
     "city": "Shanghai",
-    "temp": "32",
+    "temp": "33",
     "condition": "Sunny",
-    "humidity": "75",
-    "wind": "9"
+    "humidity": "59",
+    "wind": "13"
   },
   "news": [
     {
-      "title": "Codeberg Bans Cryptocurrency Projects",
-      "url": "https://codeberg.org/Codeberg/org/pulls/1254",
-      "score": 65,
-      "by": "intunderflow",
-      "time": 1784768816
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
+      "score": 238,
+      "by": "lopespm",
+      "time": 1784845829
     },
     {
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 633,
-      "by": "gmays",
-      "time": 1784741440
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "score": 989,
+      "by": "dwwoelfel",
+      "time": 1784816683
     },
     {
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 173,
-      "by": "benbreen",
-      "time": 1784729885
+      "title": "The Visual 6502",
+      "url": "http://visual6502.org/JSSim/index.html",
+      "score": 46,
+      "by": "infiniteregrets",
+      "time": 1784849802
     },
     {
-      "title": "Run large language models at home, BitTorrent‑style",
-      "url": "https://petals.dev/",
-      "score": 17,
-      "by": "snorbleck",
-      "time": 1784770392
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "score": 239,
+      "by": "adam_rida",
+      "time": 1784834761
     },
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 376,
-      "by": "syrusakbary",
-      "time": 1784740838
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "score": 167,
+      "by": "glinscott",
+      "time": 1784729804
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4659,
+      "stars": 4712,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1538,
+      "stars": 1541,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1256,
+      "stars": 1326,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
