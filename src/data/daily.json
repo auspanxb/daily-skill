@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "weather": {
     "city": "Shanghai",
     "temp": "33",
     "condition": "Sunny",
-    "humidity": "63",
-    "wind": "22"
+    "humidity": "59",
+    "wind": "23"
   },
   "news": [
     {
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1321,
-      "by": "alvis",
-      "time": 1784912261
+      "title": "Stolen Buttons",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "score": 586,
+      "by": "Gecko4072",
+      "time": 1784539422
     },
     {
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "score": 206,
-      "by": "KraftyOne",
-      "time": 1784919953
+      "title": "Systems and Delays",
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "score": 18,
+      "by": "vinhnx",
+      "time": 1785026250
     },
     {
-      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-      "score": 31,
-      "by": "hhs",
-      "time": 1784934798
+      "title": "Clinical failure rates over the decades: yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "score": 47,
+      "by": "EA-3167",
+      "time": 1785020237
     },
     {
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "url": "https://artificialanalysis.ai/models",
-      "score": 146,
-      "by": "aarondong",
-      "time": 1784922310
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "score": 39,
+      "by": "alphabetatango",
+      "time": 1785019849
     },
     {
-      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-      "url": "https://globaloilnetwork.staffinganalytics.io/",
-      "score": 104,
-      "by": "eliotho",
-      "time": 1784809881
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "score": 129,
+      "by": "rbanffy",
+      "time": 1785016102
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4751,
+      "stars": 4788,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1547,
+      "stars": 1549,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1373,
+      "stars": 1425,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
