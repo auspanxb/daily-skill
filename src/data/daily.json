@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "weather": {
     "city": "Shanghai",
-    "temp": "33",
+    "temp": "32",
     "condition": "Sunny",
-    "humidity": "59",
-    "wind": "23"
+    "humidity": "57",
+    "wind": "21"
   },
   "news": [
     {
-      "title": "Stolen Buttons",
-      "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 586,
-      "by": "Gecko4072",
-      "time": 1784539422
+      "title": "PGSimCity - How PostgreSQL Works",
+      "url": "https://nikolays.github.io/PGSimCity/",
+      "score": 131,
+      "by": "jonbaer",
+      "time": 1785111544
     },
     {
-      "title": "Systems and Delays",
-      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
-      "score": 18,
-      "by": "vinhnx",
-      "time": 1785026250
-    },
-    {
-      "title": "Clinical failure rates over the decades: yikes",
-      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-      "score": 47,
-      "by": "EA-3167",
-      "time": 1785020237
-    },
-    {
-      "title": "Cloudflare's new AI traffic options for customers",
-      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in",
       "score": 39,
-      "by": "alphabetatango",
-      "time": 1785019849
+      "by": "aplavin",
+      "time": 1784813364
     },
     {
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "score": 129,
-      "by": "rbanffy",
-      "time": 1785016102
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "score": 229,
+      "by": "tosh",
+      "time": 1785090186
+    },
+    {
+      "title": "We have proof automation now",
+      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+      "score": 82,
+      "by": "zdw",
+      "time": 1785099206
+    },
+    {
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "score": 191,
+      "by": "saaaaaam",
+      "time": 1785088184
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4788,
+      "stars": 4817,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1549,
+      "stars": 1552,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1425,
+      "stars": 1466,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
