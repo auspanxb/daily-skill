@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "weather": {
     "city": "Shanghai",
-    "temp": "32",
+    "temp": "28",
     "condition": "Sunny",
-    "humidity": "57",
-    "wind": "21"
+    "humidity": "77",
+    "wind": "20"
   },
   "news": [
     {
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "score": 131,
-      "by": "jonbaer",
-      "time": 1785111544
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "score": 469,
+      "by": "surprisetalk",
+      "time": 1785189829
     },
     {
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "url": "https://blackhole.plav.in",
-      "score": 39,
-      "by": "aplavin",
-      "time": 1784813364
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "score": 130,
+      "by": "dhorthy",
+      "time": 1785191872
     },
     {
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "score": 229,
-      "by": "tosh",
-      "time": 1785090186
-    },
-    {
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "score": 82,
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "score": 56,
       "by": "zdw",
-      "time": 1785099206
+      "time": 1785194359
     },
     {
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 191,
-      "by": "saaaaaam",
-      "time": 1785088184
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
+      "score": 46,
+      "by": "teleforce",
+      "time": 1785194059
+    },
+    {
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "score": 172,
+      "by": "matheusmoreira",
+      "time": 1784966119
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4817,
+      "stars": 4857,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1552,
+      "stars": 1554,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1466,
+      "stars": 1502,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
