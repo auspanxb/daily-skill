@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
+    "temp": "32",
     "condition": "Sunny",
-    "humidity": "77",
-    "wind": "20"
+    "humidity": "60",
+    "wind": "14"
   },
   "news": [
     {
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 469,
-      "by": "surprisetalk",
-      "time": 1785189829
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 350,
+      "by": "bakigul",
+      "time": 1785271975
     },
     {
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 130,
-      "by": "dhorthy",
-      "time": 1785191872
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "score": 155,
+      "by": "freediver",
+      "time": 1785272319
     },
     {
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "score": 56,
-      "by": "zdw",
-      "time": 1785194359
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "score": 127,
+      "by": "twalichiewicz",
+      "time": 1785276546
     },
     {
-      "title": "DConf 2026 in London",
-      "url": "https://dconf.org/2026/index.html",
-      "score": 46,
-      "by": "teleforce",
-      "time": 1785194059
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 418,
+      "by": "speckx",
+      "time": 1785257911
     },
     {
-      "title": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 172,
-      "by": "matheusmoreira",
-      "time": 1784966119
+      "title": "Teach yourself programming in ten years (1998)",
+      "url": "https://www.norvig.com/21-days.html",
+      "score": 47,
+      "by": "vinhnx",
+      "time": 1785053205
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4857,
+      "stars": 4901,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1554,
+      "stars": 1558,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1502,
+      "stars": 1532,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
