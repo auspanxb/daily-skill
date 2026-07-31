@@ -1,67 +1,67 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "weather": {
     "city": "Shanghai",
     "temp": "33",
     "condition": "Sunny",
-    "humidity": "71",
-    "wind": "4"
+    "humidity": "67",
+    "wind": "6"
   },
   "news": [
     {
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 206,
-      "by": "YeGoblynQueenne",
-      "time": 1785360340
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "score": 126,
+      "by": "montroser",
+      "time": 1785453736
     },
     {
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 391,
-      "by": "robbiet480",
-      "time": 1785357580
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 579,
+      "by": "speckx",
+      "time": 1785431093
     },
     {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 657,
-      "by": "gitpusher42",
-      "time": 1785337543
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "score": 96,
+      "by": "volumes94",
+      "time": 1785450791
     },
     {
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "score": 530,
-      "by": "yan",
-      "time": 1785339693
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "score": 212,
+      "by": "navs",
+      "time": 1785440067
     },
     {
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "score": 56,
-      "by": "8thom",
-      "time": 1785365463
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 481,
+      "by": "tomzorz",
+      "time": 1785428776
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 4958,
+      "stars": 5004,
       "url": "https://github.com/browser-act/skills"
-    },
-    {
-      "name": "narrator-ai-cli-skill",
-      "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1560,
-      "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1552,
+      "stars": 1577,
       "url": "https://github.com/jangviktor-web/nihaixia"
+    },
+    {
+      "name": "narrator-ai-cli-skill",
+      "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
+      "stars": 1561,
+      "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
 }
