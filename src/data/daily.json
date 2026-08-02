@@ -1,60 +1,60 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "weather": {
     "city": "Shanghai",
-    "temp": "34",
-    "condition": "Smoky haze",
-    "humidity": "50",
-    "wind": "5"
+    "temp": "32",
+    "condition": "Sunny",
+    "humidity": "59",
+    "wind": "7"
   },
   "news": [
     {
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "score": 902,
-      "by": "Jrh0203",
-      "time": 1785511048
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "score": 27,
+      "by": "Hixon10",
+      "time": 1785634551
     },
     {
-      "title": "qm – Multiplayer agent harness for work",
-      "url": "https://github.com/yc-software/qm",
-      "score": 472,
-      "by": "tosh",
-      "time": 1785521098
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "score": 191,
+      "by": "njaremko",
+      "time": 1785617112
     },
     {
-      "title": "How to Exist",
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "score": 22,
-      "by": "walterbell",
-      "time": 1785543900
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "score": 207,
+      "by": "ryanseys",
+      "time": 1785616407
     },
     {
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "score": 55,
-      "by": "apollinaire",
-      "time": 1785453677
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "score": 171,
+      "by": "foxtrot8672",
+      "time": 1785623112
     },
     {
-      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
-      "score": 109,
-      "by": "iamnothere",
-      "time": 1785521872
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "score": 26,
+      "by": "Jimmc414",
+      "time": 1785627895
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5046,
+      "stars": 5075,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1635,
+      "stars": 1668,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
