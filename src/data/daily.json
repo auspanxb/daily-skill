@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "weather": {
     "city": "Shanghai",
-    "temp": "32",
+    "temp": "34",
     "condition": "Sunny",
-    "humidity": "59",
-    "wind": "7"
+    "humidity": "51",
+    "wind": "12"
   },
   "news": [
     {
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 27,
-      "by": "Hixon10",
-      "time": 1785634551
-    },
-    {
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 191,
-      "by": "njaremko",
-      "time": 1785617112
-    },
-    {
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "score": 207,
-      "by": "ryanseys",
-      "time": 1785616407
-    },
-    {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 171,
-      "by": "foxtrot8672",
-      "time": 1785623112
-    },
-    {
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "url": "https://github.com/johnsonjh/cpm386",
       "score": 26,
-      "by": "Jimmc414",
-      "time": 1785627895
+      "by": "TMWNN",
+      "time": 1785717490
+    },
+    {
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "score": 45,
+      "by": "pizzaiolo",
+      "time": 1785715936
+    },
+    {
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "score": 449,
+      "by": "delichon",
+      "time": 1785643556
+    },
+    {
+      "title": "Show HN: Isopolis – isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
+      "score": 33,
+      "by": "nuwandavek",
+      "time": 1785717998
+    },
+    {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "score": 61,
+      "by": "nmstoker",
+      "time": 1785503310
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5075,
+      "stars": 5110,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1668,
+      "stars": 1696,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1565,
+      "stars": 1566,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
