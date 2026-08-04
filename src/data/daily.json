@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "weather": {
     "city": "Shanghai",
-    "temp": "34",
-    "condition": "Sunny",
-    "humidity": "51",
-    "wind": "12"
+    "temp": "30",
+    "condition": "Partly cloudy",
+    "humidity": "70",
+    "wind": "13"
   },
   "news": [
     {
-      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-      "url": "https://github.com/johnsonjh/cpm386",
-      "score": 26,
-      "by": "TMWNN",
-      "time": 1785717490
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "score": 458,
+      "by": "MaxMussio",
+      "time": 1785791633
     },
     {
-      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-      "score": 45,
-      "by": "pizzaiolo",
-      "time": 1785715936
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "score": 31,
+      "by": "marojejian",
+      "time": 1785341266
     },
     {
-      "title": "Karpathy’s Pelican",
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "score": 449,
-      "by": "delichon",
-      "time": 1785643556
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "score": 436,
+      "by": "milkshakes",
+      "time": 1785774432
     },
     {
-      "title": "Show HN: Isopolis – isometric pixel map of SF",
-      "url": "https://sf.isopolis.city/",
-      "score": 33,
-      "by": "nuwandavek",
-      "time": 1785717998
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156683",
+      "score": 109,
+      "by": "whoishiring",
+      "time": 1785769254
     },
     {
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "score": 61,
-      "by": "nmstoker",
-      "time": 1785503310
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "score": 506,
+      "by": "bryanmikaelian",
+      "time": 1785766547
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5110,
+      "stars": 5138,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1696,
+      "stars": 1719,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1566,
+      "stars": 1568,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
