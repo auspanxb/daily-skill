@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "weather": {
     "city": "Shanghai",
-    "temp": "32",
-    "condition": "Sunny",
-    "humidity": "62",
-    "wind": "15"
+    "temp": "30",
+    "condition": "Patchy rain nearby",
+    "humidity": "71",
+    "wind": "14"
   },
   "news": [
     {
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "score": 129,
-      "by": "spyc",
-      "time": 1785885492
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
+      "score": 606,
+      "by": "xtreak29",
+      "time": 1785946784
     },
     {
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "score": 64,
-      "by": "tchalla",
-      "time": 1785887452
-    },
-    {
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 109,
-      "by": "luispa",
-      "time": 1785882132
-    },
-    {
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "score": 175,
-      "by": "mattsterett",
-      "time": 1785876497
-    },
-    {
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
       "score": 312,
-      "by": "riadsila",
-      "time": 1785861365
+      "by": "ahamez",
+      "time": 1785955974
+    },
+    {
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "score": 149,
+      "by": "ExMachina73",
+      "time": 1785965363
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "score": 483,
+      "by": "colesantiago",
+      "time": 1785945931
+    },
+    {
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "score": 181,
+      "by": "paulkrush",
+      "time": 1785957352
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5166,
+      "stars": 5210,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1788,
+      "stars": 1814,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1570,
+      "stars": 1572,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
