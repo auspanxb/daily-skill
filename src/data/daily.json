@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "weather": {
     "city": "Shanghai",
-    "temp": "30",
+    "temp": "32",
     "condition": "Patchy rain nearby",
-    "humidity": "71",
-    "wind": "14"
+    "humidity": "60",
+    "wind": "23"
   },
   "news": [
     {
-      "title": "Discovery Loop",
-      "url": "https://www.discoveryloop.com/",
-      "score": 606,
-      "by": "xtreak29",
-      "time": 1785946784
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 390,
+      "by": "itvision",
+      "time": 1786047791
     },
     {
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "score": 312,
-      "by": "ahamez",
-      "time": 1785955974
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 150,
+      "by": "neversaydie",
+      "time": 1785944003
     },
     {
-      "title": "The title cards in Blade Runner are amazing",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 149,
-      "by": "ExMachina73",
-      "time": 1785965363
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "score": 893,
+      "by": "theanonymousone",
+      "time": 1786015493
     },
     {
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 483,
-      "by": "colesantiago",
-      "time": 1785945931
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "score": 92,
+      "by": "gnabgib",
+      "time": 1786053136
     },
     {
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "score": 181,
-      "by": "paulkrush",
-      "time": 1785957352
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "score": 86,
+      "by": "baranul",
+      "time": 1785741177
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5210,
+      "stars": 5239,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1814,
+      "stars": 1847,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1572,
+      "stars": 1580,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
