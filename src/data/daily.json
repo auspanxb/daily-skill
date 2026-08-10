@@ -1,67 +1,67 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "weather": {
     "city": "Shanghai",
-    "temp": "26",
-    "condition": "Moderate or heavy rain shower",
+    "temp": "27",
+    "condition": "Moderate or heavy rain in area with thunder",
     "humidity": "93",
-    "wind": "45"
+    "wind": "44"
   },
   "news": [
     {
-      "title": "My server is a phone now",
-      "url": "https://seg6.space/posts/phone-server/",
-      "score": 74,
-      "by": "seg6",
-      "time": 1786229363
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "score": 396,
+      "by": "laurentiurad",
+      "time": 1786303009
     },
     {
-      "title": "Improving Heuristics for A* Pathfinding",
-      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-      "score": 40,
-      "by": "bobbiechen",
-      "time": 1785218682
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "score": 71,
+      "by": "berghoffer",
+      "time": 1786308149
     },
     {
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "score": 317,
-      "by": "groomlake",
-      "time": 1786205091
+      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
+      "url": "https://publicdomainreview.org/collection/marnameh/",
+      "score": 23,
+      "by": "Thevet",
+      "time": 1786075496
     },
     {
-      "title": "_for-sale DNS records",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "score": 342,
-      "by": "shaunpud",
-      "time": 1786195611
+      "title": "Mea Culpa – Dark Hours",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "score": 554,
+      "by": "satvikpendem",
+      "time": 1786281643
     },
     {
-      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-      "score": 86,
-      "by": "MarcoDewey",
-      "time": 1786217888
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "score": 165,
+      "by": "david927",
+      "time": 1786296202
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5293,
+      "stars": 5320,
       "url": "https://github.com/browser-act/skills"
-    },
-    {
-      "name": "nihaixia",
-      "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1891,
-      "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1782,
+      "stars": 1919,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
+    },
+    {
+      "name": "nihaixia",
+      "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
+      "stars": 1909,
+      "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
 }
