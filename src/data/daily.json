@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "weather": {
     "city": "Shanghai",
     "temp": "27",
-    "condition": "Moderate or heavy rain in area with thunder",
-    "humidity": "93",
-    "wind": "44"
+    "condition": "Patchy light drizzle",
+    "humidity": "89",
+    "wind": "31"
   },
   "news": [
     {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 396,
-      "by": "laurentiurad",
-      "time": 1786303009
+      "title": "The UK's War on Anonymity Has Come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "score": 118,
+      "by": "slowin",
+      "time": 1786405550
     },
     {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "score": 71,
-      "by": "berghoffer",
-      "time": 1786308149
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "url": "https://everycube.alen.is/",
+      "score": 42,
+      "by": "Alen123",
+      "time": 1786403785
     },
     {
-      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "url": "https://publicdomainreview.org/collection/marnameh/",
-      "score": 23,
-      "by": "Thevet",
-      "time": 1786075496
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "score": 11,
+      "by": "eatonphil",
+      "time": 1786407855
     },
     {
-      "title": "Mea Culpa – Dark Hours",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "score": 554,
-      "by": "satvikpendem",
-      "time": 1786281643
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "score": 160,
+      "by": "HenryNdubuaku",
+      "time": 1786382527
     },
     {
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49233423",
-      "score": 165,
-      "by": "david927",
-      "time": 1786296202
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "score": 1026,
+      "by": "riordan",
+      "time": 1786356602
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5320,
+      "stars": 5278,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 1919,
+      "stars": 1958,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1909,
+      "stars": 1933,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
