@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "weather": {
     "city": "Shanghai",
     "temp": "27",
-    "condition": "Patchy rain nearby",
-    "humidity": "87",
-    "wind": "15"
+    "condition": "Light rain shower",
+    "humidity": "92",
+    "wind": "5"
   },
   "news": [
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 614,
-      "by": "thisisauserid",
-      "time": 1786641802
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 871,
+      "by": "erdaltoprak",
+      "time": 1786719600
     },
     {
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "score": 52,
-      "by": "danabramov",
-      "time": 1786666468
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "score": 173,
+      "by": "vslira",
+      "time": 1786740764
     },
     {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 416,
-      "by": "pr337h4m",
-      "time": 1786644602
+      "title": "RISC-V: They should have known better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "score": 101,
+      "by": "kaycebasques",
+      "time": 1786747114
     },
     {
-      "title": "SparrowMap – Cameras that watch government vehicles",
-      "url": "https://sparrowmap.com/",
-      "score": 19,
-      "by": "paulnpace",
-      "time": 1786666204
+      "title": "The case for overhauling American science",
+      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+      "score": 22,
+      "by": "andsoitis",
+      "time": 1786749094
     },
     {
-      "title": "NP-Overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "score": 145,
-      "by": "theanonymousone",
-      "time": 1786652057
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "score": 768,
+      "by": "numeri",
+      "time": 1786702368
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5366,
+      "stars": 5381,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2091,
+      "stars": 2100,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 1994,
+      "stars": 2018,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
