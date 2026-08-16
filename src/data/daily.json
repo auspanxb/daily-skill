@@ -1,67 +1,67 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Light rain shower",
-    "humidity": "92",
-    "wind": "5"
+    "temp": "25",
+    "condition": "Partly Cloudy ",
+    "humidity": "90",
+    "wind": "12"
   },
   "news": [
     {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 871,
-      "by": "erdaltoprak",
-      "time": 1786719600
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "score": 340,
+      "by": "randycupertino",
+      "time": 1786809533
     },
     {
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "score": 173,
-      "by": "vslira",
-      "time": 1786740764
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "score": 69,
+      "by": "felixbraun",
+      "time": 1786827251
     },
     {
-      "title": "RISC-V: They should have known better",
-      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "score": 101,
-      "by": "kaycebasques",
-      "time": 1786747114
+      "title": "ChatGPT lost 22 points of web share in a year",
+      "url": "https://aicharts.grok.me/c/market-share",
+      "score": 6,
+      "by": "echohive42",
+      "time": 1786839740
     },
     {
-      "title": "The case for overhauling American science",
-      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-      "score": 22,
-      "by": "andsoitis",
-      "time": 1786749094
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "score": 83,
+      "by": "AnodicElegy",
+      "time": 1786821173
     },
     {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "score": 768,
-      "by": "numeri",
-      "time": 1786702368
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "score": 208,
+      "by": "gmays",
+      "time": 1786802689
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5381,
+      "stars": 5334,
       "url": "https://github.com/browser-act/skills"
+    },
+    {
+      "name": "nihaixia",
+      "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义。",
+      "stars": 2292,
+      "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2100,
+      "stars": 2103,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
-    },
-    {
-      "name": "nihaixia",
-      "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义",
-      "stars": 2018,
-      "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
 }
