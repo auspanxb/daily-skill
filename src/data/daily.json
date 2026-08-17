@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "weather": {
     "city": "Shanghai",
-    "temp": "25",
+    "temp": "27",
     "condition": "Partly Cloudy ",
-    "humidity": "90",
-    "wind": "12"
+    "humidity": "83",
+    "wind": "7"
   },
   "news": [
     {
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 340,
-      "by": "randycupertino",
-      "time": 1786809533
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "score": 357,
+      "by": "Narishma",
+      "time": 1786899667
     },
     {
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "score": 69,
-      "by": "felixbraun",
-      "time": 1786827251
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "score": 525,
+      "by": "tosh",
+      "time": 1786884501
     },
     {
-      "title": "ChatGPT lost 22 points of web share in a year",
-      "url": "https://aicharts.grok.me/c/market-share",
-      "score": 6,
-      "by": "echohive42",
-      "time": 1786839740
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "score": 67,
+      "by": "ibobev",
+      "time": 1786625045
     },
     {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "score": 83,
-      "by": "AnodicElegy",
-      "time": 1786821173
+      "title": "Low-Tech Ceramic Water Filter",
+      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "score": 87,
+      "by": "Bluestein",
+      "time": 1786462587
     },
     {
-      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "score": 208,
-      "by": "gmays",
-      "time": 1786802689
+      "title": "A quick look at zero-knowledge proofs",
+      "url": "https://bernsteinbear.com/blog/zkp/",
+      "score": 36,
+      "by": "evakhoury",
+      "time": 1786737125
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5334,
+      "stars": 5337,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
-      "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（v2.1.0新增），蒸馏129条伤寒论 · 23篇金匮 · 71篇黄帝内经 · 345种本草 · 849个医案 · 2,452页讲义。",
-      "stars": 2292,
+      "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
+      "stars": 2396,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2103,
+      "stars": 2199,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
