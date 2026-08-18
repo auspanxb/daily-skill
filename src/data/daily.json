@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "weather": {
     "city": "Shanghai",
     "temp": "27",
-    "condition": "Partly Cloudy ",
-    "humidity": "83",
-    "wind": "7"
+    "condition": "Overcast ",
+    "humidity": "86",
+    "wind": "8"
   },
   "news": [
     {
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "score": 357,
-      "by": "Narishma",
-      "time": 1786899667
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "score": 181,
+      "by": "gavide",
+      "time": 1787005240
     },
     {
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "score": 525,
-      "by": "tosh",
-      "time": 1786884501
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "score": 117,
+      "by": "shdon",
+      "time": 1787004374
     },
     {
-      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-      "score": 67,
-      "by": "ibobev",
-      "time": 1786625045
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "score": 72,
+      "by": "pizzaiolo",
+      "time": 1787004077
     },
     {
-      "title": "Low-Tech Ceramic Water Filter",
-      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-      "score": 87,
-      "by": "Bluestein",
-      "time": 1786462587
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "score": 153,
+      "by": "linggen",
+      "time": 1786989299
     },
     {
-      "title": "A quick look at zero-knowledge proofs",
-      "url": "https://bernsteinbear.com/blog/zkp/",
-      "score": 36,
-      "by": "evakhoury",
-      "time": 1786737125
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "score": 523,
+      "by": "ibotty",
+      "time": 1786974387
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5337,
+      "stars": 5344,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2396,
+      "stars": 2425,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2199,
+      "stars": 2278,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
