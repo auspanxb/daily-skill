@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Sunny",
-    "humidity": "84",
+    "temp": "28",
+    "condition": "Patchy rain nearby",
+    "humidity": "87",
     "wind": "13"
   },
   "news": [
     {
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 120,
-      "by": "phoenix120",
-      "time": 1787089833
+      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+      "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+      "score": 68,
+      "by": "cocacola1",
+      "time": 1787182702
     },
     {
-      "title": "Solo – a .so loader for static Linux binaries",
-      "url": "https://github.com/pg83/solo",
-      "score": 21,
-      "by": "zX41ZdbW",
-      "time": 1787097109
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "score": 608,
+      "by": "rvz",
+      "time": 1787160758
     },
     {
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 899,
-      "by": "herbertl",
-      "time": 1787059358
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "score": 426,
+      "by": "database64128",
+      "time": 1787164429
     },
     {
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 217,
-      "by": "NaOH",
-      "time": 1787076713
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "score": 277,
+      "by": "Animux",
+      "time": 1787161649
     },
     {
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "url": "https://modelmap.cc",
-      "score": 22,
-      "by": "lizhaoliu",
-      "time": 1787097456
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "score": 126,
+      "by": "1e1a",
+      "time": 1787166376
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5348,
+      "stars": 5358,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2449,
+      "stars": 2476,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2282,
+      "stars": 2285,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
