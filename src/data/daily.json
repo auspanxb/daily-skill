@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "weather": {
     "city": "Shanghai",
     "temp": "28",
-    "condition": "Patchy rain nearby",
-    "humidity": "82",
-    "wind": "15"
+    "condition": "Thundery outbreaks in nearby",
+    "humidity": "85",
+    "wind": "24"
   },
   "news": [
     {
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 414,
-      "by": "thepoet",
-      "time": 1787329525
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "score": 41,
+      "by": "stared",
+      "time": 1787436867
     },
     {
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "score": 501,
-      "by": "colinprince",
-      "time": 1787325424
+      "title": "Scrap",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "score": 303,
+      "by": "tosh",
+      "time": 1787422136
     },
     {
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 141,
-      "by": "NKosmatos",
-      "time": 1787337394
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 168,
+      "by": "felineflock",
+      "time": 1787422456
     },
     {
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "score": 994,
-      "by": "speckx",
-      "time": 1787320597
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
+      "score": 295,
+      "by": "jemoka",
+      "time": 1787410447
     },
     {
-      "title": "Three important steps in my maturation process",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "score": 30,
-      "by": "tdullien",
-      "time": 1787351340
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "score": 224,
+      "by": "auraham",
+      "time": 1787083250
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5391,
+      "stars": 5401,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2500,
+      "stars": 2534,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2290,
+      "stars": 2291,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
