@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
-    "condition": "Thundery outbreaks in nearby",
-    "humidity": "85",
-    "wind": "24"
+    "temp": "29",
+    "condition": "Sunny",
+    "humidity": "72",
+    "wind": "20"
   },
   "news": [
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "score": 41,
-      "by": "stared",
-      "time": 1787436867
+      "title": "Everything I own, owned",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "score": 204,
+      "by": "schlarpc",
+      "time": 1787524864
     },
     {
-      "title": "Scrap",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 303,
-      "by": "tosh",
-      "time": 1787422136
+      "title": "How I find problems to solve as a staff engineer",
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "score": 252,
+      "by": "vanpra",
+      "time": 1787513009
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 168,
-      "by": "felineflock",
-      "time": 1787422456
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "score": 182,
+      "by": "naves",
+      "time": 1787508997
     },
     {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "score": 295,
-      "by": "jemoka",
-      "time": 1787410447
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "score": 163,
+      "by": "el1s7",
+      "time": 1787513372
     },
     {
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "score": 224,
-      "by": "auraham",
-      "time": 1787083250
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "score": 140,
+      "by": "ibobev",
+      "time": 1787507992
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5401,
+      "stars": 5406,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2534,
+      "stars": 2559,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2291,
+      "stars": 2332,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
