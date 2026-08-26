@@ -1,60 +1,60 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Patchy rain nearby",
-    "humidity": "85",
-    "wind": "14"
+    "temp": "28",
+    "condition": "Sunny",
+    "humidity": "80",
+    "wind": "10"
   },
   "news": [
     {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 192,
-      "by": "K7PJP",
-      "time": 1787609620
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 240,
+      "by": "sunnynagra",
+      "time": 1787684821
     },
     {
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 716,
-      "by": "tosh",
-      "time": 1787584097
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "score": 936,
+      "by": "interpol_p",
+      "time": 1787662882
     },
     {
-      "title": "Moon (2024)",
-      "url": "https://ciechanow.ski/moon/",
-      "score": 90,
-      "by": "simonebrunozzi",
-      "time": 1787609162
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 310,
+      "by": "bmulholland",
+      "time": 1787666762
     },
     {
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 548,
-      "by": "ComputerGuru",
-      "time": 1787585284
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "score": 697,
+      "by": "interpol_p",
+      "time": 1787662997
     },
     {
-      "title": "The entire city of San Francisco as a video game",
-      "url": "https://sf.thijs.gg/",
-      "score": 326,
-      "by": "centrosphere",
-      "time": 1787591138
+      "title": "Python's pre-declared constants are kinda weird",
+      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "score": 129,
+      "by": "rbanffy",
+      "time": 1787693942
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5421,
+      "stars": 5429,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2609,
+      "stars": 2628,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
