@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "weather": {
     "city": "Shanghai",
-    "temp": "33",
+    "temp": "31",
     "condition": "Patchy rain nearby",
     "humidity": "60",
-    "wind": "27"
+    "wind": "23"
   },
   "news": [
     {
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "score": 820,
-      "by": "mfiguiere",
-      "time": 1787793175
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "score": 727,
+      "by": "TangerineDream",
+      "time": 1787851077
     },
     {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "score": 414,
-      "by": "GrumpySciGuy",
-      "time": 1787795182
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "score": 623,
+      "by": "tosh",
+      "time": 1787846218
     },
     {
-      "title": "Mechanical Turk shutting down September 30",
-      "url": "https://www.mturk.com/",
-      "score": 284,
-      "by": "tmp10423288442",
-      "time": 1787788544
+      "title": "Sovereign Tech Agency invests €500k in Flatpak",
+      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "score": 82,
+      "by": "eigenspace",
+      "time": 1787895767
     },
     {
-      "title": "Pnpm 12.0",
-      "url": "https://pnpm.io/blog/releases/12.0",
-      "score": 36,
-      "by": "jcbhmr",
-      "time": 1787807559
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "score": 568,
+      "by": "helloplanets",
+      "time": 1787839698
     },
     {
-      "title": "GLM-5.3-Flash",
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "score": 971,
-      "by": "Philpax",
-      "time": 1787753330
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
+      "score": 153,
+      "by": "elyosh",
+      "time": 1787868647
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5479,
+      "stars": 5513,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2688,
+      "stars": 2706,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2355,
+      "stars": 2360,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
