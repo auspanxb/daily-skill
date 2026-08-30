@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "weather": {
     "city": "Shanghai",
-    "temp": "32",
-    "condition": "Patchy rain nearby",
-    "humidity": "61",
-    "wind": "17"
+    "temp": "31",
+    "condition": "Light rain shower",
+    "humidity": "70",
+    "wind": "16"
   },
   "news": [
     {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "score": 187,
-      "by": "hentrep",
-      "time": 1787958141
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "score": 92,
+      "by": "davidmckenna",
+      "time": 1788049300
     },
     {
-      "title": "GUIs should be fully keyboard-driven",
-      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "score": 694,
-      "by": "ckardaris",
-      "time": 1787930229
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
+      "score": 38,
+      "by": "sashk",
+      "time": 1788053492
     },
     {
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "url": "https://github.com/kingroryg/turbokv",
-      "score": 47,
-      "by": "rgbimbochamp",
-      "time": 1787970217
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "score": 217,
+      "by": "shenli3514",
+      "time": 1788032003
     },
     {
-      "title": "Htmx 4.0",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "score": 584,
-      "by": "rmsaksida",
-      "time": 1787923736
+      "title": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "score": 44,
+      "by": "lumpa",
+      "time": 1787602342
     },
     {
-      "title": "9th Circuit sides with states in Kalshi gambling fight",
-      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-      "score": 103,
-      "by": "hungryhobbit",
-      "time": 1787959942
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "score": 377,
+      "by": "zackb",
+      "time": 1787548163
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5516,
+      "stars": 5522,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2711,
+      "stars": 2720,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2362,
+      "stars": 2367,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
