@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "weather": {
     "city": "Shanghai",
-    "temp": "31",
-    "condition": "Light rain shower",
-    "humidity": "70",
-    "wind": "16"
+    "temp": "33",
+    "condition": "Cloudy ",
+    "humidity": "58",
+    "wind": "22"
   },
   "news": [
     {
-      "title": "Bug Blindness",
-      "url": "https://danluu.com/bug-blind/",
-      "score": 92,
-      "by": "davidmckenna",
-      "time": 1788049300
+      "title": "“I just chose words carefully”",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "score": 366,
+      "by": "zdw",
+      "time": 1788130188
     },
     {
-      "title": "FreeCORE TrueNAS Core – Continued",
-      "url": "https://freecore.org/",
-      "score": 38,
-      "by": "sashk",
-      "time": 1788053492
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "score": 959,
+      "by": "zdw",
+      "time": 1788025741
     },
     {
-      "title": "Hy4 preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 217,
-      "by": "shenli3514",
-      "time": 1788032003
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "score": 58,
+      "by": "gmays",
+      "time": 1788139702
     },
     {
-      "title": "RISC-V is now officially supported by CPython",
-      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "score": 44,
-      "by": "lumpa",
-      "time": 1787602342
+      "title": "Matrox: Graphics for Professionals",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "score": 39,
+      "by": "BirAdam",
+      "time": 1788133175
     },
     {
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 377,
-      "by": "zackb",
-      "time": 1787548163
+      "title": "Why do I lose my passion and want to do nothing?",
+      "url": "https://news.ycombinator.com/item?id=49505014",
+      "score": 25,
+      "by": "hanstyle",
+      "time": 1788144037
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5522,
+      "stars": 5528,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2720,
+      "stars": 2734,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2367,
+      "stars": 2372,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
