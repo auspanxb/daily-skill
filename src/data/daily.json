@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "weather": {
     "city": "Shanghai",
-    "temp": "33",
-    "condition": "Cloudy ",
-    "humidity": "58",
-    "wind": "22"
+    "temp": "32",
+    "condition": "Sunny",
+    "humidity": "52",
+    "wind": "11"
   },
   "news": [
     {
-      "title": "“I just chose words carefully”",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-      "score": 366,
-      "by": "zdw",
-      "time": 1788130188
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 377,
+      "by": "speckx",
+      "time": 1788194831
     },
     {
-      "title": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 959,
-      "by": "zdw",
-      "time": 1788025741
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "score": 519,
+      "by": "cutoff",
+      "time": 1788187946
     },
     {
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "score": 58,
-      "by": "gmays",
-      "time": 1788139702
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 231,
+      "by": "keithcarolus",
+      "time": 1788200493
     },
     {
-      "title": "Matrox: Graphics for Professionals",
-      "url": "https://www.abortretry.fail/p/matrox",
-      "score": 39,
-      "by": "BirAdam",
-      "time": 1788133175
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "score": 244,
+      "by": "matthewsinclair",
+      "time": 1788129421
     },
     {
-      "title": "Why do I lose my passion and want to do nothing?",
-      "url": "https://news.ycombinator.com/item?id=49505014",
-      "score": 25,
-      "by": "hanstyle",
-      "time": 1788144037
+      "title": "Lion-man",
+      "url": "https://en.wikipedia.org/wiki/Lion-man",
+      "score": 69,
+      "by": "gurjeet",
+      "time": 1788045435
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5528,
+      "stars": 5534,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2734,
+      "stars": 2751,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2372,
+      "stars": 2408,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
