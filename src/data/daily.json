@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
-    "condition": "Patchy rain nearby",
-    "humidity": "59",
-    "wind": "14"
+    "temp": "27",
+    "condition": "Sunny",
+    "humidity": "53",
+    "wind": "13"
   },
   "news": [
     {
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "score": 147,
-      "by": "zplizzi",
-      "time": 1788653009
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "score": 105,
+      "by": "azhenley",
+      "time": 1788736448
     },
     {
-      "title": "The revolt of the reader",
-      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "score": 136,
-      "by": "chmaynard",
-      "time": 1788644269
+      "title": "Ponytail: Lazy Senior Engineer Skill",
+      "url": "https://ponytail.dev/",
+      "score": 28,
+      "by": "zatkin",
+      "time": 1788743897
     },
     {
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "score": 7,
-      "by": "Anon84",
-      "time": 1788659565
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "score": 154,
+      "by": "xena",
+      "time": 1788726758
     },
     {
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "score": 385,
-      "by": "bookmtn",
-      "time": 1788640298
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "score": 545,
+      "by": "cyb0rg0",
+      "time": 1788695803
     },
     {
-      "title": "Learn Programming with OCaml",
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "score": 185,
-      "by": "elvis70",
-      "time": 1788626702
+      "title": "The NX bit is not just about security",
+      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "score": 10,
+      "by": "torutofu",
+      "time": 1788529645
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5677,
+      "stars": 5736,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2833,
+      "stars": 2845,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2558,
+      "stars": 2621,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
