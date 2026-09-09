@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Sunny",
-    "humidity": "62",
-    "wind": "17"
+    "temp": "25",
+    "condition": "Overcast ",
+    "humidity": "60",
+    "wind": "19"
   },
   "news": [
     {
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "score": 103,
-      "by": "ahlCVA",
-      "time": 1788830219
+      "title": "Harvard study predicts most suicide attempts a week in advance",
+      "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+      "score": 53,
+      "by": "jodacola",
+      "time": 1788919633
     },
     {
-      "title": "TALA Is Open-Source",
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "score": 94,
-      "by": "alixanderwang",
-      "time": 1788824262
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "score": 345,
+      "by": "yks",
+      "time": 1788895500
     },
     {
-      "title": "Jellyfin 12.0",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "score": 86,
-      "by": "0xC0ncord",
-      "time": 1788832595
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "score": 105,
+      "by": "paimapi",
+      "time": 1788904058
     },
     {
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "url": "https://lax-skyline.parcelscope.net/",
-      "score": 228,
-      "by": "rustywasm",
-      "time": 1788807126
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "score": 1334,
+      "by": "procedurecall",
+      "time": 1788846148
     },
     {
-      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "url": "https://github.com/Sadpainy/Stuxnet",
-      "score": 110,
-      "by": "CMDDestory",
-      "time": 1788819158
+      "title": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "score": 162,
+      "by": "cat-whisperer",
+      "time": 1788902531
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5817,
+      "stars": 5846,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2861,
+      "stars": 2871,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2631,
+      "stars": 2633,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
