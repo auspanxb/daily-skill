@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "weather": {
     "city": "Shanghai",
     "temp": "27",
     "condition": "Sunny",
-    "humidity": "56",
-    "wind": "12"
+    "humidity": "54",
+    "wind": "8"
   },
   "news": [
     {
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "score": 693,
-      "by": "meredydd",
-      "time": 1789148712
+      "title": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
+      "score": 5,
+      "by": "mulmen",
+      "time": 1789267437
     },
     {
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "score": 338,
-      "by": "nickabe",
-      "time": 1789151095
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "score": 353,
+      "by": "juliantigler",
+      "time": 1789230308
     },
     {
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "score": 167,
-      "by": "wcrichton",
-      "time": 1788962390
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "score": 136,
+      "by": "theanonymousone",
+      "time": 1789244748
     },
     {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
-      "score": 392,
-      "by": "chao-",
-      "time": 1789168662
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "score": 410,
+      "by": "tolugenius",
+      "time": 1789225707
     },
     {
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "score": 51,
-      "by": "artninja1988",
-      "time": 1789162529
+      "title": "Apple iPod Engraver (2019)",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "score": 138,
+      "by": "NaOH",
+      "time": 1788919057
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5902,
+      "stars": 5904,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2899,
+      "stars": 2904,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2638,
+      "stars": 2640,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
