@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "weather": {
     "city": "Shanghai",
     "temp": "27",
     "condition": "Sunny",
-    "humidity": "54",
-    "wind": "8"
+    "humidity": "56",
+    "wind": "13"
   },
   "news": [
     {
-      "title": "The Interim Computer Museum",
-      "url": "https://icm.museum/",
-      "score": 5,
-      "by": "mulmen",
-      "time": 1789267437
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "score": 530,
+      "by": "u1hcw9nx",
+      "time": 1789333573
     },
     {
-      "title": "Make your first edit to OpenStreetMap",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 353,
-      "by": "juliantigler",
-      "time": 1789230308
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "score": 633,
+      "by": "iamflimflam1",
+      "time": 1789321064
     },
     {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "score": 136,
-      "by": "theanonymousone",
-      "time": 1789244748
+      "title": "Spaceships (Reverse Asteroid)",
+      "url": "https://spaceships.treybastian.com/",
+      "score": 46,
+      "by": "zdw",
+      "time": 1789015472
     },
     {
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "score": 410,
-      "by": "tolugenius",
-      "time": 1789225707
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "score": 108,
+      "by": "Cider9986",
+      "time": 1789336024
     },
     {
-      "title": "Apple iPod Engraver (2019)",
-      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "score": 138,
-      "by": "NaOH",
-      "time": 1788919057
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "score": 30,
+      "by": "simonpure",
+      "time": 1789345371
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5904,
+      "stars": 5915,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2904,
+      "stars": 2918,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2640,
+      "stars": 2643,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
