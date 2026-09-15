@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "weather": {
     "city": "Shanghai",
     "temp": "27",
-    "condition": "Sunny",
-    "humidity": "56",
-    "wind": "13"
+    "condition": "Overcast ",
+    "humidity": "35",
+    "wind": "18"
   },
   "news": [
     {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 530,
-      "by": "u1hcw9nx",
-      "time": 1789333573
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "score": 422,
+      "by": "throw0101d",
+      "time": 1789408229
     },
     {
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 633,
-      "by": "iamflimflam1",
-      "time": 1789321064
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 306,
+      "by": "lukaspetersson",
+      "time": 1789406166
     },
     {
-      "title": "Spaceships (Reverse Asteroid)",
-      "url": "https://spaceships.treybastian.com/",
-      "score": 46,
-      "by": "zdw",
-      "time": 1789015472
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "score": 120,
+      "by": "thingsilearned",
+      "time": 1789420974
     },
     {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "score": 108,
-      "by": "Cider9986",
-      "time": 1789336024
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "score": 44,
+      "by": "fretlessjazz",
+      "time": 1789426896
     },
     {
-      "title": "Open-Source AI and Open Models Reading List",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "score": 30,
-      "by": "simonpure",
-      "time": 1789345371
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "score": 33,
+      "by": "arunbahl",
+      "time": 1789239100
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5915,
+      "stars": 5923,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2918,
+      "stars": 2932,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2643,
+      "stars": 2645,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
