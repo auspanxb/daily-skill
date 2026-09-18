@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "weather": {
     "city": "Shanghai",
-    "temp": "26",
+    "temp": "27",
     "condition": "Patchy rain nearby",
-    "humidity": "59",
-    "wind": "13"
+    "humidity": "71",
+    "wind": "10"
   },
   "news": [
     {
-      "title": "Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "score": 355,
-      "by": "nonmaskable",
-      "time": 1789557353
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "score": 352,
+      "by": "vertigoruntime",
+      "time": 1789676268
     },
     {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
-      "score": 425,
-      "by": "polyphilz",
-      "time": 1789584600
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "score": 263,
+      "by": "JonSchneider",
+      "time": 1789679611
     },
     {
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "url": "https://mimo.xiaomi.com/rl/",
-      "score": 294,
-      "by": "krackers",
-      "time": 1789589358
+      "title": "Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe",
+      "url": "https://github.com/aardappel/goose/tree/master",
+      "score": 43,
+      "by": "bobbydigitales",
+      "time": 1789693494
     },
     {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "url": "https://arxiv.org/abs/2609.16338",
-      "score": 150,
-      "by": "matt_d",
-      "time": 1789592364
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "score": 323,
+      "by": "nicolas-siplis",
+      "time": 1789677373
     },
     {
-      "title": "Backups Aren't Simple",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "score": 107,
-      "by": "afilipovski",
-      "time": 1789590436
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "score": 491,
+      "by": "bookofjoe",
+      "time": 1789662337
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5939,
+      "stars": 5947,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2957,
+      "stars": 2967,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "narrator-ai-cli-skill",
       "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2653,
+      "stars": 2652,
       "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
     }
   ]
