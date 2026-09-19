@@ -1,67 +1,67 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "weather": {
     "city": "Shanghai",
     "temp": "27",
-    "condition": "Patchy rain nearby",
-    "humidity": "71",
-    "wind": "10"
+    "condition": "Light rain shower",
+    "humidity": "75",
+    "wind": "11"
   },
   "news": [
     {
-      "title": "Astra for Law",
-      "url": "https://openai.com/index/astra-for-law/",
-      "score": 352,
-      "by": "vertigoruntime",
-      "time": 1789676268
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 583,
+      "by": "theanonymousone",
+      "time": 1789758189
     },
     {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "score": 263,
-      "by": "JonSchneider",
-      "time": 1789679611
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "score": 9,
+      "by": "jegp",
+      "time": 1789784495
     },
     {
-      "title": "Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe",
-      "url": "https://github.com/aardappel/goose/tree/master",
-      "score": 43,
-      "by": "bobbydigitales",
-      "time": 1789693494
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "score": 604,
+      "by": "jcbhmr",
+      "time": 1789741121
     },
     {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "score": 323,
-      "by": "nicolas-siplis",
-      "time": 1789677373
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "score": 251,
+      "by": "f311a",
+      "time": 1789757506
     },
     {
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "url": "https://github.com/asciimoo/hister",
-      "score": 491,
-      "by": "bookofjoe",
-      "time": 1789662337
+      "title": "Why building a Rust LSP is hard",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "score": 9,
+      "by": "agluszak",
+      "time": 1789599076
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5947,
+      "stars": 5956,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2967,
+      "stars": 2971,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
-      "name": "narrator-ai-cli-skill",
-      "description": "AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用",
-      "stars": 2652,
-      "url": "https://github.com/NarratorAI-Studio/narrator-ai-cli-skill"
+      "name": "linkedin-skills",
+      "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
+      "stars": 2794,
+      "url": "https://github.com/sergebulaev/linkedin-skills"
     }
   ]
 }
