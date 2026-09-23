@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "weather": {
     "city": "Shanghai",
-    "temp": "26",
-    "condition": "Patchy rain nearby",
-    "humidity": "61",
-    "wind": "9"
+    "temp": "29",
+    "condition": "Sunny",
+    "humidity": "50",
+    "wind": "13"
   },
   "news": [
     {
-      "title": "Xiaomi MiMo v2.6",
-      "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "score": 596,
-      "by": "volf_",
-      "time": 1790021532
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "score": 1240,
+      "by": "OfficialTurkey",
+      "time": 1790100034
     },
     {
-      "title": "Spymarks, Not Watermarks",
-      "url": "https://brand.io/article/spymarks/",
-      "score": 167,
-      "by": "possibilistic",
-      "time": 1790031829
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "score": 1266,
+      "by": "km144",
+      "time": 1790094545
     },
     {
-      "title": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "score": 339,
-      "by": "mooreds",
-      "time": 1790029841
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "score": 451,
+      "by": "spenvo",
+      "time": 1790099162
     },
     {
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "score": 226,
-      "by": "aray07",
-      "time": 1790019829
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "score": 580,
+      "by": "sohkamyung",
+      "time": 1790085135
     },
     {
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "score": 514,
-      "by": "chmaynard",
-      "time": 1789999398
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "score": 10,
+      "by": "1659447091",
+      "time": 1790129632
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5969,
+      "stars": 5983,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 3053,
+      "stars": 3325,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 2998,
+      "stars": 3010,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
