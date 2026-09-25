@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
-    "condition": "Patchy rain nearby",
-    "humidity": "56",
-    "wind": "13"
+    "temp": "29",
+    "condition": "Sunny",
+    "humidity": "61",
+    "wind": "12"
   },
   "news": [
     {
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "score": 188,
-      "by": "aaronday",
-      "time": 1790203096
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "score": 986,
+      "by": "daveoc64",
+      "time": 1790263572
     },
     {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 530,
-      "by": "raahelb",
-      "time": 1790186807
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "score": 515,
+      "by": "MitPitt",
+      "time": 1790204008
     },
     {
-      "title": "Feds Target AI Critics as \"Foreign Agents\"",
-      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-      "score": 47,
-      "by": "nmeagent",
-      "time": 1790210491
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 218,
+      "by": "sidharthkmenon",
+      "time": 1790270496
     },
     {
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
-      "score": 258,
-      "by": "polymorph1sm",
-      "time": 1790207276
+      "title": "Jev and System One Models: Calibration Beats Accuracy",
+      "url": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
+      "score": 9,
+      "by": "pansuriyakartik",
+      "time": 1790303061
     },
     {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "score": 72,
-      "by": "JohnHammersley",
-      "time": 1790203549
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "score": 288,
+      "by": "jbotz",
+      "time": 1790266980
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 5992,
+      "stars": 6005,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 3389,
+      "stars": 3457,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3036,
+      "stars": 3195,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
