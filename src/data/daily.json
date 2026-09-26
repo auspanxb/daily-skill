@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "weather": {
     "city": "Shanghai",
-    "temp": "29",
-    "condition": "Sunny",
-    "humidity": "61",
-    "wind": "12"
+    "temp": "27",
+    "condition": "Light rain shower",
+    "humidity": "80",
+    "wind": "14"
   },
   "news": [
     {
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 986,
-      "by": "daveoc64",
-      "time": 1790263572
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "score": 254,
+      "by": "specked-citrus",
+      "time": 1790370567
     },
     {
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "score": 515,
-      "by": "MitPitt",
-      "time": 1790204008
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 357,
+      "by": "Ardakilic",
+      "time": 1790361230
     },
     {
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "score": 218,
-      "by": "sidharthkmenon",
-      "time": 1790270496
+      "title": "Plan mode is dead",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "score": 133,
+      "by": "jmvldz",
+      "time": 1790308751
     },
     {
-      "title": "Jev and System One Models: Calibration Beats Accuracy",
-      "url": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
-      "score": 9,
-      "by": "pansuriyakartik",
-      "time": 1790303061
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "score": 165,
+      "by": "pancomplex",
+      "time": 1790346487
     },
     {
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "score": 288,
-      "by": "jbotz",
-      "time": 1790266980
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "score": 100,
+      "by": "fratellobigio",
+      "time": 1790372216
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6005,
+      "stars": 6017,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 3457,
+      "stars": 3499,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3195,
+      "stars": 3225,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
