@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "weather": {
     "city": "Shanghai",
-    "temp": "27",
-    "condition": "Light rain shower",
-    "humidity": "80",
-    "wind": "14"
+    "temp": "26",
+    "condition": "Patchy rain nearby",
+    "humidity": "83",
+    "wind": "9"
   },
   "news": [
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "score": 254,
-      "by": "specked-citrus",
-      "time": 1790370567
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "score": 177,
+      "by": "silveraxe93",
+      "time": 1790344118
     },
     {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "score": 357,
-      "by": "Ardakilic",
-      "time": 1790361230
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 332,
+      "by": "Qision",
+      "time": 1790333740
     },
     {
-      "title": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "score": 133,
-      "by": "jmvldz",
-      "time": 1790308751
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "score": 171,
+      "by": "shenli3514",
+      "time": 1790446961
     },
     {
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "score": 165,
-      "by": "pancomplex",
-      "time": 1790346487
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "score": 58,
+      "by": "chmaynard",
+      "time": 1790433289
     },
     {
-      "title": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "score": 100,
-      "by": "fratellobigio",
-      "time": 1790372216
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "score": 207,
+      "by": "jpwalsh234",
+      "time": 1790442640
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6017,
+      "stars": 6022,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 3499,
+      "stars": 3556,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3225,
+      "stars": 3246,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
