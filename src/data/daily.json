@@ -1,66 +1,66 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "weather": {
     "city": "Shanghai",
-    "temp": "23",
-    "condition": "Overcast ",
-    "humidity": "80",
-    "wind": "10"
+    "temp": "22",
+    "condition": "Light rain shower",
+    "humidity": "82",
+    "wind": "14"
   },
   "news": [
     {
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "url": "https://github.com/ninjahawk/livenerf",
-      "score": 332,
-      "by": "bryan0",
-      "time": 1790721374
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "score": 1086,
+      "by": "bradleyg223",
+      "time": 1790798677
     },
     {
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "score": 188,
-      "by": "ilamont",
-      "time": 1790710217
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "score": 151,
+      "by": "Bluestein",
+      "time": 1790805784
     },
     {
-      "title": "America.gov",
-      "url": "https://america.gov/",
-      "score": 419,
-      "by": "plesiv",
-      "time": 1790690697
+      "title": "56k.rip – the 1996 dial-up internet experience",
+      "url": "https://56k.rip/",
+      "score": 93,
+      "by": "adunk",
+      "time": 1790806130
     },
     {
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
-      "score": 149,
-      "by": "wanick",
-      "time": 1790708881
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "score": 139,
+      "by": "ibobev",
+      "time": 1790795090
     },
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "score": 827,
-      "by": "crorella",
-      "time": 1790701605
+      "title": "Why the Bronze Age Collapsed",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "score": 117,
+      "by": "AnodicElegy",
+      "time": 1790676618
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6046,
+      "stars": 6060,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 3743,
+      "stars": 3798,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3355,
+      "stars": 3375,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
