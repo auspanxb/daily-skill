@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "weather": {
     "city": "Shanghai",
-    "temp": "22",
-    "condition": "Overcast ",
-    "humidity": "57",
-    "wind": "15"
+    "temp": "17",
+    "condition": "Light rain",
+    "humidity": "88",
+    "wind": "10"
   },
   "news": [
     {
-      "title": "Pi 1.0",
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "score": 867,
-      "by": "sergiotapia",
-      "time": 1790883185
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "score": 56,
+      "by": "azhenley",
+      "time": 1790988925
     },
     {
-      "title": "Several vulnerabilities have been discovered in the Linux kernel",
-      "url": "https://lwn.net/Articles/1097401/",
-      "score": 156,
-      "by": "luispa",
-      "time": 1790896244
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "score": 140,
+      "by": "signa11",
+      "time": 1790950932
     },
     {
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "score": 456,
-      "by": "jasondavies",
-      "time": 1790871537
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "score": 542,
+      "by": "hn_acker",
+      "time": 1790893387
     },
     {
-      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "score": 148,
-      "by": "rafaelc",
-      "time": 1790886207
+      "title": "Things that apparently cause cancer",
+      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "score": 110,
+      "by": "timpera",
+      "time": 1790986991
     },
     {
-      "title": "SvelteKit 3",
-      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "score": 154,
-      "by": "sampsn",
-      "time": 1790885663
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "score": 21,
+      "by": "sdko",
+      "time": 1790989741
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6082,
+      "stars": 6086,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 3922,
+      "stars": 3977,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3390,
+      "stars": 3394,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
