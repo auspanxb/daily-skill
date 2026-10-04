@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "weather": {
     "city": "Shanghai",
-    "temp": "17",
-    "condition": "Light rain",
-    "humidity": "88",
-    "wind": "10"
+    "temp": "20",
+    "condition": "Light drizzle",
+    "humidity": "95",
+    "wind": "13"
   },
   "news": [
     {
-      "title": "Newgrounds.com – A community of games, music, and art",
-      "url": "https://www.newgrounds.com/",
-      "score": 56,
-      "by": "azhenley",
-      "time": 1790988925
+      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "score": 34,
+      "by": "bookofjoe",
+      "time": 1791081262
     },
     {
-      "title": "The Forgetful CPU (Linux on M4)",
-      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "score": 140,
-      "by": "signa11",
-      "time": 1790950932
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "score": 271,
+      "by": "elffjs",
+      "time": 1791073216
     },
     {
-      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "score": 542,
-      "by": "hn_acker",
-      "time": 1790893387
+      "title": "Bob Cringely Has Died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "score": 219,
+      "by": "paveworld",
+      "time": 1791075052
     },
     {
-      "title": "Things that apparently cause cancer",
-      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-      "score": 110,
-      "by": "timpera",
-      "time": 1790986991
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "score": 117,
+      "by": "CosmoWenman",
+      "time": 1791050487
     },
     {
-      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-      "score": 21,
-      "by": "sdko",
-      "time": 1790989741
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "score": 182,
+      "by": "speckx",
+      "time": 1791054888
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6086,
+      "stars": 6090,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 3977,
+      "stars": 4045,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3394,
+      "stars": 3408,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
