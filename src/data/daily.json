@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "weather": {
     "city": "Shanghai",
     "temp": "23",
     "condition": "Sunny",
-    "humidity": "32",
-    "wind": "14"
+    "humidity": "37",
+    "wind": "4"
   },
   "news": [
     {
-      "title": "Open Source as We Know It Is Dead",
-      "url": "https://jross.me/open-source-as-we-know-it-is-dead/",
-      "score": 46,
-      "by": "vinhnx",
-      "time": 1791257505
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 565,
+      "by": "OfficialTurkey",
+      "time": 1791325041
     },
     {
-      "title": "Why Common Lisp Is Now the Best Programming Language",
-      "url": "https://www.vivienhenz.com/common-lisp",
-      "score": 26,
-      "by": "misterchocolat",
-      "time": 1791255111
-    },
-    {
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 369,
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1631,
       "by": "Philpax",
-      "time": 1791227795
+      "time": 1791292549
     },
     {
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "score": 143,
-      "by": "ishan0102",
-      "time": 1791236450
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "score": 55,
+      "by": "gmays",
+      "time": 1791338531
     },
     {
-      "title": "Example.com just launched the biggest redesign in decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "score": 126,
-      "by": "jgx0",
-      "time": 1791240911
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "score": 186,
+      "by": "chiefstorm",
+      "time": 1791320245
+    },
+    {
+      "title": "The cost of lies: A Mineserver story",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "score": 31,
+      "by": "luu",
+      "time": 1791091032
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6102,
+      "stars": 6108,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 4174,
+      "stars": 4257,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3451,
+      "stars": 3466,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
