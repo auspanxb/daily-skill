@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "weather": {
     "city": "Shanghai",
-    "temp": "23",
+    "temp": "24",
     "condition": "Sunny",
-    "humidity": "37",
+    "humidity": "44",
     "wind": "4"
   },
   "news": [
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 565,
-      "by": "OfficialTurkey",
-      "time": 1791325041
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "score": 749,
+      "by": "sfkgtbor",
+      "time": 1791396092
     },
     {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1631,
-      "by": "Philpax",
-      "time": 1791292549
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "score": 995,
+      "by": "muglug",
+      "time": 1791407778
     },
     {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "title": "Living off-grid: Hundred Rabbits",
+      "url": "https://100r.ca/site/home.html",
       "score": 55,
-      "by": "gmays",
-      "time": 1791338531
+      "by": "Muhammad523",
+      "time": 1791234513
     },
     {
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "score": 186,
-      "by": "chiefstorm",
-      "time": 1791320245
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "score": 105,
+      "by": "pavel_lishin",
+      "time": 1791227227
     },
     {
-      "title": "The cost of lies: A Mineserver story",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-      "score": 31,
-      "by": "luu",
-      "time": 1791091032
+      "title": "Cleo (Mathematician)",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "score": 71,
+      "by": "djoldman",
+      "time": 1791312585
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6108,
+      "stars": 6114,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 4257,
+      "stars": 4305,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3466,
+      "stars": 3480,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
