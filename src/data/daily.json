@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "weather": {
     "city": "Shanghai",
     "temp": "24",
-    "condition": "Sunny",
-    "humidity": "44",
-    "wind": "4"
+    "condition": "Partly Cloudy ",
+    "humidity": "48",
+    "wind": "9"
   },
   "news": [
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "score": 749,
-      "by": "sfkgtbor",
-      "time": 1791396092
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "score": 614,
+      "by": "gmays",
+      "time": 1791478779
     },
     {
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "score": 995,
-      "by": "muglug",
-      "time": 1791407778
+      "title": "Reducing undefined behavior in the C language",
+      "url": "https://lwn.net/Articles/1095811/",
+      "score": 42,
+      "by": "signa11",
+      "time": 1791511373
     },
     {
-      "title": "Living off-grid: Hundred Rabbits",
-      "url": "https://100r.ca/site/home.html",
-      "score": 55,
-      "by": "Muhammad523",
-      "time": 1791234513
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "score": 342,
+      "by": "kbyatnal",
+      "time": 1791481909
     },
     {
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
-      "score": 105,
-      "by": "pavel_lishin",
-      "time": 1791227227
+      "title": "Keyboard differences between Windows and Macs",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "score": 26,
+      "by": "sohkamyung",
+      "time": 1791515285
     },
     {
-      "title": "Cleo (Mathematician)",
-      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-      "score": 71,
-      "by": "djoldman",
-      "time": 1791312585
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "score": 502,
+      "by": "ck2",
+      "time": 1791392190
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6114,
+      "stars": 6119,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 4305,
+      "stars": 4366,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3480,
+      "stars": 3492,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
