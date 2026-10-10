@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "weather": {
     "city": "Shanghai",
-    "temp": "24",
-    "condition": "Partly Cloudy ",
-    "humidity": "48",
-    "wind": "9"
+    "temp": "26",
+    "condition": "Patchy rain nearby",
+    "humidity": "55",
+    "wind": "7"
   },
   "news": [
     {
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "url": "https://cactuscompute.com/blog/whistle",
-      "score": 614,
-      "by": "gmays",
-      "time": 1791478779
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "score": 180,
+      "by": "modinfo",
+      "time": 1791592627
     },
     {
-      "title": "Reducing undefined behavior in the C language",
-      "url": "https://lwn.net/Articles/1095811/",
-      "score": 42,
-      "by": "signa11",
-      "time": 1791511373
+      "title": "Cloudflare acquires Deno",
+      "url": "https://deno.com/blog/cloudflare",
+      "score": 1110,
+      "by": "ilreb",
+      "time": 1791551028
     },
     {
-      "title": "Theranos.world",
-      "url": "https://www.theranos.world/",
-      "score": 342,
-      "by": "kbyatnal",
-      "time": 1791481909
+      "title": "Triple-A Minesweeper",
+      "url": "https://minesweeper.mikelacher.com/",
+      "score": 749,
+      "by": "robin_reala",
+      "time": 1791561065
     },
     {
-      "title": "Keyboard differences between Windows and Macs",
-      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "score": 33,
+      "by": "jsomers",
+      "time": 1791557773
+    },
+    {
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
       "score": 26,
-      "by": "sohkamyung",
-      "time": 1791515285
-    },
-    {
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "score": 502,
-      "by": "ck2",
-      "time": 1791392190
+      "by": "ortusdux",
+      "time": 1791400557
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6119,
+      "stars": 6126,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 4366,
+      "stars": 4419,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3492,
+      "stars": 3502,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
