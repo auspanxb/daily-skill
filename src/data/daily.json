@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "weather": {
     "city": "Shanghai",
-    "temp": "25",
-    "condition": "Sunny",
-    "humidity": "53",
-    "wind": "12"
+    "temp": "23",
+    "condition": "Overcast ",
+    "humidity": "66",
+    "wind": "11"
   },
   "news": [
     {
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "score": 148,
-      "by": "TheWaffleHax",
-      "time": 1791679608
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "score": 93,
+      "by": "cainxinth",
+      "time": 1791762634
     },
     {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "score": 53,
-      "by": "davikr",
-      "time": 1791684158
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "score": 412,
+      "by": "jttnr",
+      "time": 1791741887
     },
     {
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "score": 161,
-      "by": "softwaredoug",
-      "time": 1791672610
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "score": 156,
+      "by": "royfish",
+      "time": 1791758019
     },
     {
-      "title": "2D Vehicles",
-      "url": "https://patkerr.co.uk/2d-vehicles/",
-      "score": 383,
-      "by": "Michelangelo11",
-      "time": 1791376240
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "score": 205,
+      "by": "edent",
+      "time": 1791748000
     },
     {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "score": 224,
-      "by": "JumpCrisscross",
-      "time": 1791664310
+      "title": "X Is Bad, Though",
+      "url": "https://lexontech.org/x-is-bad-though",
+      "score": 6,
+      "by": "ayaros",
+      "time": 1791777058
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6129,
+      "stars": 6133,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 4459,
+      "stars": 4517,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3515,
+      "stars": 3520,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
