@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "weather": {
     "city": "Shanghai",
-    "temp": "23",
-    "condition": "Overcast ",
-    "humidity": "66",
-    "wind": "11"
+    "temp": "28",
+    "condition": "Sunny",
+    "humidity": "50",
+    "wind": "14"
   },
   "news": [
     {
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "score": 93,
-      "by": "cainxinth",
-      "time": 1791762634
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "score": 51,
+      "by": "sbulaev",
+      "time": 1791857228
     },
     {
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
-      "score": 412,
-      "by": "jttnr",
-      "time": 1791741887
+      "title": "The baffling intelligence of a single cell (2024)",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "score": 169,
+      "by": "jsomers",
+      "time": 1791716550
     },
     {
-      "title": "Fingerprints are the new cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "score": 156,
-      "by": "royfish",
-      "time": 1791758019
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 491,
+      "by": "ilreb",
+      "time": 1791821505
     },
     {
-      "title": "Cartographers of North Korea (2019)",
-      "url": "https://cartographers-nk.wonyoung.so/",
-      "score": 205,
-      "by": "edent",
-      "time": 1791748000
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "score": 465,
+      "by": "prophittcorey",
+      "time": 1791821590
     },
     {
-      "title": "X Is Bad, Though",
-      "url": "https://lexontech.org/x-is-bad-though",
-      "score": 6,
-      "by": "ayaros",
-      "time": 1791777058
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "score": 130,
+      "by": "hurricanepootis",
+      "time": 1791840935
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6133,
+      "stars": 6136,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 4517,
+      "stars": 4595,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3520,
+      "stars": 3536,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
