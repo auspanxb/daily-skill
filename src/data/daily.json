@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "weather": {
     "city": "Shanghai",
-    "temp": "28",
+    "temp": "23",
     "condition": "Sunny",
-    "humidity": "50",
+    "humidity": "37",
     "wind": "14"
   },
   "news": [
     {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "score": 51,
-      "by": "sbulaev",
-      "time": 1791857228
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 1069,
+      "by": "737max",
+      "time": 1791907396
     },
     {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "score": 169,
-      "by": "jsomers",
-      "time": 1791716550
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 324,
+      "by": "talccc",
+      "time": 1791918708
     },
     {
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "score": 491,
-      "by": "ilreb",
-      "time": 1791821505
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "score": 492,
+      "by": "thm",
+      "time": 1791799777
     },
     {
-      "title": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "score": 465,
-      "by": "prophittcorey",
-      "time": 1791821590
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "score": 585,
+      "by": "Philpax",
+      "time": 1791906596
     },
     {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "score": 130,
-      "by": "hurricanepootis",
-      "time": 1791840935
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "score": 689,
+      "by": "etothet",
+      "time": 1791896532
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6136,
+      "stars": 6142,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 4595,
+      "stars": 4655,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3536,
+      "stars": 3542,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
