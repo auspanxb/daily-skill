@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "weather": {
     "city": "Shanghai",
-    "temp": "22",
-    "condition": "Patchy rain nearby",
-    "humidity": "71",
-    "wind": "15"
+    "temp": "25",
+    "condition": "Overcast ",
+    "humidity": "63",
+    "wind": "20"
   },
   "news": [
     {
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "score": 648,
-      "by": "bigwheels",
-      "time": 1792086459
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 1228,
+      "by": "shekhar101",
+      "time": 1792114365
     },
     {
-      "title": "RPKI now protects 70% of internet routes",
-      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-      "score": 49,
-      "by": "emot",
-      "time": 1792111955
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "score": 44,
+      "by": "wetwater",
+      "time": 1792203668
     },
     {
-      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "score": 60,
-      "by": "0in",
-      "time": 1792107462
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 214,
+      "by": "Anon84",
+      "time": 1792175555
     },
     {
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
-      "score": 525,
-      "by": "themgt",
-      "time": 1792080241
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 708,
+      "by": "ahlCVA",
+      "time": 1792176959
     },
     {
-      "title": "Any window from your Mac, on your iPhone and iPad",
-      "url": "https://github.com/Saffsanity/sill",
-      "score": 11,
-      "by": "chanana",
-      "time": 1792114997
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 121,
+      "by": "gmays",
+      "time": 1792180033
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6151,
+      "stars": 6152,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 4773,
+      "stars": 4822,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3583,
+      "stars": 3603,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
