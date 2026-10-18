@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "weather": {
     "city": "Shanghai",
-    "temp": "25",
+    "temp": "26",
     "condition": "Overcast ",
-    "humidity": "63",
-    "wind": "20"
+    "humidity": "68",
+    "wind": "14"
   },
   "news": [
     {
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "score": 1228,
-      "by": "shekhar101",
-      "time": 1792114365
+      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+      "score": 308,
+      "by": "DeepLogin",
+      "time": 1792286330
     },
     {
-      "title": "Butlerian Jihad",
-      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "score": 44,
-      "by": "wetwater",
-      "time": 1792203668
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "score": 342,
+      "by": "alkyon",
+      "time": 1792193907
     },
     {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "score": 214,
-      "by": "Anon84",
-      "time": 1792175555
+      "title": "Lean Now Ships with Verified Kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "score": 20,
+      "by": "matt_d",
+      "time": 1792131373
     },
     {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 708,
-      "by": "ahlCVA",
-      "time": 1792176959
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "score": 216,
+      "by": "sohkamyung",
+      "time": 1792194451
     },
     {
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "score": 121,
-      "by": "gmays",
-      "time": 1792180033
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 721,
+      "by": "theykk",
+      "time": 1792225285
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6152,
+      "stars": 6156,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 4822,
+      "stars": 4875,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3603,
+      "stars": 3617,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
