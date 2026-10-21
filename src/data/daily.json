@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "weather": {
     "city": "Shanghai",
-    "temp": "25",
-    "condition": "Overcast ",
-    "humidity": "83",
-    "wind": "5"
+    "temp": "18",
+    "condition": "Patchy rain nearby",
+    "humidity": "85",
+    "wind": "17"
   },
   "news": [
     {
-      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-      "score": 184,
-      "by": "jumpocelot",
-      "time": 1792457632
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "score": 607,
+      "by": "pcai",
+      "time": 1792520949
     },
     {
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "score": 400,
-      "by": "jtg",
-      "time": 1792427949
+      "title": "In Hilbert space, all things are quantumly possible",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "score": 17,
+      "by": "unprovable",
+      "time": 1792548255
     },
     {
-      "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
-      "url": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
-      "score": 24,
-      "by": "hnburnsy",
-      "time": 1792460098
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "score": 117,
+      "by": "Bender",
+      "time": 1792534865
     },
     {
-      "title": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "score": 422,
-      "by": "hakonjdjohnsen",
-      "time": 1792400707
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "score": 30,
+      "by": "soheilpro",
+      "time": 1792547248
     },
     {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "score": 71,
-      "by": "ds",
-      "time": 1792452138
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "score": 544,
+      "by": "ilreb",
+      "time": 1792512127
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6228,
+      "stars": 6239,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 4971,
+      "stars": 5007,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3640,
+      "stars": 3661,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
