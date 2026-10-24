@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "weather": {
     "city": "Shanghai",
-    "temp": "21",
-    "condition": "Overcast ",
-    "humidity": "68",
-    "wind": "14"
+    "temp": "20",
+    "condition": "Light rain",
+    "humidity": "93",
+    "wind": "19"
   },
   "news": [
     {
-      "title": "Docker is weird",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "score": 181,
-      "by": "psxuaw",
-      "time": 1792712756
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "score": 756,
+      "by": "Jowsey",
+      "time": 1792774748
     },
     {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "score": 160,
-      "by": "johnbender",
-      "time": 1792709683
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "score": 104,
+      "by": "cowlevel",
+      "time": 1792798217
     },
     {
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "score": 1027,
-      "by": "farrokhi",
-      "time": 1792679558
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "score": 618,
+      "by": "frizlab",
+      "time": 1792758527
     },
     {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "score": 318,
-      "by": "niemandhier",
-      "time": 1792691046
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "score": 115,
+      "by": "Group_B",
+      "time": 1792790507
     },
     {
-      "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
-      "score": 18,
-      "by": "gumby",
-      "time": 1792535063
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "url": "https://block.xyz/dessa",
+      "score": 268,
+      "by": "dsr12",
+      "time": 1792782594
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6251,
+      "stars": 6253,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5091,
+      "stars": 5117,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3698,
+      "stars": 3758,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
