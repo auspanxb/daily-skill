@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "weather": {
     "city": "Shanghai",
     "temp": "20",
-    "condition": "Light rain",
-    "humidity": "93",
-    "wind": "19"
+    "condition": "Light rain shower",
+    "humidity": "89",
+    "wind": "22"
   },
   "news": [
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 756,
-      "by": "Jowsey",
-      "time": 1792774748
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 215,
+      "by": "ltratt",
+      "time": 1792878451
     },
     {
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "score": 104,
-      "by": "cowlevel",
-      "time": 1792798217
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "score": 130,
+      "by": "liotier",
+      "time": 1792871007
     },
     {
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 618,
-      "by": "frizlab",
-      "time": 1792758527
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 266,
+      "by": "bobbydigitales",
+      "time": 1792868815
     },
     {
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
-      "score": 115,
-      "by": "Group_B",
-      "time": 1792790507
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 201,
+      "by": "gnabgib",
+      "time": 1792883514
     },
     {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "url": "https://block.xyz/dessa",
-      "score": 268,
-      "by": "dsr12",
-      "time": 1792782594
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 35,
+      "by": "andsoitis",
+      "time": 1792884799
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6253,
+      "stars": 6272,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5117,
+      "stars": 5148,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3758,
+      "stars": 3802,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
