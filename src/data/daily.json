@@ -1,66 +1,66 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "weather": {
     "city": "Shanghai",
     "temp": "20",
-    "condition": "Light rain shower",
-    "humidity": "89",
-    "wind": "22"
+    "condition": "Sunny",
+    "humidity": "73",
+    "wind": "15"
   },
   "news": [
     {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "score": 215,
-      "by": "ltratt",
-      "time": 1792878451
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "score": 419,
+      "by": "jumploops",
+      "time": 1792952634
     },
     {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
-      "score": 130,
-      "by": "liotier",
-      "time": 1792871007
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "score": 62,
+      "by": "bpierre",
+      "time": 1792970850
     },
     {
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "score": 266,
-      "by": "bobbydigitales",
-      "time": 1792868815
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "score": 156,
+      "by": "speckx",
+      "time": 1792684341
     },
     {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 201,
-      "by": "gnabgib",
-      "time": 1792883514
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "score": 31,
+      "by": "westurner",
+      "time": 1792972325
     },
     {
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "score": 35,
-      "by": "andsoitis",
-      "time": 1792884799
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "score": 145,
+      "by": "jruohonen",
+      "time": 1792955491
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6272,
+      "stars": 6277,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5148,
+      "stars": 5187,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3802,
+      "stars": 3821,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
