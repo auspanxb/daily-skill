@@ -1,67 +1,67 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "weather": {
     "city": "Shanghai",
-    "temp": "20",
-    "condition": "Sunny",
-    "humidity": "53",
-    "wind": "7"
+    "temp": "21",
+    "condition": "Partly Cloudy ",
+    "humidity": "59",
+    "wind": "10"
   },
   "news": [
     {
-      "title": "Git for US Legislation",
-      "url": "https://lexifina.com/blog/git-for-the-us-code",
-      "score": 68,
-      "by": "alansaber",
-      "time": 1793152070
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "score": 189,
+      "by": "csmantle",
+      "time": 1793233545
     },
     {
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "score": 783,
-      "by": "acossta",
-      "time": 1793117161
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "score": 936,
+      "by": "hazebooth",
+      "time": 1793207609
     },
     {
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
       "score": 110,
-      "by": "_Microft",
-      "time": 1792954188
+      "by": "sashk",
+      "time": 1793231146
     },
     {
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "score": 831,
-      "by": "deaux",
-      "time": 1793119882
+      "title": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "score": 145,
+      "by": "frizlab",
+      "time": 1793222001
     },
     {
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "score": 158,
-      "by": "dataking",
-      "time": 1793134242
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "score": 188,
+      "by": "babelfish",
+      "time": 1793230502
     }
   ],
   "skills": [
     {
-      "name": "skills",
-      "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6288,
-      "url": "https://github.com/browser-act/skills"
+      "name": "github",
+      "description": "GitHub CLI 工具 - 管理 issue、PR、actions",
+      "stars": 520,
+      "url": "https://github.com/openclaw/github"
     },
     {
-      "name": "linkedin-skills",
-      "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5273,
-      "url": "https://github.com/sergebulaev/linkedin-skills"
+      "name": "weather",
+      "description": "天气查询 - 无需 API Key",
+      "stars": 380,
+      "url": "https://github.com/openclaw/weather"
     },
     {
-      "name": "nihaixia",
-      "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3859,
-      "url": "https://github.com/jangviktor-web/nihaixia"
+      "name": "gog",
+      "description": "Google Workspace CLI - Gmail, Calendar, Drive",
+      "stars": 320,
+      "url": "https://github.com/openclaw/gog"
     }
   ]
 }
