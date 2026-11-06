@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "weather": {
     "city": "Shanghai",
-    "temp": "18",
-    "condition": "Patchy rain nearby",
-    "humidity": "72",
-    "wind": "19"
+    "temp": "19",
+    "condition": "Overcast",
+    "humidity": "73",
+    "wind": "5"
   },
   "news": [
     {
-      "title": "Residential proxies detected on White House network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "score": 818,
-      "by": "Rasbora",
-      "time": 1793825118
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "score": 741,
+      "by": "motoroco",
+      "time": 1793917035
     },
     {
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "score": 184,
-      "by": "davidbarker",
-      "time": 1793835344
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "score": 2461,
+      "by": "josemrb",
+      "time": 1793881142
     },
     {
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "score": 215,
-      "by": "dangelosaurus",
-      "time": 1793835194
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "score": 393,
+      "by": "kuberwastaken",
+      "time": 1793911422
     },
     {
-      "title": "Starfall – Affordable, routine access to microgravity",
-      "url": "https://www.spacex.com/starfall",
-      "score": 158,
-      "by": "gmays",
-      "time": 1793837898
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "score": 28,
+      "by": "gkapur",
+      "time": 1793934986
     },
     {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "score": 256,
-      "by": "Philpax",
-      "time": 1793818409
+      "title": "Pwn.college",
+      "url": "https://pwn.college/",
+      "score": 22,
+      "by": "tripdout",
+      "time": 1793935634
     }
   ],
   "skills": [
@@ -54,13 +54,13 @@
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5603,
+      "stars": 5648,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 3998,
+      "stars": 4010,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
