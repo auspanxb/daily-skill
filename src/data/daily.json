@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "weather": {
     "city": "Shanghai",
-    "temp": "19",
-    "condition": "Cloudy ",
-    "humidity": "56",
-    "wind": "21"
+    "temp": "18",
+    "condition": "Patchy rain nearby",
+    "humidity": "76",
+    "wind": "14"
   },
   "news": [
     {
-      "title": "Libghostty 1.0",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "score": 359,
-      "by": "mfiguiere",
-      "time": 1794007852
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "score": 419,
+      "by": "LaurensBER",
+      "time": 1794075132
     },
     {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "score": 382,
-      "by": "theanomaly",
-      "time": 1793994531
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "score": 241,
+      "by": "shmulc",
+      "time": 1794084332
     },
     {
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "url": "https://josef.cn/blog/unitree",
-      "score": 63,
-      "by": "josefchen",
-      "time": 1794013516
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "score": 78,
+      "by": "germanrabbit",
+      "time": 1794091138
     },
     {
-      "title": "Tesla to wind down Cybertruck production",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "score": 905,
-      "by": "PLenz",
-      "time": 1793967231
+      "title": "Amsterdam School",
+      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+      "score": 11,
+      "by": "bondarchuk",
+      "time": 1793713819
     },
     {
-      "title": "Lighting the Skies",
-      "url": "https://computer.rip/2026-10-25-searchlights.html",
-      "score": 7,
-      "by": "dverlaeckt80",
-      "time": 1794022834
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "score": 88,
+      "by": "xiaoyu2006",
+      "time": 1794092980
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6329,
+      "stars": 6331,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5688,
+      "stars": 5722,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4023,
+      "stars": 4032,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
