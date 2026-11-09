@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "weather": {
     "city": "Shanghai",
-    "temp": "18",
-    "condition": "Patchy rain nearby",
-    "humidity": "76",
-    "wind": "14"
+    "temp": "12",
+    "condition": "Overcast ",
+    "humidity": "71",
+    "wind": "27"
   },
   "news": [
     {
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "score": 419,
-      "by": "LaurensBER",
-      "time": 1794075132
+      "title": "RIP, Harvest",
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "score": 91,
+      "by": "zdw",
+      "time": 1794189501
     },
     {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "score": 241,
-      "by": "shmulc",
-      "time": 1794084332
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "score": 304,
+      "by": "dcoulmbe",
+      "time": 1794177335
     },
     {
-      "title": "Making any integer with four 2s (2025)",
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "score": 78,
-      "by": "germanrabbit",
-      "time": 1794091138
+      "title": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "score": 145,
+      "by": "infosecau",
+      "time": 1794183050
     },
     {
-      "title": "Amsterdam School",
-      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
-      "score": 11,
-      "by": "bondarchuk",
-      "time": 1793713819
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "score": 139,
+      "by": "nmstoker",
+      "time": 1794177363
     },
     {
-      "title": "GitHub New pull request overview page in public preview",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "score": 88,
-      "by": "xiaoyu2006",
-      "time": 1794092980
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "score": 302,
+      "by": "xmddmx",
+      "time": 1794165632
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6331,
+      "stars": 6339,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5722,
+      "stars": 5747,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4032,
+      "stars": 4041,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
