@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "weather": {
     "city": "Shanghai",
-    "temp": "12",
-    "condition": "Overcast ",
-    "humidity": "71",
-    "wind": "27"
+    "temp": "15",
+    "condition": "Sunny",
+    "humidity": "48",
+    "wind": "16"
   },
   "news": [
     {
-      "title": "RIP, Harvest",
-      "url": "https://aphyr.com/posts/427-rip-harvest",
-      "score": 91,
-      "by": "zdw",
-      "time": 1794189501
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "score": 390,
+      "by": "lairv",
+      "time": 1794247270
     },
     {
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app/",
-      "score": 304,
-      "by": "dcoulmbe",
-      "time": 1794177335
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "score": 569,
+      "by": "munro",
+      "time": 1794254339
     },
     {
-      "title": "Unlocking any car from X brand in most of the world",
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-      "score": 145,
-      "by": "infosecau",
-      "time": 1794183050
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "score": 501,
+      "by": "ocd",
+      "time": 1794240045
     },
     {
-      "title": "Chimera Vocal Synth",
-      "url": "https://chimera-vocal-synth.vercel.app/",
-      "score": 139,
-      "by": "nmstoker",
-      "time": 1794177363
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "url": "https://e-means.github.io/",
+      "score": 330,
+      "by": "porridgeraisin",
+      "time": 1794249943
     },
     {
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "score": 302,
-      "by": "xmddmx",
-      "time": 1794165632
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "score": 923,
+      "by": "vismit2000",
+      "time": 1794226762
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6339,
+      "stars": 6341,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5747,
+      "stars": 5786,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4041,
+      "stars": 4054,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
