@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "weather": {
     "city": "Shanghai",
-    "temp": "15",
-    "condition": "Sunny",
+    "temp": "16",
+    "condition": "Smoky haze",
     "humidity": "48",
-    "wind": "16"
+    "wind": "4"
   },
   "news": [
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 390,
-      "by": "lairv",
-      "time": 1794247270
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "score": 343,
+      "by": "panic",
+      "time": 1794349076
     },
     {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "score": 569,
-      "by": "munro",
-      "time": 1794254339
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "score": 56,
+      "by": "palsecam",
+      "time": 1794362191
     },
     {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "score": 501,
-      "by": "ocd",
-      "time": 1794240045
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "score": 381,
+      "by": "NaOH",
+      "time": 1794340246
     },
     {
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "score": 330,
-      "by": "porridgeraisin",
-      "time": 1794249943
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "score": 725,
+      "by": "p4bl0",
+      "time": 1794328664
     },
     {
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "score": 923,
-      "by": "vismit2000",
-      "time": 1794226762
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "score": 782,
+      "by": "skittleson",
+      "time": 1794324320
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6341,
+      "stars": 6342,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5786,
+      "stars": 5821,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4054,
+      "stars": 4067,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
