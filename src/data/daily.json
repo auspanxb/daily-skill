@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "weather": {
     "city": "Shanghai",
     "temp": "18",
-    "condition": "Patchy rain nearby",
-    "humidity": "79",
-    "wind": "5"
+    "condition": "Light drizzle",
+    "humidity": "87",
+    "wind": "6"
   },
   "news": [
     {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "score": 290,
-      "by": "zenincognito",
-      "time": 1794436463
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "score": 3165,
+      "by": "lldb",
+      "time": 1794491549
     },
     {
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "score": 1015,
-      "by": "ayhanfuat",
-      "time": 1794380597
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "score": 44,
+      "by": "sammatilda",
+      "time": 1794539699
     },
     {
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "score": 764,
-      "by": "super_linear",
-      "time": 1794421298
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "score": 524,
+      "by": "mbStavola",
+      "time": 1794508745
     },
     {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "score": 72,
-      "by": "soheilpro",
-      "time": 1794449471
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "score": 350,
+      "by": "jonbaer",
+      "time": 1794509521
     },
     {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "score": 764,
-      "by": "jbredeche",
-      "time": 1794436266
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "score": 136,
+      "by": "sroussey",
+      "time": 1794524777
     }
   ],
   "skills": [
@@ -54,13 +54,13 @@
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5849,
+      "stars": 5874,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4075,
+      "stars": 4086,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
