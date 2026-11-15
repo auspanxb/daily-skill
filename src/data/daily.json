@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "weather": {
     "city": "Shanghai",
-    "temp": "19",
+    "temp": "18",
     "condition": "Patchy rain nearby",
-    "humidity": "88",
-    "wind": "4"
+    "humidity": "75",
+    "wind": "13"
   },
   "news": [
     {
-      "title": "Ggml v1.0.0",
-      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "score": 80,
-      "by": "cobychapple",
-      "time": 1794623309
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "score": 895,
+      "by": "ls612",
+      "time": 1794691344
     },
     {
-      "title": "FAA issues national ground stop – lifted 4.5 hours later",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "score": 1419,
-      "by": "zulln",
-      "time": 1794603953
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "score": 708,
+      "by": "armcat",
+      "time": 1794678190
     },
     {
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "score": 111,
-      "by": "speckx",
-      "time": 1794624779
-    },
-    {
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders/",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
       "score": 146,
-      "by": "vinhnx",
-      "time": 1794611200
+      "by": "Skyfall106",
+      "time": 1794694969
     },
     {
-      "title": "What Happened to 3Com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "score": 84,
-      "by": "gvieri",
-      "time": 1794613739
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "score": 106,
+      "by": "nobody9999",
+      "time": 1794708054
+    },
+    {
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "score": 241,
+      "by": "umerf",
+      "time": 1794678319
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6350,
+      "stars": 6353,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5905,
+      "stars": 5924,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4098,
+      "stars": 4112,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
