@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "weather": {
     "city": "Shanghai",
-    "temp": "17",
-    "condition": "Cloudy ",
-    "humidity": "58",
-    "wind": "10"
+    "temp": "14",
+    "condition": "Smoky haze",
+    "humidity": "63",
+    "wind": "18"
   },
   "news": [
     {
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "url": "https://www.cs.cmu.edu/learn/",
-      "score": 1138,
-      "by": "pcompeau",
-      "time": 1794861816
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "score": 702,
+      "by": "werrett",
+      "time": 1794949888
     },
     {
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "score": 439,
-      "by": "cwaffles",
-      "time": 1794869900
+      "title": "ID.me terms required for IRS sign-in",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "score": 250,
+      "by": "DeepLogin",
+      "time": 1794963105
     },
     {
-      "title": "BugMeNot has closed",
-      "url": "https://www.bugmenot.com/",
-      "score": 438,
-      "by": "lode",
-      "time": 1794864737
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "score": 247,
+      "by": "slashdev",
+      "time": 1794961078
     },
     {
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "score": 240,
-      "by": "kristjansson",
-      "time": 1794870034
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "score": 1184,
+      "by": "jasondavies",
+      "time": 1794937603
     },
     {
-      "title": "Test/verification technique effectiveness with Astra",
-      "url": "https://danluu.com/astra-testing/",
-      "score": 15,
-      "by": "luu",
-      "time": 1794814431
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "score": 411,
+      "by": "subset",
+      "time": 1794953614
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6367,
+      "stars": 6373,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 5969,
+      "stars": 6003,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4136,
+      "stars": 4149,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
