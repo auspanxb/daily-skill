@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "weather": {
     "city": "Shanghai",
     "temp": "11",
     "condition": "Sunny",
-    "humidity": "31",
+    "humidity": "35",
     "wind": "13"
   },
   "news": [
     {
-      "title": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "score": 640,
-      "by": "yigitdemirag",
-      "time": 1795037647
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
+      "score": 322,
+      "by": "hn-aarvin",
+      "time": 1795131335
     },
     {
-      "title": "Unauthenticated remote code execution in Nginx",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "score": 1251,
-      "by": "speedping",
-      "time": 1795015195
+      "title": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "score": 1018,
+      "by": "wslh",
+      "time": 1795107760
     },
     {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-      "score": 182,
-      "by": "seizethecheese",
-      "time": 1795048185
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "score": 700,
+      "by": "cybermango",
+      "time": 1795109133
     },
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-      "score": 160,
-      "by": "runesoerensen",
-      "time": 1795045970
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "score": 80,
+      "by": "JacobHenner",
+      "time": 1795140069
     },
     {
-      "title": "Unreal Tournament 2004 in the Browser",
-      "url": "https://ut2004.dev/",
-      "score": 90,
-      "by": "TheAceOfHearts",
-      "time": 1795051769
+      "title": "GIMP now has UI tests",
+      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "score": 23,
+      "by": "qtqtqt",
+      "time": 1795147224
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6374,
+      "stars": 6376,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 6036,
+      "stars": 6063,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4168,
+      "stars": 4177,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
