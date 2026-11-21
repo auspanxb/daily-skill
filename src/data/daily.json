@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "weather": {
     "city": "Shanghai",
-    "temp": "11",
+    "temp": "13",
     "condition": "Sunny",
-    "humidity": "35",
-    "wind": "13"
+    "humidity": "36",
+    "wind": "8"
   },
   "news": [
     {
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
-      "score": 322,
-      "by": "hn-aarvin",
-      "time": 1795131335
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "score": 1788,
+      "by": "jasondavies",
+      "time": 1795199594
     },
     {
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "score": 1018,
-      "by": "wslh",
-      "time": 1795107760
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "score": 2476,
+      "by": "iamronaldo",
+      "time": 1795184181
     },
     {
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "score": 700,
-      "by": "cybermango",
-      "time": 1795109133
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "score": 840,
+      "by": "jasondavies",
+      "time": 1795205539
     },
     {
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "url": "https://github.com/openssl/openssl/pull/33652",
-      "score": 80,
-      "by": "JacobHenner",
-      "time": 1795140069
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "score": 185,
+      "by": "CharlesW",
+      "time": 1795213847
     },
     {
-      "title": "GIMP now has UI tests",
-      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
-      "score": 23,
-      "by": "qtqtqt",
-      "time": 1795147224
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "score": 357,
+      "by": "QueensGambit",
+      "time": 1795198671
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6376,
+      "stars": 6381,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 6063,
+      "stars": 6082,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4177,
+      "stars": 4191,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
