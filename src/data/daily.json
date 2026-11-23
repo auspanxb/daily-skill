@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "weather": {
     "city": "Shanghai",
     "temp": "16",
-    "condition": "Sunny",
-    "humidity": "40",
-    "wind": "12"
+    "condition": "Overcast ",
+    "humidity": "62",
+    "wind": "9"
   },
   "news": [
     {
-      "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "score": 32,
-      "by": "zdw",
-      "time": 1795320296
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "score": 289,
+      "by": "SockThief",
+      "time": 1795396431
     },
     {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "score": 798,
-      "by": "rafaelc",
-      "time": 1795208592
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 72,
+      "by": "mmastrac",
+      "time": 1795405764
     },
     {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "score": 908,
-      "by": "g-b-r",
-      "time": 1795271805
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "score": 363,
+      "by": "Retell15",
+      "time": 1795381276
     },
     {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "score": 401,
-      "by": "k__",
-      "time": 1795284139
+      "title": "Masullo on the Riemann Hypothesis",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "score": 133,
+      "by": "xiaoyu2006",
+      "time": 1795345196
     },
     {
-      "title": "Sandwich Simulator",
-      "url": "https://stulle.app/",
-      "score": 92,
-      "by": "subdomain",
-      "time": 1795306079
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "score": 421,
+      "by": "gaws",
+      "time": 1795374634
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6411,
+      "stars": 6418,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 6105,
+      "stars": 6136,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4205,
+      "stars": 4230,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
