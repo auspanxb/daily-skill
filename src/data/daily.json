@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "weather": {
     "city": "Shanghai",
     "temp": "12",
-    "condition": "Partly Cloudy ",
-    "humidity": "40",
-    "wind": "17"
+    "condition": "Smoky haze",
+    "humidity": "31",
+    "wind": "6"
   },
   "news": [
     {
-      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
-      "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
-      "score": 171,
-      "by": "thisislife2",
-      "time": 1795501684
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "score": 449,
+      "by": "E-Reverance",
+      "time": 1795569566
     },
     {
-      "title": "VP ≠ VNP over Every Field [pdf]",
-      "url": "https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf",
-      "score": 16,
-      "by": "petrosagg",
-      "time": 1795505930
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "url": "https://buttons.joshwcomeau.com/",
+      "score": 175,
+      "by": "gaurang_tandon",
+      "time": 1795576987
     },
     {
-      "title": "Ladybird is now in alpha",
-      "url": "https://ladybird.org/posts/alpha/",
-      "score": 1775,
-      "by": "janvdberg",
-      "time": 1795450392
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "score": 148,
+      "by": "gmays",
+      "time": 1795574061
     },
     {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "score": 404,
-      "by": "shaunpud",
-      "time": 1795473149
+      "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
+      "url": "https://github.com/samcorcos/legatum/issues/147",
+      "score": 104,
+      "by": "aanet",
+      "time": 1795582596
     },
     {
-      "title": "Drone Maps of Salvage Yards",
-      "url": "https://salvageyarddrone.wordpress.com/",
-      "score": 63,
-      "by": "uptrails",
-      "time": 1795492828
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "score": 40,
+      "by": "arkits",
+      "time": 1795581108
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6424,
+      "stars": 6426,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 6157,
+      "stars": 6196,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4246,
+      "stars": 4253,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
