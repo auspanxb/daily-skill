@@ -1,66 +1,66 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "weather": {
     "city": "Shanghai",
-    "temp": "12",
-    "condition": "Smoky haze",
-    "humidity": "31",
-    "wind": "6"
+    "temp": "18",
+    "condition": "Sunny",
+    "humidity": "44",
+    "wind": "10"
   },
   "news": [
     {
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "score": 449,
-      "by": "E-Reverance",
-      "time": 1795569566
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "score": 1265,
+      "by": "Kotlopou",
+      "time": 1795633887
     },
     {
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "url": "https://buttons.joshwcomeau.com/",
-      "score": 175,
-      "by": "gaurang_tandon",
-      "time": 1795576987
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "score": 1320,
+      "by": "lxhrstn",
+      "time": 1795627106
     },
     {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-      "score": 148,
-      "by": "gmays",
-      "time": 1795574061
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "score": 19,
+      "by": "joonehur",
+      "time": 1795669979
     },
     {
-      "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
-      "url": "https://github.com/samcorcos/legatum/issues/147",
-      "score": 104,
-      "by": "aanet",
-      "time": 1795582596
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "score": 396,
+      "by": "nb-t",
+      "time": 1795643290
     },
     {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "url": "https://gpu-demo-gallery.pages.dev/",
-      "score": 40,
-      "by": "arkits",
-      "time": 1795581108
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "score": 52,
+      "by": "rguiscard",
+      "time": 1795662048
     }
   ],
   "skills": [
     {
       "name": "skills",
       "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
-      "stars": 6426,
+      "stars": 6427,
       "url": "https://github.com/browser-act/skills"
     },
     {
       "name": "linkedin-skills",
       "description": "Claude skills for LinkedIn. 12 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "stars": 6196,
+      "stars": 6221,
       "url": "https://github.com/sergebulaev/linkedin-skills"
     },
     {
       "name": "nihaixia",
       "description": "倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，八卦，五行，风水，地纪等，总结8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式，蒸馏129条伤寒论 · 23篇金匮 · 72篇黄帝内经 · 神农本草经374种本草（上137/中110/下127） · 1257 例结构化案例 + 243 例叙事医案 · 2,452页讲义。",
-      "stars": 4253,
+      "stars": 4264,
       "url": "https://github.com/jangviktor-web/nihaixia"
     }
   ]
